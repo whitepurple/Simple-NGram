@@ -1,0 +1,317 @@
+Relation Adversarial Network for Low Resource Knowledge Graph Completion 
+Learning to Classify: A Flow-Based Relation Network for Encrypted Traffic Classification
+FiDo: Ubiquitous Fine-Grained WiFi-based Localization for Unlabelled Users via Domain Adaptation
+An Empirical Study of the Use of Integrity Verification Mechanisms for Web Subresources
+Power-Law Graphs Have Minimal Scaling of Kemeny Constant for Random Walks 
+Metric Learning with Equidistant and Equidistributed Triplet-based Loss for Product Image Search
+“What Apps Did You Use?”: Understanding the Long-term Evolution of Mobile App Usage
+OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning
+Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems
+Reinforced Negative Sampling over Knowledge Graph for Recommendation
+Crowd Teaching with Imperfect Labels 
+Directional and Explainable Serendipity Recommendation
+Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration 
+Graph Attention Topic Modeling Network 
+Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network
+The Representativeness of Automated Web Crawls as a Surrogate for Human Browsing
+Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications 
+Privacy-preserving AI Services Through Data Decentralization 
+ASER: A Large-scale Eventuality Knowledge Graph
+Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices
+Facebook Ads Monitor: An Independent Auditing System for Political Ads on Facebook
+Keyword Search over Knowledge Graphs via Static and Dynamic Hub Labelings
+AutoMAP: Diagnose Your Microservice-based Web Applications Automatically 
+Graph Representation Learning via Graphical Mutual Information Maximization
+Apophanies or Epiphanies? How Crawlers Impact Our Understanding of the Web
+Generating Multi-hop Reasoning Questions to Improve Machine Reading Comprehension
+Hierarchical Adaptive Contextual Bandits for Resource Constraint based Recommendation
+Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation
+The Fast and The Frugal: Tail Latency Aware Provisioning for Coping with Load Variations
+Facebook Ads as a Demographic Tool to Measure the Urban-Rural Divide
+Efficient Maximal Balanced Clique Enumeration in Signed Networks
+Text-to-SQL Generation for Question Answering on Electronic Medical Records
+Searching for Polarization in Signed Graphs: A Local Spectral Approach
+Multi-Objective Ranking Optimization for Product Search Using Stochastic Label Aggregation
+Open Knowledge Enrichment for Long-tail Entities 
+Dirty Clicks: A Study of the Usability and Security Implications of Click-related Behaviors on the Web
+Adversarial Bandits Policy for Crawling Commercial Web Content
+Generating Clarifying Questions for Information Retrieval
+MetaNER: Named Entity Recognition with Meta-Learning 
+HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction 
+Beyond Rank-1: Discovering Rich Community Structure in Multi-Aspect Graphs
+Off-policy Learning in Two-stage Recommender Systems
+Selective Weak Supervision for Neural Information Retrieval
+TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network
+A Generalized and Fast-converging Non-negative Latent Factor Model for Predicting User Preferences in Recommender Systems
+Deep Adversarial Completion for Sparse Heterogeneous Information Network Embedding
+Learning the Structure of Auto-Encoding Recommenders 
+StageNet: Stage-Aware Neural Networks for Health Risk Prediction
+Clinical Report Auto-completion 
+Deep Global and Local Generative Model for Recommendation
+Comparing the Effects of DNS, DoT, and DoH on Web Performance
+Flowless: Extracting Densest Subgraphs Without Flow Computations
+CellRep: Usage Representativeness Modeling and Correction Based on Multiple CityScale Cellular Networks 
+Why Do Competitive Markets Converge to First-Price Auctions? 
+Frozen Binomials on the Web: Word Ordering and Language Conventions in Online Text
+Snippext: Semi-supervised Opinion Mining with Augmented Data
+paper2repo: GitHub Repository Recommendation for Academic Papers 
+High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking
+Adaptive Probabilistic Word Embedding 
+Conversational Contextual Bandit: Algorithm and Application
+Adversarial Attacks on Graph Neural Networks via Node Injections: A Hierarchical Reinforcement Learning Approach
+Efficient Implicit Unsupervised Text Hashing using Adversarial Autoencoder
+LightRec: A Memory and Search-Efficient Recommender System 
+Clustering in Graphs and Hypergraphs with Categorical Edge Labels 
+Few-Sample and Adversarial Representation Learning for Continual Stream Mining 
+Field-aware Calibration: A Simple and Empirically Strong Method for Reliable Probabilistic Predictions 
+Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning 
+Multiple Knowledge Syncretic Transformer for Natural Dialogue Generation 
+JSCleaner: De-Cluttering Mobile Webpages Through JavaScript Cleanup
+Conquering Cross-source Failure for News Credibility: Learning Generalizable Representations beyond Content Embedding
+Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network
+Fast Generating A Large Number of Gumbel-Max Variables
+Don't Count Me Out: On the Relevance of IP Address in theTracking Ecosystem
+Go See a Specialist? Predicting Cybercrime Sales on Online Anonymous Markets from Vendor and Product Characteristics 
+Adversarial Multimodal Representation Learning for Click-Through Rate Prediction
+Dual Learning for Explainable Recommendation: Towards Unifying User Preference Prediction and Review Generation
+The Chameleon Attack: Manipulating Content Display in Online Social Media
+A Generic Solver Combining Unsupervised Learning and Representation Learning for Breaking Text-Based Captchas
+Dynamic Composition for Conversational Domain Exploration 
+Deconstructing Google's Web Light Service
+A First Look at Commercial 5G Performance on Smartphones 
+Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices 
+Adversarial Attack on Community Detection by Hiding Individuals
+Modeling Users’ Behavior Sequences with Hierarchical Explainable Network for Crossdomain Fraud Detection
+Valve: Securing Function Workflows on Serverless Computing Platforms 
+Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning
+Identifying Referential Intention with Heterogeneous Contexts 
+PG2S+: Stack Distance Construction Using Popularity, Gap and Machine Learning
+SMART-KG: Hybrid Shipping for SPARQL Querying on the Web 
+Learning from Cross-Modal Behavior Dynamics with Graph-Regularized Neural Contextual Bandit
+Read Between the Lines: An Empirical Measurement of Sensitive Applications of Voice Personal Assistant Systems
+A Kernel of Truth: Determining Rumor Veracity on Twitter by Diffusion Pattern Alone
+Patient-Trial Matching with Deep Embedding and Entailment Prediction
+Weakly Supervised Attention for Hashtag Recommendation using Graph Data
+Real-Time Clustering for Large Sparse Online Visitor Data
+Smaller, Faster & Lighter KNN Graph Constructions 
+Automatic Boolean Query Formulation for Systematic Review Literature Search
+Traffic Flow Prediction via Spatial Temporal Graph Neural Network
+Personalized Ranking with Importance Sampling
+Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases
+What is Normal, What is Strange, and What is Missing in a Knowledge Graph: Unified Characterization via Inductive Summarization
+Intention Modeling from Ordered and Unordered Facets for Sequential Recommendation
+Learning to Respond with Stickers: A Framework of Unifying Multi-Modality in MultiTurn Dialog 
+Dynamic Graph Convolutional Networks for Entity Linking
+Leading Conversational Search by Suggesting Useful Questions
+De-Kodi: Understanding the Kodi Ecosystem
+Attention Please: Your Attention Check Questions in Survey Studies Can Be Automatically Answered
+FairRec: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms
+Complex Factoid Question Answering with a Free-Text Knowledge Graph 
+Leveraging Sentiment Distributions to Distinguish Figurative From Literal Health Reports on Twitter 
+Reputation Agent: Prompting Fair Reviews in Gig Markets
+Becoming the Super Turker:Increasing Wages via a Strategy from High Earning Workers
+GraphGen: A Scalable Approach to Domain-agnostic Labeled Graph Generation
+A Category-Aware Deep Model for Successive POI Recommendation on Sparse Checkin Data
+Beyond the Front Page:Measuring Third Party Dynamics in the Field 
+Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks 
+Novel Entity Discovery from Web Tables 
+Abstractive Snippet Generation 
+AutoNav: Evaluation and Automatization of Web Navigation Policies
+Learning Contextualized Document Representations for Healthcare Answer Retrieval
+Broccoli: Sprinkling Lightweight Vocabulary Learning into Everyday Information Diets
+What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities
+The Automated Copywriter: Algorithmic Rephrasing of Health-Related Advertisements to Improve their Performance 
+Finding Large Balanced Subgraphs in Signed Networks
+Modeling Heterogeneous Statistical Patterns in High-dimensional Data by Adversarial Distributions: An Unsupervised Generative Framework
+Structural Deep Clustering Network
+Traveling the token world: A graph analysis of Ethereum ERC20 token ecosystem
+Towards IP-based Geolocation via Fine-grained and Stable Webcam Landmarks 
+Keeping out the Masses: Understanding the Popularity and Implications of Internet Paywalls 
+Discovering Mathematical Objects of Interest—A Study of Mathematical Notations 
+Unsupervised Domain Adaptive Graph Convolutional Networks 
+Query-Efficient Correlation Clustering 
+Stop tracking me Bro! Differential Tracking of User Demographics on Hyper-Partisan Websites
+How Do We Create a Fantabulous Password? 
+What Changed Your Mind: The Roles of Dynamic Topics and Discourse in Argumentation Process 
+Ten Social Dimensions of Conversations and Relationships 
+Social Interactions or Business Transactions?What customer reviews disclose about Airbnb marketplace
+Correcting Knowledge Base Assertions
+The POLAR Framework: Polar Opposites Enable Interpretability of Pre-Trained Word Embeddings
+Designing Fairly Fair Classifiers Via Economic Fairness Notions
+Stable Model Semantics for Recursive SHACL
+Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding 
+Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles
+Keywords Generation Improves E-Commerce Session-based Recommendation
+TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data
+An Intent-Based Automation Framework for Securing Dynamic Consumer IoT Infrastructures
+Inferring Passengers’ Interactive Choices on Public Transits via MA-AL: Multi-Agent Apprenticeship Learning
+Personalized Employee Training Course Recommendation with Career Development Awareness
+Efficient Neural Interaction Function Search for Collaborative Filtering 
+Early Detection of User Exits from Clickstream Data: A Markov Modulated Marked Point Process Model
+Filter List Generation for Underserved Regions
+Improving Learning Outcomes with Gaze Tracking and Automatic Question Generation
+REST: Robust and Efficient Neural Networks for Sleep Monitoring in the Wild
+MadDroid: Characterizing and Detecting Devious Ad Contents for Android Apps
+Mobile App Squatting
+Sub-linear RACE Sketches for Approximate Kernel Density Estimation on Streaming Data
+LOVBench: Ontology Ranking Benchmark
+Adaptive Low-level Storage of Very Large Knowledge Graphs
+Generating Representative Headlines for News Stories 
+Adversarial Cooperative Imitation Learning for Dynamic Treatment Regimes
+A Data-Driven Metric of Incentive Compatibility
+Modeling and Aggregation of Complex Annotations via Annotation Distances 
+#Outage: Detecting Power and Communication Outages from Social Networks
+LOREM: Language-consistent Open Relation Extraction from Unstructured Text
+DyCRS: Dynamic Interpretable Postoperative Complication Risk Scoring
+OpenCrowd: A Human-AI Collaborative Approach for Finding Social Influencers via Open-Ended Answers Aggregation
+Correcting for Selection Bias in Learning-to-rank Systems
+The Pod People: Understanding Manipulation of Social Media Popularity via Reciprocity Abuse
+Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction 
+Context-Aware Document Term Weighting for Ad-Hoc Search
+NetTaxo: Automated Topic Taxonomy Construction from Text-Rich Network
+Do Podcasts and Music Compete with One Another? Understanding Users’ Audio Streaming Habits 
+Near-Perfect Recovery in the One-Dimensional Latent Space Model
+Finding a Choice in a Haystack: Automatic Extraction of Opt-Out Statements from Privacy Policy Text
+eDarkFind: Unsupervised Multi-view Learning for Sybil Account Detection
+Provably and Efficiently Approximating Near-cliques using the Turán Shadow: PEANUTS
+Differentially Private Stream Processing for the Semantic Web
+Learning to Hash with Graph Neural Networks for Recommender Systems
+Edge formation in Social Networks to Nurture Content Creators
+Open Intent Extraction from Natural Language Interactions 
+Efficient Algorithms towards Network Intervention
+Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus 
+Expanding Taxonomies with Implicit Edge Semantics 
+Herding a Deluge of Good Samaritans: How GitHub Projects Respond to Increased Attention
+Don't Let Me Be Misunderstood:Comparing Intentions and Perceptions in Online Discussions 
+Discovering Strategic Behaviors for Collaborative Content-Production in Social Networks
+Seeding Network Influence in Biased Networks and the Benefits of Diversity 
+Liquidity in Credit Networks with Constrained Agents 
+Dark Matter: Uncovering the DarkComet RAT Ecosystem
+Discriminative Topic Mining via Category-Name Guided Text Embedding
+Designing for Trust: A Behavioral Framework for Sharing Economy Platforms
+A Generic Edge-Empowered Graph Convolutional Network via Node-Edge Mutual Enhancement
+Algorithmic Effects on the Diversity of Consumption on Spotify
+NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction 
+Clustering and Constructing User Coresets to Accelerate Large-scale Top-K Recommender Systems 
+Guiding Corpus-based Set Expansion by Auxiliary Sets Generation and Co-Expansion 
+Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation
+An End-to-end Topic-Enhanced Self-Attention Network for Social Emotion Classification
+When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System 
+Domain Adaptive Multi-Modality Neural Attention Network for Financial Forecasting
+Collective Multi-type Entity Alignment Between Knowledge Graphs
+Characterizing Search-Engine Traffic to Internet Research Agency Web Properties 
+Understanding Electricity-Theft Behavior via Multi-Source Data
+Understanding the Performance Costs and Benefits of Privacy-focused Browser Extensions
+Estimate the Implicit Likelihoods of GANs with Application to Anomaly Detection
+RLPer: A Reinforcement Learning Model for Personalized Search
+Leveraging Code Generation to Improve Code Retrieval and Summarization via Dual Learning
+Hierarchically Structured Transformer Networks for Fine-Grained Spatial Event Forecasting 
+MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding 
+Mining Points-of-Interest for Explaining Urban Phenomena: A Scalable Variational Inference Approach
+Large-Scale Talent Flow Embedding for Company Competitive Analysis
+Quantifying Engagement with Citations on Wikipedia
+Condition Aware and Revise Transformer for Question Answering
+In Opinion Holders’ Shoes: Modeling Cumulative Influence for View Change in Online Argumentation
+Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation
+Domain-Guided Task Decomposition with Self-Training for Detecting Personal Events in Social Media 
+Leveraging Passage-level Cumulative Gain for Document Ranking 
+Towards Hybrid Human-AI Workflows for Unknown Unknown Detection 
+Examining Protest as An Intervention to Reduce Online Prejudice: A Case Study of Prejudice Against Immigrants 
+Interpretable Complex Question Answering
+Practical Data Poisoning Attack against Next-Item Recommendation
+Efficient Online Multi-Task Learning via Adaptive Kernel Selection 
+Few-Shot Learning for New User Recommendation in Location-based Social Networks 
+Ad Hoc Table Retrieval using Intrinsic and Extrinsic Similarities 
+Leveraging Context for Neural Question Generation in Open-domain Dialogue Systems
+Higher-Order Label Homogeneity and Spreading in Graphs
+Enhanced-RCNN: An Efficient Method for Learning Sentence Similarity
+MetaSelector: Meta-Learning for Recommendation with User-Level Adaptive Model Selection
+TransModality: An End2End Fusion Method with Transformer for Multimodal Sentiment Analysis 
+Recommending Themes for Ad Creative Design via Visual-Linguistic Representations
+Attentive Sequential Models of Latent Intent for Next Item Recommendation
+Latent Linear Critiquing for Conversational Recommender Systems
+A Multimodal Variational Encoder-Decoder Framework for Micro-video Popularity Prediction 
+Graph-Query Suggestions for Knowledge Graph Exploration 
+Visual Concept Naming: Discovering Well-Recognized Textual Expressions of Visual Concepts
+Hierarchical Visual-aware Minimax Ranking Based on Co-purchase Data for Personalized Recommendation
+A Cue Adaptive Decoder for Controllable Neural Response Generation 
+Unsupervised Dual-Cascade Learning with Pseudo-Feedback Distillation for QueryFocused Extractive Summarization 
+Extracting Knowledge from Web Text with Monte Carlo Tree Search
+IART: Intent-aware Response Ranking with Transformers in Information-seeking Conversation Systems
+ResQueue: A Smarter Datacenter Flow Scheduler 
+PARS: Peers-aware Recommender System
+Fast Computation of Explanations for Inconsistency in Large-Scale Knowledge Graphs 
+Review-guided Helpful Answer Identification in E-commerce
+How Much and When Do We Need Higher-order Information in Hypergraphs? A Case Study on Hyperedge Prediction
+Multi-Context Attention for Entity Matching 
+Dolphin: A Spoken Language Proficiency Assessment System for Elementary Education
+Twitter User Location Inference Based on Representation Learning and Label Propagation
+The Structure of Social Influence in Recommender Networks 
+A Multi-task Learning Framework for Road Attribute Updating via Joint Analysis of Map Data and GPS Traces 
+Predicting Drug Demand with Wikipedia Views: Evidence from Darknet Markets
+Private Data Manipulation in Optimal Sponsored Search Auction
+Active Domain Transfer on Network Embedding 
+To be Tough or Soft: Measuring the Impact of Counter-Ad-blocking Strategies on User Engagement
+Just SLaQ When You Approximate: Accurate Spectral Distances for Web-Scale Graphs 
+Heterogeneous Graph Transformer
+On the Robustness of Cascade Diffusion under Node Attacks
+Certified Robustness of Community Detection against Adversarial Structural Perturbation via Randomized Smoothing
+Stabilizing Neural Search Ranking Models 
+Evolution of a Web-Scale Near Duplicate Image Detection System
+A Feedback Shift Correction in Predicting Conversion Rates under Delayed Feedback
+Deconstruct Densest Subgraphs
+Anchored Model Transfer and Soft Instance Transfer for Cross-Task Cross-Domain Learning: A Study Through Aspect-Level Sentiment Classification
+Scaling PageRank to 100 Billion Pages
+Exploiting Aesthetic Preference in Deep Cross Networks for Cross-domain Recommendation
+Large-scale Causal Approaches to Debiasing Post-click Conversion Rate Estimation with Multi-task Learning 
+ROSE: Role-based Signed Network Embedding
+Natural Key Discovery in Wikipedia Tables 
+Negative Purchase Intent Identification in Twitter 
+War of Words: The Competitive Dynamics of Legislative Processes
+Deep Rating Elicitation for New Users in Collaborative Filtering
+Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning
+Asymptotic Behavior of Sequence Models
+Clustering with a Faulty Oracle
+Matching Cross Network for Learning to Rank in Personal Search 
+RLIRank: Learning to Rank with Reinforcement Learning for Dynamic Search
+Reducing Disparate Exposure in Ranking: A Learning To Rank Approach
+Natural Language Annotations for Search Engine Optimization
+Graph Enhanced Representation Learning for News Recommendation
+End-to-End Deep Attentive Personalized Item Retrieval for Online Content-sharing Platforms 
+Multimodal Post Attentive Profiling for Influencer Marketing 
+Voice-based Reformulation of Community Answers 
+VRoC: Variational Autoencoder-aided Multi-task Rumor Classifier Based on Text
+Detecting Undisclosed Paid Editing in Wikipedia
+Bursts of Activity: Temporal Patterns of Help-Seeking and Support in Online Mental Health Forums 
+Envy, Regret, and Social Welfare Loss
+ShapeVis: High-dimensional Data Visualization at Scale
+Using Cliques with Higher-order Spectral Embeddings Improves Graph Visualizations 
+Distant Supervision for Multi-Stage Fine-Tuning in Retrieval-Based Question Answering
+NCVis: Noise Contrastive Approach for Scalable Visualization
+I've Got Your Packages: Harvesting Customers’ Delivery Order Information using Package Tracking Number Enumeration Attacks
+Crowdsourcing Detection of Sampling Biases in Image Datasets 
+Don't Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing
+Addressing the Target Customer Distortion Problem in Recommender Systems
+Quantifying Community Characteristics of Maternal Mortality Using Social Media 
+Adaptive Hierarchical Translation-based Sequential Recommendation
+What Sparks Joy: The AffectVec Emotion Database 
+LSF-Join: Locality Sensitive Filtering for Distributed All-Pairs Set Similarity Under Skew
+Analyzing the Use of Audio Messages in WhatsApp Groups 
+Understanding User Behavior For Document Recommendation
+Influence Function based Data Poisoning Attacks to Top-N Recommender Systems 
+Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network
+Are These Comments Triggering? Predicting Triggers of Toxicity in Online Discussions 
+Sampling Query Variations for Learning to Rank to Improve Automatic Boolean Query Generation in Systematic Reviews
+Learning Temporal Interaction Graph Embedding via Coupled Memory Networks
+Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction
+An Empirical Study of Android Security Bulletinsin Different Vendors 
+One2Multi Graph Autoencoder for Multi-view Graph Clustering
+Improved Touch-screen Inputting Using Sequence-level Prediction Generation 
+P-Simrank: Extending Simrank to Scale-Free Bipartite Networks 
+Using Facebook Data to Measure Cultural Distance between Countries: The Case of Brazilian Cuisine
+Structure-Feature based Graph Self-adaptive Pooling
+Solving Billion-Scale Knapsack Problems
+MineThrottle: Defending against Wasm In-Browser Cryptojacking
+One Picture Is Worth a Thousand Words? The Pricing Power of Images in e-Commerce 
+Learning Model-Agnostic Counterfactual Explanations for Tabular Data 
+Domain Adaptation with Category Attention Network for Deep Sentiment Analysis

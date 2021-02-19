@@ -1,0 +1,58 @@
+Enriching Word Embeddings with Temporal and Spatial Information.
+Interpreting Attention Models with Human Visual Attention in Machine Reading Comprehension.
+Neural Proof Nets.
+TaxiNLI: Taking a Ride up the NLU Hill.
+Modeling Subjective Assessments of Guilt in Newspaper Crime Narratives.
+On The Frailty of Universal POS Tags for Neural UD Parsers.
+Classifying Syntactic Errors in Learner Language.
+How to Probe Sentence Embeddings in Low-Resource Languages: On Structural Design Choices for Probing Task Evaluation.
+Understanding the Source of Semantic Regularities in Word Embeddings.
+Finding The Right One and Resolving it.
+Bridging Information-Seeking Human Gaze and Machine Reading Comprehension.
+A Corpus of Very Short Scientific Summaries.
+Recurrent babbling: evaluating the acquisition of grammar from limited input data.
+A simple repair mechanism can alleviate computational demands of pragmatic reasoning: simulations and complexity analysis.
+Acquiring language from speech by learning to remember and predict.
+Identifying Incorrect Labels in the CoNLL-2003 Corpus.
+When is a bishop not like a rook? When it's like a rabbi! Multi-prototype BERT embeddings for estimating semantic relationships.
+Processing effort is a poor predictor of cross-linguistic word order frequency.
+Relations between comprehensibility and adequacy errors in machine translation output.
+Cross-lingual Embeddings Reveal Universal and Lineage-Specific Patterns in Grammatical Gender Assignment.
+Modelling Lexical Ambiguity with Density Matrices.
+Catplayinginthesnow: Impact of Prior Segmentation on a Model of Visually Grounded Speech.
+Learning to ground medical text in a 3D human atlas.
+Representation Learning for Type-Driven Composition.
+Word Representations Concentrate and This is Good News!.
+``LazImpa'': Lazy and Impatient neural agents learn to communicate efficiently.
+Re-solve it: simulating the acquisition of core semantic competences from small data.
+In Media Res: A Corpus for Evaluating Named Entity Linking with Creative Works.
+Analogies minus analogy test: measuring regularities in word embeddings.
+Word associations and the distance properties of context-aware word embeddings.
+TrClaim-19: The First Collection for Turkish Check-Worthy Claim Detection with Annotator Rationales.
+Discourse structure interacts with reference but not syntax in neural language models.
+Continual Adaptation for Efficient Machine Communication.
+Diverse and Relevant Visual Storytelling with Scene Graph Embeddings.
+Alleviating Digitization Errors in Named Entity Recognition for Historical Documents.
+Analysing Word Representation from the Input and Output Embeddings in Neural Network Language Models.
+On the Computational Power of Transformers and Its Implications in Sequence Modeling.
+An Expectation Maximisation Algorithm for Automated Cognate Detection.
+Filler-gaps that neural networks fail to generalize.
+Don’t Parse, Insert: Multilingual Semantic Parsing with Insertion Based Decoding.
+Learning Context-free Languages with Nondeterministic Stack RNNs.
+Generating Narrative Text in a Switching Dynamical System.
+What Are You Trying to Do? Semantic Typing of Event Processes.
+A Corpus for Outbreak Detection of Diseases Prevalent in Latin America.
+Are Pretrained Language Models Symbolic Reasoners over Knowledge?
+Understanding Linguistic Accommodation in Code-Switched Human-Machine Dialogues.
+Identifying robust markers of Parkinson’s disease in typing behaviour using a CNN-LSTM network.
+An Empirical Study on Model-agnostic Debiasing Strategies for Robust Natural Language Inference.
+Cloze Distillation: Improving Neural Language Models with Human Next-Word Predictions.
+Disentangling dialects: a neural approach to Indo-Aryan historical phonology and subgrouping.
+A Dataset for Linguistic Understanding, Visual Evaluation, and Recognition of Sign Languages: The K-RSL.
+From Dataset Recycling to Multi-Property Extraction and Beyond.
+How well does surprisal explain N400 amplitude under different experimental conditions?
+Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations.
+Dynamic Data Selection for Curriculum Learning via Ability Estimation.
+From Language to Language-ish: How Brain-Like is an LSTM's Representation of Nonsensical Language Stimuli?
+Investigating Transferability in Pretrained Language Models.
+Pragmatic Issue-Sensitive Image Captioning.

@@ -1,0 +1,112 @@
+A Cascade Approach to Neural Abstractive Summarization with Content Selection and Fusion 
+A General Framework for Adaptation of Neural Machine Translation to Simultaneous Translation 
+A Mixture-of-Experts Model for Learning Multi-Facet Entity Embeddings 
+A Simple and Effective Usage of Word Clusters for CBOW Model 
+A Simple Text-based Relevant Location Prediction Method using Knowledge Base 
+A Survey of the State of Explainable AI for Natural Language Processing 
+A Systematic Characterization of Sampling Algorithms for Open-ended Language Generation 
+A Transformer-based Approach for Predicting Chemical Compound Structures 
+A Unified Framework for Multilingual and Code-Mixed Visual Question Answering 
+All-in-One: A Deep Attentive Multi-task Learning Framework for Humour, Sarcasm, Offensive, Motivation, and Sentiment on Memes 
+AMR quality rating with a lightweight CNN 
+An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks 
+An Exploratory Study on Multilingual Quality Estimation 
+Analysis of Hierarchical Multi-Content Text Classification Model on B-SHARP Dataset for Early Detection of Alzheimer’s Disease 
+Answering Product-related Questions with Heterogeneous Information 
+Are scene graphs good enough to improve Image Captioning? 
+Asking Crowdworkers to Write Entailment Examples: The Best of Bad Options 
+ÁTT#AC: A Benchmark for Low-Level Adversarial Attacks 
+Autoencoding Improves Pre-trained Word Embeddings 
+BCTH: A Novel Text Hashing Approach via Bayesian Clustering 
+BERT-Based Neural Collaborative Filtering and Fixed-Length Contiguous Tokens Explanation 
+Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer 
+Bilingual Subword Segmentation for Neural Machine Translation 
+Building Location Embeddings from Physical Trajectories and Textual Representations 
+Can Monolingual Pretrained Models Help Cross-Lingual Classification? 
+CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters 
+Chinese Content Scoring: Open-Access Datasets and Features on Different Segmentation Levels 
+Chinese Grammatical Correction Using BERT-based Pre-trained Model 
+Comparing Probabilistic, Distributional and Transformer-Based Models on Logical Metonymy Interpretation 
+Compressing Pre-trained Language Models by Matrix Decomposition 
+Contextualized End-to-End Neural Entity Linking 
+Cue Me In: Content-Inducing Approaches to Interactive Story Generation 
+Curious case of Language Generation Evaluation Metrics: A Cautionary Tale 
+DAPPER: Learning Domain-Adapted Persona Representation Using Pretrained BERT and External Memory 
+Deep Inside-outside Recursive Autoencoder with All-span Objective 
+Energy-based Self-attentive Learning of Abstractive Communities for Spoken Language Understanding 
+English Intermediate-Task Training Improves Zero-Shot Cross-Lingual Transfer Too 
+English-to-Chinese Transliteration with Phonetic Auxiliary Task 
+Event Coreference Resolution with Rich Knowledge Sources 
+ExpanRL: Hierarchical Reinforcement Learning for Course Concept Expansion in MOOCs 
+Explaining Word Embeddings via Disentangled Representation 
+Exploiting WordNet Synset and Hypernym Representations for Answer Selection 
+FERNet: Fine-grained Extraction and Reasoning Network for Emotion Recognition in Dialogues 
+Generating Commonsense Explanation by Extracting Bridge Concepts from Reasoning Paths 
+Generating Sports News from Live Commentary: A Chinese Dataset for Sports Game Summarization 
+Graph Attention Network with Memory Fusion for Aspect-level Sentiment Analysis 
+Grounded PCFG Induction with Images 
+Happy Are Those Who Grade without Seeing: A Multi-Task Learning Approach to Grade Essays Using Gaze Behaviour 
+Heads-up! Unsupervised Constituency Parsing via Self-Attention Heads 
+Hidden Message Generation: A Task Challenge and a Corpus 
+High-order Refining for End-to-end Chinese Semantic Role Labeling 
+Identifying Implicit Quotes for Unsupervised Extractive Summarization of Conversations 
+Improving Context Modeling in Neural Topic Segmentation 
+IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding 
+Intent Detection with WikiHow 
+Investigating Learning Dynamics of BERT Fine-Tuning 
+Knowledge-Enhanced Named Entity Disambiguation for Short Text 
+Learning Goal-oriented Dialogue Policy with Opposite Agent Awareness 
+Leveraging Structured Metadata for Improving Question Answering on the Web 
+Lightweight Text Classifier using Sinusoidal Positional Encoding 
+Liputan6: A Large-scale Indonesian Dataset for Text Summarisation 
+MaP: A Matrix-based Prediction Approach to Improve Span Extraction in Machine Reading Comprehension 
+Massively Multilingual Document Alignment with Cross-lingualSentence-Mover’s Distance 
+Measuring What Counts: The case of Rumour Stance Classification 
+Mixed-Lingual Pre-training for Cross-lingual Summarization 
+Modality-Transferable Emotion Embeddings for Low-Resource Multimodal Emotion Recognition 
+Modeling Event Salience in a Narrative Based on Barthes’ Cardinal Function 
+More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction 
+Multimodal Pretraining for Dense Video Captioning 
+Multi-Source Attention for Unsupervised Domain Adaptation 
+Multi-view Classification Model for Knowledge Graph Completion 
+Named Entity Recognition in Multi-level Contexts 
+Neural Gibbs Sampling for Joint Event Argument Extraction 
+Neural RST-based Evaluation of Discourse Coherence 
+Point-of-Interest Oriented Question Answering with Joint Inference of Semantic Matching and Distance Correlation 
+Point-of-Interest Type Inference from Social Media Text 
+Predicting and Using Target Length in Neural Machine Translation 
+Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes 
+Reconstructing Event Regions for Event Extraction via Graph Attention Networks 
+Retrieving Skills from Job Descriptions: A Language Model Based Extreme Multi-label Classification Framework 
+Robustness and Reliability of Gender Bias Assessment in Word Embeddings: The Role of Base Pairs 
+Rumor Detection on Twitter Using Multiloss Hierarchical BiLSTM with an Attenuation Factor 
+Second-Order Neural Dependency Parsing with Message Passing and End-to-End Training 
+Self-Supervised Learning for Pairwise Data Refinement 
+Semi-Supervised Dependency Parsing with Arc-Factored Variational Autoencoding 
+SentiRec: Sentiment Diversity-aware Neural News Recommendation 
+SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation 
+Sina Mandarin Alphabetical Words:A Web-driven Code-mixing Lexical Resource 
+STIL - Simultaneous Slot Filling, Translation, Intent Classification, and Language Identification: Initial Results using mBART on MultiATIS++ 
+Stronger Baselines for Grammatical Error Correction Using a Pretrained Encoder-Decoder Model 
+Syntactically Aware Cross-Domain Aspect and Opinion Terms Extraction 
+Systematic Generalization on gSCAN with Language Conditioned Embedding 
+Systematically Exploring Redundancy Reduction in Summarizing Long Documents 
+The ApposCorpus: a new multilingual, multi-domain dataset for factual appositive generation 
+Touch Editing: A Flexible One-Time Interaction Approach for Translation 
+Towards a Better Understanding of Label Smoothing in Neural Machine Translation 
+Towards Non-task-specific Distillation of BERT via Sentence Representation Approximation 
+Toxic Language Detection in Social Media for Brazilian Portuguese: New Dataset and Multilingual Analysis 
+Two-Level Classification using Recasted Data for Low Resource Settings 
+Unifying Input and Output Smoothing in Neural Machine Translation 
+UnihanLM: Coarse-to-Fine Chinese-Japanese Language Model Pretraining with the Unihan Database 
+Unsupervised Aspect-Level Sentiment Controllable Style Transfer 
+Unsupervised KB-to-Text Generation with Auxiliary Triple Extraction using Dual Learning 
+Vocabulary Matters: A Simple yet Effective Approach to Paragraph-level Question Generation 
+You May Like This Hotel Because … : Identifying Evidence for Explainable Recommendations 
+AutoNLU: An On-demand Cloud-based Natural Language Understanding System for Enterprises 
+ISA: An Intelligent Shopping Assistant 
+metaCAT: A Metadata-based Task-oriented Chatbot Annotation Tool 
+AMesure: a web platform to assist the clear writing of administrative texts 
+NLP Tools for Predictive Maintenance Records in MaintNet
+fairseq S2T: Fast Speech-to-Text Modeling with fairseq 
+NLPStatTest: A Toolkit for Comparing NLP System Performance 
