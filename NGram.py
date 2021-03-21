@@ -46,14 +46,24 @@ class NGram:
         return sorted(self.gram_freq.items(), key=lambda x:x[1].freq,reverse=True)
 
     def show_titles(self, keyword):
-        return [self.lines[i] for i in self.gram_freq[keyword].index]
+        key= keyword.lower()
+        if key in self.gram_freq:
+            self.gram_freq[key].index_distict()
+            return [self.lines[i] for i in self.gram_freq[key].index]
+        else:
+            return []
 
     class Info:
         def __init__(self, index=[]):
             self.freq = len(index)
             self.index = index
 
+        def index_distict(self):
+            self.index = list(set(self.index))
+            self.freq = len(self.index)
+
         def __repr__(self):
+            self.index_distict()
             return str(self.freq)
 
     @classmethod

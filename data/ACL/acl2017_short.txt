@@ -1,0 +1,106 @@
+Neural Architecture for Temporal Relation Extraction: A Bi-LSTM Approach for Detecting Narrative Containers
+Vector space models for evaluating semantic fluency in autism
+The Role of Prosody and Speech Register in Word Segmentation: A Computational Modelling Perspective
+A Conditional Variational Framework for Dialog Generation
+How to Make Contexts More Useful? An Empirical Study to Context-Aware Neural Conversation Models
+A Recurrent Neural Model with Attention for the Recognition of Chinese Implicit Discourse Relations
+A Two-stage Parsing Method for Text-level Discourse Analysis
+Argumentation Quality Assessment: Theory vs. Practice
+Cross-lingual and cross-domain discourse segmentation of entire documents
+Detecting Good Arguments in a Non-Topic-Specific Way: An Oxymoron?
+Discourse Annotation of Non-native Spontaneous Spoken Responses Using the Rhetorical Structure Theory Framework
+Improving Implicit Discourse Relation Recognition with Discourse-specific Word Embeddings
+Lexical Features in Coreference Resolution: To be Used With Caution
+A Principled Framework for Evaluating Summarizers: Comparing Models of Summary Quality against Human Judgments
+Japanese Sentence Compression with a Large Training Dataset
+Learning to Generate Natural Language Descriptions From Source Code Changes
+Oracle Summaries of Compressive Summarization
+A Generative Attentional Neural Network Model for Dialogue Act Classification
+Bootstrapping for Numerical Open IE
+Cardinal Virtues: Extracting Relation Cardinalities from Text
+Classifying Temporal Relations by Bidirectional LSTM over Dependency Paths
+Complex Question Answering by Reasoning over Open Information Extraction
+English Event Detection With Translated Language Features
+EviNets: Evidence Neural Networks for Combining Evidence Signals for Factoid Question Answering
+Feature-Rich Deep Neural Networks for Knowledge Base Completion
+Fine-Grained Entity Typing with High-Multiplicity Assignments
+Group Sparse CNNs for Question Classification with Answer Sets
+Improving Native Language Identification by Using Spelling Errors
+Integrating Deep Linguistic Features in Factuality Prediction over Unified Datasets
+List-only Entity Linking
+Multi-Task Learning of Keyphrase Boundary Classification
+Pocket Knowledge Base Population
+Question Answering through Transfer Learning from Large Fine-grained Supervision Data
+Question Answering with Universal Schema and Memory Networks
+Salience Rank: Efficient Keyphrase Extraction with Topic Modeling
+Self-Crowdsourcing Training for Relation Extraction
+A Deep Network with Visual Text Composition Behavior
+Differentiable Scheduled Sampling for Credit Assignment
+Disfluency Detection using a Noisy Channel Model and a Deep Neural Language Model
+Implicitly-Defined Neural Networks for Sequence Labeling
+Information-Theory Interpretation of the Skip-Gram Negative-Sampling Objective Function
+On the Equivalence of Holographic and Complex Embeddings for Knowledge Graph Completion
+Alternative Objective Functions for Training MT Evaluation Metrics
+An Empirical Comparison of Domain Adaptation Methods for Neural Machine Translation
+Attention Strategies for Multi-Source Sequence-to-Sequence Learning
+Chunk-Based Bi-Scale Decoder for Neural Machine Translation
+Data Augmentation for Low-Resource Neural Machine Translation
+Efficient Extraction of Pseudo-Parallel Sentences from Raw Monolingual Data Using Word Embeddings
+Hybrid Neural Network Alignment and Lexicon Model in Direct HMM for Statistical Machine Translation
+Learning to Parse and Translate Improves Neural Machine Translation
+Neural System Combination for Machine Translation
+Sentence Embedding for Neural Machine Translation Domain Adaptation
+Speeding up Neural Machine Translation Decoding by Shrinking Run-time Vocabulary
+Towards String-To-Tree Neural Machine Translation
+Automatic Compositor Attribution in the First Folio of Shakespeare
+Detection of Chinese Word Usage Errors for Non-Native Chinese Learners with Bidirectional LSTM
+Error-repair Dependency Parsing for Ungrammatical Texts
+Exploring Neural Text Simplification Models
+Feature Hashing for Language and Dialect Identification
+On the Challenges of Translating NLP Research into Commercial Products
+EuroSense: Automatic Harvesting of Multilingual Sense Annotations from Parallel Text
+Incorporating Dialectal Variability for Socially Equitable Language Identification
+Model Transfer for Tagging Low-resource Languages without Bilingual Corpora
+Challenging Language-Dependent Segmentation for Arabic: An Application to Machine Translation and Part-of-Speech Tagging
+Evaluation of Compound Splitting with Textual Entailment
+Fast and Accurate Neural Word Segmentation
+“Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection
+Constructing Large-Scale Japanese Image Caption Dataset
+English Multiword Expression-aware Dependency Parsing including Named Entities
+Sentence Alignment Methods for Improving Text Simplification Systems
+Understanding Task Design Trade-offs in Crowdsourced Paraphrase Collection
+AMR-to-text Generation with Synchronous Node Replacement Grammar
+Geometry of Sentences
+Improving Semantic Composition with Offset Inference
+Learning Topic-Sensitive Word Representations
+Methodical Evaluation of Arabic Word Embeddings
+Neural Architectures for Multilingual Semantic Parsing
+Neural Semantic Parsing over Multiple Knowledge-bases
+Temporal Word Analogies: Identifying Lexical Replacement with Diachronic Word Embeddings
+The Value of Curated Negative Examples: Strong Baselines for Story Cloze Tasks
+Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation
+Exploiting Domain Knowledge via Grouped Weight Sharing with Application to Text Categorization
+Learning Lexical-Functional Patterns for First-Person Affect
+Multilingual Connotation Frames: A Case Study on Social Media for Targeted Sentiment Analysis and Forecast
+Supervised Aspect Extraction with Knowledge Retention
+Understanding and Detecting Diverse Supporting Arguments on Controversial Issues
+A Network Framework for Noisy Label Aggregation in Social Media
+A Neural Model for User Geolocation and Lexical Dialectology
+Demographic Inference on Twitter using Recursive Neural Networks
+Determining Whether and When People Participate in the Events They Tweet About
+Improving Semantic Relevance for Chinese Social Media Text Summarization
+On the Distribution of Lexical Features in Social Media
+Recognizing Counterfactual Thinking in Social Media Texts
+Separating Facts from Fiction: Linguistic Models to Classify Suspicious and Trusted News Posts on Twitter
+Temporal Orientation of Tweets for Predicting Income of User
+Twitter Demographic Classification using deep Multi-modal Multi-task Learning
+Incorporating Uncertainty into Deep Learning for Spoken Language Assessment
+A Generative Parser with a Discriminative Recognition Algorithm
+Arc-swift: A Novel Transition System for Dependency Parsing
+Character Composition Model with Convolutional Neural Networks for Dependency Parsing on Morphologically Rich Languages
+Character-Aware Neural Morphological Disambiguation
+How (not) to train a dependency parser: The curious case of jackknifing part-of-speech taggers
+Parser Adaptation for Social Media by Integrating Normalization
+Separating Reranking Effects from Model Combination Effects in Generative Neural Constituency Parsers
+A Corpus of Compositional Language for Visual Reasoning
+A Survey on Action Recognition Datasets and Tasks for Still Images

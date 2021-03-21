@@ -1,0 +1,5 @@
+aa = $('#main > div > .align-items-stretch > span:nth-child(2) > strong > a').slice(1);
+bb = $('.abstract-collapse > div');
+cc=''
+for (var i = 0; i < aa.length; i++) {
+cc+= aa[i].text.trim() + '\t' + bb[i].innerHTML.trim() + '\n';}
