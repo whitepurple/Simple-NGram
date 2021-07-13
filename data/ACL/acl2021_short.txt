@@ -137,3 +137,121 @@ X-Fact: A New Benchmark Dataset for Multilingual Fact Checking
 Neural-Symbolic Commonsense Reasoner with Relation Predictors
 In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering
 N-Best ASR Transformer: Enhancing SLU Performance using Multiple ASR Hypotheses
+Diagnosing Transformers in Task-Oriented Semantic Parsing
+More Parameters? No Thanks!
+More than just Frequency? Demasking Unsupervised Hypernymy Prediction Methods
+CoDesc: A Large Code-Description Parallel Dataset
+Better Chinese Sentence Segmentation with Reinforcement Learning
+Reader-Guided Passage Reranking for Open-Domain Question Answering
+LenAtten: An Effective Length Controlling Unit For Text Summarization
+Using Word Embeddings to Analyze Teacher Evaluations: An Application to a Filipino Education Non-Profit Organization
+Relation Classification with Entity Type Restriction
+Decoupling Adversarial Training for Fair NLP
+GO FIGURE: A Meta Evaluation of Factuality in Summarization
+Error Detection in Large-Scale Natural Language Understanding Systems Using Transformer Models
+Benchmarking Robustness of Machine Reading Comprehension Models
+Improving BERT with Syntax-aware Local Attention
+Boundary Detection with BERT for Span-level Emotion Cause Analysis
+Can the Transformer Learn Nested Recursion with Symbol Masking?
+Evaluating the Efficacy of Summarization Evaluation across Languages
+Investigating Text Simplification Evaluation
+Frustratingly Simple Few-Shot Slot Tagging
+Investigating the Reordering Capability in CTC-based Non-Autoregressive End-to-End Speech Translation
+Fusing Context Into Knowledge Graph for Commonsense Question Answering
+Grammar-Constrained Neural Semantic Parsing with LR Parsers
+Grammar-Based Patches Generation for Automated Program Repair
+Exploiting Position Bias for Robust Aspect Sentiment Classification
+Jointly Identifying Rhetoric and Implicit Emotions via Multi-Task Learning
+Encouraging Neural Machine Translation to Satisfy Terminology Constraints
+BertGCN: Transductive Text Classification by Combining GNN and BERT
+UserAdapter: Few-Shot User Learning in Sentiment Analysis
+Learning Slice-Aware Representations with Mixture of Attentions
+Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning
+Fusing Label Embedding into BERT: An Efficient Improvement for Text Classification
+How Reliable are Model Diagnostics?
+Cross-Lingual Cross-Domain Nested Named Entity Evaluation on English Web Texts
+Alternated Training with Synthetic and Authentic Data for Neural Machine Translation
+End-to-End Self-Debiasing Framework for Robust NLU Training
+Injecting Knowledge Base Information into End-to-End Joint Entity and Relation Extraction and Coreference Resolution
+Annotation and Evaluation of Coreference Resolution in Screenplays
+RetroGAN: A Cyclic Post-Specialization System for Improving Out-of-Knowledge and Rare Word Representations
+Fusion: Towards Automated ICD Coding via Feature Compression
+Is Human Scoring the Best Criteria for Summary Evaluation?
+Assessing Dialogue Systems with Distribution Distances
+Structure-Aware Pre-Training for Table-to-Text Generation
+A Multi-Task Learning Framework for Multi-Target Stance Detection
+MA-BERT: Learning Representation by Incorporating Multi-Attribute Knowledge in Transformers
+Event Extraction from Historical Texts: A New Dataset for Black Rebellions
+Zero-shot Medical Entity Retrieval without Annotation: Learning From Rich Knowledge Graph Semantics
+Stylized Story Generation with Style-Guided Planning
+AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation
+A Neural Edge-Editing Approach for Document-Level Relation Graph Extraction
+Enhancing Language Generation with Effective Checkpoints of Pre-trained Language Model
+Transformer-Exclusive Cross-Modal Representation for Vision and Language
+Progressive Multi-Granularity Training for Non-Autoregressive Translation
+Do Multilingual Neural Machine Translation Models Contain Language Pair Specific Attention Heads?
+Modeling the Influence of Verb Aspect on the Activation of Typical Event Locations with BERT
+Language Tags Matter for Zero-Shot Neural Machine Translation
+Retrieval Enhanced Model for Commonsense Generation
+Improve Query Focused Abstractive Summarization by Incorporating Answer Relevance
+Learning a Reversible Embedding Mapping using Bi-Directional Manifold Alignment
+Enhancing Zero-shot and Few-shot Stance Detection with Commonsense Knowledge Graph
+Manifold Adversarial Augmentation for Neural Machine Translation
+Is the Lottery Fair? Evaluating Winning Tickets Across Demographics
+SSMix: Saliency-Based Span Mixup for Text Classification
+DoT: An efficient Double Transformer for NLP tasks with tables
+Grammatical Error Correction as GAN-like Sequence Labeling
+Neural Entity Recognition with Gazetteer based Fusion
+Figurative Language in Recognizing Textual Entailment
+An Exploratory Analysis of the Relation between Offensive Language and Mental Health
+Do Language Models Perform Generalizable Commonsense Inference?
+Few-Shot Upsampling for Protest Size Detection
+Modeling the Unigram Distribution
+On the Lack of Robust Interpretability of Neural Text Classifiers
+Multimodal Graph-based Transformer Framework for Biomedical Relation Extraction
+Summary Grounded Conversation Generation
+On the Gap between Adoption and Understanding in NLP
+Learning Disentangled Latent Topics for Twitter Rumour Veracity Classification
+Minimally-Supervised Morphological Segmentation using Adaptor Grammars with Linguistic Priors
+Predicting in-hospital mortality by combining clinical notes with time-series data
+Sequence Models for Computational Etymology of Borrowings
+Improving Automated Evaluation of Open Domain Dialog via Diverse Reference Augmentation
+New Dataset and Strong Baselines for the Grammatical Error Correction of Russian
+Effective Attention Sheds Light On Interpretability
+On the Distribution, Sparsity, and Inference-time Quantization of Attention Values in Transformers
+Ethical-Advice Taker: Do Language Models Understand Natural Language Interventions?
+Answer Generation for Retrieval-based Question Answering Systems
+Federated Chinese Word Segmentation with Global Character Associations
+PSED: A Dataset for Selecting Emphasis in Presentation Slides
+Modulating Language Models with Emotions
+Benchmarking Neural Topic Models: An Empirical Study
+Analysis of Tree-Structured Architectures for Code Generation
+How Does Distilled Data Complexity Impact the Quality and Confidence of Non-Autoregressive Machine Translation?
+Leveraging Topic Relatedness for Argument Persuasion
+One Teacher is Enough? Pre-trained Language Model Distillation from Multiple Teachers
+Task-adaptive Pre-training of Language Models with Word Embedding Regularization
+Do Grammatical Error Correction Models Realize Grammatical Generalization?
+Domain-Aware Dependency Parsing for Questions
+Enhancing Dialogue-based Relation Extraction by Speaker and Trigger Words Prediction
+Direct Simultaneous Speech-to-Text Translation Assisted by Synchronized Streaming ASR
+Analyzing Code Embeddings for Coding Clinical Narratives
+Rule-Aware Reinforcement Learning for Knowledge Graph Reasoning
+Use of Formal Ethical Reviews in NLP Literature: Historical Trends and Current Practices
+As Easy as 1, 2, 3: Behavioural Testing of NMT Systems for Numerical Translation
+BioGen: Generating Biography Summary under Table Guidance on Wikipedia
+Multilingual Simultaneous Neural Machine Translation
+Strong and Light Baseline Models for Fact-Checking Joint Inference
+Do It Once: An Embarrassingly Simple Joint Matching Approach to Response Selection
+Climbing the Tower of Treebanks: Improving Low-Resource Dependency Parsing via Hierarchical Source Selection
+Adapting Monolingual Models: Data can be Scarce when Language Similarity is High
+BatchMixup: Improving Training by Interpolating Hidden States of the Entire Mini-batch
+Rule Augmented Unsupervised Constituency Parsing
+How transfer learning impacts linguistic knowledge in deep NLP models?
+Uncertainty Aware Review Hallucination for Science Article Classification
+Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization
+Constraint based Knowledge Base Distillation in End-to-End Task Oriented Dialogs
+Beyond Metadata: What Paper Authors Say About Corpora They Use
+Knowledge Distillation for Quality Estimation
+Cross-document Coreference Resolution over Predicted Mentions
+Could you give me a hint ? Generating inference graphs for defeasible reasoning
+Characterizing Social Spambots by their Human Traits
