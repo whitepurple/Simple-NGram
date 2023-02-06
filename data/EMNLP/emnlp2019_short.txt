@@ -1,5 +1,5 @@
-“A Buster Keaton of Linguistics”: First Automated Approaches for the Extraction of Vossian Antonomasia
-“Going on a vacation” takes longer than “Going for a walk”: A Study of Temporal Commonsense Understanding
+"A Buster Keaton of Linguistics": First Automated Approaches for the Extraction of Vossian Antonomasia
+"Going on a vacation" takes longer than "Going for a walk": A Study of Temporal Commonsense Understanding
 A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis
 A deep-learning framework to detect sarcasm targets
 A Gated Self-attention Memory Network for Answer Selection
@@ -62,7 +62,7 @@ DENS: A Dataset for Multi-class Emotion Analysis
 Dependency Parsing for Spoken Dialog Systems
 Dirichlet Latent Variable Hierarchical Recurrent Encoder-Decoder in Dialogue Generation
 Do Nuclear Submarines Have Nuclear Captains? A Challenge Dataset for Commonsense Reasoning over Adjectives and Objects
-Don’t Just Scratch the Surface: Enhancing Word Representations for Korean with Hanja
+Don't Just Scratch the Surface: Enhancing Word Representations for Korean with Hanja
 EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks
 Efficient Navigation with Language Pre-training and Stochastic Sampling
 Efficient Sentence Embedding using Discrete Cosine Transform
@@ -71,7 +71,7 @@ Embedding Lexical Features via Tensor Decomposition for Small Sample Humor Recog
 Encoders Help You Disambiguate Word Senses in Neural Machine Translation
 Evaluating BERT for natural language inference: a case study on the CommitmentBank
 Evaluating Topic Quality with Posterior Variability
-Event Causality Recognition Exploiting Multiple Annotators’ Judgments and Background Knowledge
+Event Causality Recognition Exploiting Multiple Annotators' Judgments and Background Knowledge
 Event Detection with Multi-Order Graph Convolution and Aggregated Attention
 Exploiting Non-Parallel Corpora in Sentiment Modification
 Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels
@@ -153,7 +153,7 @@ Pretrained Language Models for Sequential Sentence Classification
 Pun-GAN: Generative Adversarial Network for Pun Generation
 QAInfomax: Learning Robust Question Answering System by Mutual Information Maximization
 Quantifying the Semantic Core of Gender Systems
-Quantity doesn’t buy quality syntax with neural language models
+Quantity doesn't buy quality syntax with neural language models
 QuaRTz: An Open-Domain Dataset of Qualitative Relationship Questions
 Query-focused Sentence Compression in Linear Time
 Question-type Driven Question Generation
@@ -211,7 +211,7 @@ Visual Detection with Context for Document Layout Analysis
 Weakly Supervised Attention Networks for Entity Extraction
 What Does This Word Mean? Explaining Contextualized Embeddings with Natural Language Definition
 What Part of the Neural Network Does This? Understanding LSTMs by Measuring and Dissecting Memory Cells
-WIQA: A dataset for “What if…” reasoning over procedural text
+WIQA: A dataset for "What if…" reasoning over procedural text
 Working Hard or Hardly Working: Challenges of Integrating Typology into Neural Dependency Parsers
 WSLLN: Weakly Supervised Natural Language Localization Networks
 Zero-shot Cross-lingual Dialogue Systems with Transferable Latent Variables

@@ -140,7 +140,7 @@ Data and Representation for Turkish Natural Language Inference
 Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation
 Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation
 Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics
-De-biased Court’s View Generation with Causality
+De-biased Court's View Generation with Causality
 Debiasing knowledge graph embeddings
 Deep Attentive Stock Forecasting factoring Social Media Linguistics and Company Correlations
 Deep Weighted MaxSAT for Aspect-based Opinion Extraction
@@ -163,10 +163,10 @@ Dissecting Span Identification Tasks with Performance Prediction
 Distilling Multiple Domains for Neural Machine Translation
 Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation
 Diversiﬁed Multiple Instance Learning for Document-Level Multi-Aspect Sentiment Classiﬁcation
-Do “Undocumented Immigrants” == “Illegal Aliens”? Differentiating Denotation and Connotation in Vector Space
+Do "Undocumented Immigrants" == "Illegal Aliens"? Differentiating Denotation and Connotation in Vector Space
 Do sequence-to-sequence VAEs learn global features of sentences?
 doc2dial: A Goal-Oriented Document-Grounded Dialogue Dataset
-Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!
+Does my multimodal model learn cross-modal interactions? It's harder to tell than you might think!
 Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction
 Don't Read Too Much Into It: Adaptive Computation for Open-Domain Question Answering
 DORB: Dynamically Optimizing Multiple Rewards with Bandits
@@ -249,8 +249,8 @@ How do Decisions Emerge across Layers in Neural Models? Interpretation with Diff
 Human-centric dialog training via offline reinforcement learning
 Human-in-the-loop Debugging Deep Text Classifiers
 HUSH: A Dataset and Platform for Human-in-the-Loop Story Generation
-Identifying Elements Essential for BERT’s Multilinguality
-"I’d rather just go to bed": Understanding Indirect Answers
+Identifying Elements Essential for BERT's Multilinguality
+"I'd rather just go to bed": Understanding Indirect Answers
 If beam search is the answer, what was the question?
 IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation
 IGT2P: From Interlinear Glossed Texts to Paradigms

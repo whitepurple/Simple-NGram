@@ -56,7 +56,7 @@ A Myanmar (Burmese)-English Named Entity Transliteration Dictionary
 Affection Driven Neural Networks for Sentiment Analysis
 WIKIR: A Python toolkit for building a large-scale Wikipedia-based English Information Retrieval Dataset
 Evaluation of Greek Word Embeddings
-Predicting Multidimensional Subjective Ratings of Children’ Readings from the Speech Signals for the Automatic Assessment of Fluency
+Predicting Multidimensional Subjective Ratings of Children' Readings from the Speech Signals for the Automatic Assessment of Fluency
 JParaCrawl: A Large Scale Web-Based English-Japanese Parallel Corpus
 CA-EHN: Commonsense Analogy from E-HowNet
 SiBert: Enhanced Chinese Pre-trained Language Model with SentenceInsertion
@@ -89,7 +89,7 @@ A Cluster Ranking Model for Full Anaphora Resolution
 Inherent Dependency Displacement Bias of Transition-Based Algorithms
 The Nunavut Hansard Inuktitut-English Parallel Corpus 3.0 with Preliminary Machine Translation Results
 Neural Machine Translation for Low-Resourced Indian Languages
-Assessing Users’ Reputations from Syntactic and Semantic Information in Community Question Answering
+Assessing Users' Reputations from Syntactic and Semantic Information in Community Question Answering
 Processing South Asian languages written in the Latin script: the Dakshina dataset
 Evaluating Text Coherence at Sentence and Paragraph Levels
 Realistic Textual Entailment Corpus
@@ -145,7 +145,7 @@ A Parallel WordNet for English, Swedish and Bulgarian
 Machine-Aided Annotation for Fine-Grained Proposition Types in Argumentation
 BLISS: An Agent for Collecting Spoken Dialogue data about Health and Well-being
 Evaluating Sentence Segmentation in Different Datasets of Neuropsychological Language Tests in Brazilian Portuguese
-TV-AfD: An Imperative-Annotated Corpus from The Big Bang Theory and Wikipedia’s Articles for Deletion Discussions
+TV-AfD: An Imperative-Annotated Corpus from The Big Bang Theory and Wikipedia's Articles for Deletion Discussions
 The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service
 Chinese Discourse Parsing: Model and Evaluation
 Jejueo Datasets for Machine Translation and Speech Synthesis
@@ -195,7 +195,7 @@ Seshat: A tool for managing and verifying annotation campaigns of audio data
 Dragonfly: Advances in Non-Speaker Annotation for Low Resource Languages
 ENGLAWI: From Human- to Machine-Readable Wiktionary
 Shallow Discourse Parsing for Under-Resourced Languages: Combining Machine Translation and Annotation Projection
-SegBo: A Database of Borrowed Sounds in the World’s Language
+SegBo: A Database of Borrowed Sounds in the World's Language
 ZuCo 2.0: A Dataset of Physiological Recordings During Natural Reading and Annotation
 Cross-sentence pre-trained model for Interactive QA matching
 Automatic Orality Identification in Historical Texts
@@ -272,7 +272,7 @@ ReSiPC: a tool for complex searches in parallel corpora
 Video Caption Dataset for Describing Human Actions in Japanese
 Treating Dialogue Quality Evaluation as an Anomaly Detection Problem
 GRAIN-S: manually annotated syntax for German interviews
-Abusive language in Spanish teenager’s conversations: data preparation and short text classification with contextual word embeddings
+Abusive language in Spanish teenager's conversations: data preparation and short text classification with contextual word embeddings
 A Large-Scale Leveled Readability Lexicon for Standard Arabic
 Image Position Prediction in Multimodal Documents
 SweDiL: An Annotated Corpus of Dialogues in Swedish Literary Fiction
@@ -328,7 +328,7 @@ CLEEK: A Chinese Long-text Corpus for Entity Linking
 Wikinflection Corpus: A (Better) Multilingual, Morpheme-Annotated Inflectional Corpus
 Hedwig: A Named Entity Linker
 Variants of Vector Space Reductions for Predicting the Compositionality of English Noun Compounds
-MEDLINE as a parallel corpus: a survey to gain insight on French-, Spanish- and Portuguese-speaking authors’ abstract writing practice
+MEDLINE as a parallel corpus: a survey to gain insight on French-, Spanish- and Portuguese-speaking authors' abstract writing practice
 Building a Multimodal Entity Linking Dataset From Tweets
 Two Huge Title and Keyword Generation Corpora of Research Articles
 A Multi-level Annotated Corpus of Scientific Papers for Scientific Document Summarization and Cross-document Relation Discovery
@@ -415,7 +415,7 @@ Figure Me Out: A Gold Standard Dataset for Metaphor Interpretation
 Extrinsic Evaluation of French Dependency Parsers on a Specialized Corpus: Comparison of Distributional Thesauri
 RDG-Map: A Multimodal Corpus of Pedagogical Human-Wizard Spoken Interactions.
 MPDD: A Multi-Party Dialogue Dataset for Analysis of Emotions and Interpersonal Relationships
-“Alexa in the wild” – Collecting unconstrained conversations with a modern voice assistant in a public environment
+"Alexa in the wild" – Collecting unconstrained conversations with a modern voice assistant in a public environment
 Have a Cake and Eat it Too: Assessing Discriminating Performance of an Intelligibility Index Obtained from a Reduced Sample Size
 Gigafida 2.0: The Reference Corpus of Written Standard Slovene
 A Term Extraction Approach to Survey Analysis in Health Care
@@ -498,7 +498,7 @@ Training a Swedish Constituency Parser on Six Incompatible Treebanks
 An empirical evaluation of annotation practices in corpora from languagedocumentation
 Towards a Reliable and Robust Methodology for Crowd-Based Subjective Quality Assessment of Query-Based Extractive Text Summarization
 Building the Spanish-Croatian Parallel Corpus
-From Witch’s Shot to Music Making Bones - Resources for Medical Laymen to Technical Language and Vice Versa
+From Witch's Shot to Music Making Bones - Resources for Medical Laymen to Technical Language and Vice Versa
 Paraphrase Generation and Evaluation on Colloquial-Style Sentences
 Representing Verbs with Visual Argument Vectors
 A Seed Corpus of Hindu Temples in India
@@ -506,7 +506,7 @@ Annotated Corpus for Sentiment Analysis in Odia Language
 DerivBase.Ru: a Derivational Morphology Resource for Russian
 Creating a Dataset for Named Entity Recognition in the Archaeology Domain
 Urdu Pitch Accents and Intonation Patterns in Spontaneous Conversational Speech
-The DReaM Corpus: A Multilingual Annotated Corpus of Grammars for the World’s Languages
+The DReaM Corpus: A Multilingual Annotated Corpus of Grammars for the World's Languages
 MyFixit: An Annotated Dataset, Annotation Tool, and Baseline Methods for Information Extraction from Repair Manuals
 Development of a Medical Incident Report Corpus with Intention and Factuality Annotation
 IndicSpeech: Text-to-Speech Corpus for Indian Languages
@@ -543,7 +543,7 @@ European Language Grid: An Overview
 Deduplication of scholarly documents using locality sensitive hashing and word embeddings
 Automated Writing Support Using Deep Linguistic Parsers
 CTAP for Italian: Integrating Components for the Analysis of Italian into a Multilingual Linguistic Complexity Analysis Tool
-Do you Feel Certain about your Annotation? A Web-based Semantic Frame Annotation Tool Considering Annotators’ Concerns and Behaviors
+Do you Feel Certain about your Annotation? A Web-based Semantic Frame Annotation Tool Considering Annotators' Concerns and Behaviors
 FloDusTA: Saudi Tweets Dataset for Flood, Dust Storm, and Traffic Accident Events
 Large Vocabulary Read Speech Corpora for Four Ethiopian Languages: Amharic, Tigrigna, Oromo and Wolaytta
 The Competitiveness Analysis of the European Language Technology Market
@@ -564,8 +564,8 @@ An Annotated Corpus for Sexism Detection in French Tweets
 Rigor Mortis: Annotating MWEs with a Gamified Platform
 Chinese Financial News Annotation For Target-based Sentiment Analysis
 Multi-domain Tweet Corpora for Sentiment Analysis: Resource Creation and Evaluation
-“Voices of the Great War”: A Richly Annotated Corpus of Italian Texts on the First World War
-I Feel Offended, Don’t Be Abusive! Implicit/Explicit Messages in Offensive and Abusive Language
+"Voices of the Great War": A Richly Annotated Corpus of Italian Texts on the First World War
+I Feel Offended, Don't Be Abusive! Implicit/Explicit Messages in Offensive and Abusive Language
 Korean-Specific Emotion Annotation Procedure Using N-gram based Distant Supervision and Korean-Specific Features based Distant Supervision
 Semi-Automatic Construction and Refinement of Annotated Corpus for Deep Learning-based Emotion Classification
 MuST-Cinema: a Speech-to-Subtitles corpus

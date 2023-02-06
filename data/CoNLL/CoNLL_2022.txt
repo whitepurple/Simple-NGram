@@ -1,0 +1,28 @@
+A Multilingual Bag-of-Entities Model for Zero-Shot Cross-Lingual Text Classification
+Collateral facilitation in humans and language models
+How Hate Speech Varies by Target Identity: A Computational Analysis
+Continual Learning for Natural Language Generations with Transformer Calibration
+That's so cute!: The CARE Dataset for Affective Response Detection
+A Fine-grained Interpretability Evaluation Benchmark for Neural NLP
+Towards More Natural Artificial Languages
+Causal Analysis of Syntactic Agreement Neurons in Multilingual Language Models
+Combining Noisy Semantic Signals with Orthographic Cues: Cognate Induction for the Indic Dialect Continuum
+Detecting Unintended Social Bias in Toxic Language Datasets
+Incremental Processing of Principle B: Mismatches Between Neural Models and Humans
+Parsing as Deduction Revisited: Using an Automatic Theorem Prover to Solve an SMT Model of a Minimalist Parser
+Entailment Semantics Can Be Extracted from an Ideal Language Model
+On Neurons Invariant to Sentence Structural Changes in Neural Machine Translation
+Shared knowledge in natural conversations: can entropy metrics shed light on information transfers?
+Leveraging a New Spanish Corpus for Multilingual and Cross-lingual Metaphor Detection
+Cognitive Simplification Operations Improve Text Simplification
+On Language Spaces, Scales and Cross-Lingual Transfer of UD Parsers
+Visual Semantic Parsing: From Images to Abstract Meaning Representation
+Syntactic Surprisal From Neural Models Predicts, But Underestimates, Human Processing Difficulty From Syntactic Ambiguities
+OpenStance: Real-world Zero-shot Stance Detection
+Optimizing text representations to capture (dis)similarity between political parties
+Computational cognitive modeling of predictive sentence processing in a second language
+PIE-QG: Paraphrased Information Extraction for Unsupervised Question Generation from Small Corpora
+Probing for targeted syntactic knowledge through grammatical error detection
+An Alignment-based Approach to Text Segmentation Similarity Scoring
+Enhancing the Transformer Decoder with Transition-based Syntax
+Characterizing Verbatim Short-Term Memory in Neural Language Models

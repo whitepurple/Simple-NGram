@@ -1,4 +1,4 @@
-“Transforming” Delete, Retrieve, Generate Approach for Controlled Text Style Transfer
+"Transforming" Delete, Retrieve, Generate Approach for Controlled Text Style Transfer
 (Male, Bachelor) and (Female, Ph.D) have different connotations : Parallelly Annotated Stylistic Language Dataset with Multiple Personas
 75 Languages, 1 Model: Parsing Universal Dependencies Universally
 A Bayesian Approach for Sequence Tagging with Crowds
@@ -125,21 +125,21 @@ Document Hashing with Mixture-Prior Generative Models
 Domain Adaptation for Person-Job Fit with Transferable Deep Global Match Network
 Domain Adaptive Text Style Transfer
 Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification
-Don’t Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction
-Don’t paraphrase, detect! Rapid and Effective Data Collection for Semantic Parsing
-Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases
+Don't Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction
+Don't paraphrase, detect! Rapid and Effective Data Collection for Semantic Parsing
+Don't Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases
 Dual Attention Networks for Visual Reference Resolution in Visual Dialog
 Dually Interactive Matching Network for Personalized Response Selection in Retrieval-Based Chatbots
 DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs
 Dynamic Past and Future for Neural Machine Translation
-Earlier Isn’t Always Better: Submodular Analysis on Corpus and System Biases in Summarization
+Earlier Isn't Always Better: Submodular Analysis on Corpus and System Biases in Summarization
 Easy First Relation Extraction with Information Redundancy
 Editing-based SQL Query Generation for Cross-Domain Context-Dependent Questions
 Effective Use of Transformer Networks for Entity Tracking
 Efficient Vector Retrieval under Maximum Inner Product
 Emergent Linguistic Phenomena in Multi-Agent Communication Games
 Emotion Detection with Neural Personal Discrimination
-Empirical Study of Transformer’s Attention Mechanism via the Lens of Kernel
+Empirical Study of Transformer's Attention Mechanism via the Lens of Kernel
 Encode, Tag, Realize: High-Precision Text Editing
 Enhancing AMR-to-Text Generation with Dual Graph Representations
 Enhancing Context Modeling with a Query-Guided Capsule Network for Document-level NMT
@@ -215,11 +215,11 @@ Integrating Text and Image: Determining Multimodal Document Intent in Instagram 
 Interactive Language Learning by Question Answering
 Interpoetry: Generating Classical Chinese Poems from Vernacular Chinese
 Interpretable Relevant Emotion Ranking with Event-Driven Attention
-Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs
+Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs
 Investigating Capsule Network and Semantic Feature on Hyperplanes for Text Classification
 Investigating Multilingual NMT Representations at Scale
 Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts
-It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Augmentation
+It's All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Augmentation
 Iterative Dual Domain Adaptation for Neural Machine Translation
 Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction
 Jointly Learning Entity and Relation Representations for Entity Alignment
@@ -257,7 +257,7 @@ Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classifi
 Learning to Speak and Act in a Fantasy Text Adventure Game
 Learning to Update Knowledge Graph by Reading News
 Learning with Limited Data for Multilingual Reading Comprehension
-Let’s Ask Again: Refine Network for Automatic Question Generation
+Let's Ask Again: Refine Network for Automatic Question Generation
 Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network
 Leveraging 2-hop Distant Supervision from Table Entity Pairs for Relation Extraction
 Leveraging Dependency Forest for Neural Medical Relation Extraction
@@ -413,7 +413,7 @@ Text2Math: End-to-end Parsing Text into Math Expressions
 The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives
 The Myth of Blind Review Revisited: Experiments on ACL vs. EMNLP
 The Role of Pragmatic and Discourse Context in Determining Argument Impact
-The Trumpiest Trump? Identifying a Subject’s Most Characteristic Tweets
+The Trumpiest Trump? Identifying a Subject's Most Characteristic Tweets
 TIGEr: Text-to-Image Grounding for Image Caption Evaluation
 To Annotate or Not? Unsupervised Prediction of Performance Drop due to Domain Shift
 Topic-Guided Coherence Modeling for Sentence Ordering by Preserving Global and Local Information
@@ -456,9 +456,9 @@ Weak Supervision for Learning Discourse Structure
 Weakly Supervised Cross-lingual Semantic Relation Classification via Knowledge Distillation
 Weakly Supervised Multilingual Causality Extraction fromWikipedia
 Weakly-Supervised Concept-based Adversarial Learning for Cross-lingual Word Embeddings
-What Gets Echoed? Understanding the “Pointers” in Explanations of Persuasive Arguments
+What Gets Echoed? Understanding the "Pointers" in Explanations of Persuasive Arguments
 What You See is What You Get: Visual Pronoun Coreference Resolution in Conversations
-What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering
+What's Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering
 Who Is Speaking to Whom? Learning to Identify Utterance Addressee in Multi-Party Conversations
 WikiCREM: A large unsupervised corpus for co-reference resolution
 You Shall Know a User by the Company It Keeps: Dynamic Representations for Social Media Users in NLP

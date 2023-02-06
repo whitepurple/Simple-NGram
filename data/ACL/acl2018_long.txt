@@ -13,7 +13,7 @@ Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures
 Cross-Domain Sentiment Classification with Target Domain Specific Information
 Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings
 Interactive Language Acquisition with One-shot Visual Concept Learning through a Conversational Game
-The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing
+The Hitchhiker's Guide to Testing Statistical Significance in Natural Language Processing
 Strong Baselines for Neural Semi-Supervised Learning under Domain Shift
 NeuralREG: An end-to-end approach to referring expression generation
 Subword-level Word Vector Representations for Korean

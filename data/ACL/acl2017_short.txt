@@ -64,7 +64,7 @@ Model Transfer for Tagging Low-resource Languages without Bilingual Corpora
 Challenging Language-Dependent Segmentation for Arabic: An Application to Machine Translation and Part-of-Speech Tagging
 Evaluation of Compound Splitting with Textual Entailment
 Fast and Accurate Neural Word Segmentation
-“Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection
+"Liar, Liar Pants on Fire": A New Benchmark Dataset for Fake News Detection
 Constructing Large-Scale Japanese Image Caption Dataset
 English Multiword Expression-aware Dependency Parsing including Named Entities
 Sentence Alignment Methods for Improving Text Simplification Systems

@@ -170,7 +170,7 @@ Learning Affordance Landscapes for Interaction Exploration in 3D Environments
 Cooperative Multi-player Bandit Optimization 
 Tight First- and Second-Order Regret Bounds for Adversarial Linear Bandits
 Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout
-A Loss Function for Generative Neural Networks Based on Watson’s Perceptual Model
+A Loss Function for Generative Neural Networks Based on Watson's Perceptual Model
 Dynamic Fusion of Eye Movement Data and Verbal Narrations in Knowledge-rich Domains
 Scalable Multi-Agent Reinforcement Learning for Networked Systems with Average Reward
 Optimizing Neural Networks via Koopman Operator Theory
@@ -1455,7 +1455,7 @@ Statistical Optimal Transport posed as Learning Kernel Embedding
 Dual-Resolution Correspondence Networks
 Advances in Black-Box VI: Normalizing Flows, Importance Weighting, and Optimization
 f-Divergence Variational Inference
-Unfolding recurrence by Green’s functions for optimized reservoir computing
+Unfolding recurrence by Green's functions for optimized reservoir computing
 The Dilemma of TriHard Loss and an Element-Weighted TriHard Loss for Person Re-Identification
 Disentangling by Subspace Diffusion
 Towards Neural Programming Interfaces
@@ -1549,7 +1549,7 @@ CoMIR: Contrastive Multimodal Image Representation for Registration
 Ensuring Fairness Beyond the Training Data
 How do fair decisions fare in long-term qualification?
 Pre-training via Paraphrasing
-GCN meets GPU: Decoupling “When to Sample” from “How to Sample”
+GCN meets GPU: Decoupling "When to Sample" from "How to Sample"
 Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks
 All your loss are belong to Bayes
 HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks
@@ -1620,7 +1620,7 @@ Provably Robust Metric Learning
 Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings
 COPT: Coordinated Optimal Transport on Graphs
 No Subclass Left Behind: Fine-Grained Robustness in Coarse-Grained Classification Problems
-Model Rubik’s Cube: Twisting Resolution, Depth and Width for TinyNets
+Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets
 Self-Adaptive Training: beyond Empirical Risk Minimization
 Effective Dimension Adaptive Sketching Methods for Faster Regularized Least-Squares Optimization
 Near-Optimal Comparison Based Clustering
@@ -1809,7 +1809,7 @@ Reconsidering Generative Objectives For Counterfactual Reasoning
 Robust Federated Learning: The Case of Affine Distribution Shifts
 Quantile Propagation for Wasserstein-Approximate Gaussian Processes
 Generating Adjacency-Constrained Subgoals in Hierarchical Reinforcement Learning
-High-contrast “gaudy” images improve the training of deep neural network models of visual cortex
+High-contrast "gaudy" images improve the training of deep neural network models of visual cortex
 Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
 Distributed Training with Heterogeneous Data: Bridging Median- and Mean-Based Algorithms
 H-Mem: Harnessing synaptic plasticity with Hebbian Memory Networks

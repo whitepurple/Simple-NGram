@@ -56,12 +56,12 @@ Open-domain clarification question generation without question examples
 We've had this conversation before: A Novel Approach to Measuring Dialog Similarity
 Mutual-Learning Improves End-to-End Speech Translation
 Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning
-What’s Hidden in a One-layer Randomly Weighted Transformer?
+What's Hidden in a One-layer Randomly Weighted Transformer?
 Visual Goal-Step Inference using wikiHow
 Voice Query Auto Completion
 A New Representation for Span-based CCG Parsing
 CSAGN: Conversational Structure Aware Graph Network for Conversational Semantic Role Labeling
-What’s in a Name? Answer Equivalence For Open-Domain Question Answering
+What's in a Name? Answer Equivalence For Open-Domain Question Answering
 Generative Context Pair Selection for Multi-hop Question Answering
 HETFORMER: Heterogeneous Transformer with Sparse Attention for Long-Text Extractive Summarization
 Context-Aware Interaction Network for Question Matching
@@ -91,7 +91,7 @@ Improving the Quality Trade-Off for Neural Machine Translation Multi-Domain Adap
 Data-QuestEval: A Referenceless Metric for Data-to-Text Semantic Evaluation
 Towards Zero-shot Commonsense Reasoning with Self-supervised Refinement of Language Models
 Expanding End-to-End Question Answering on Differentiable Knowledge Graphs with Intersection
-Is “moby dick” a Whale or a Bird? Named Entities and Terminology in Speech Translation
+Is "moby dick" a Whale or a Bird? Named Entities and Terminology in Speech Translation
 Neuro-Symbolic Reinforcement Learning with First-Order Logic
 Towards Incremental Transformers: An Empirical Analysis of Transformer Models for Incremental NLU
 KnowMAN: Weakly Supervised Multinomial Adversarial Networks
@@ -174,7 +174,7 @@ Exploring Non-Autoregressive Text Style Transfer
 Effective Sequence-to-Sequence Dialogue State Tracking
 Can Language Models be Biomedical Knowledge Bases?
 Learning Compact Metrics for MT
-“Average” Approximates “First Principal Component”? An Empirical Analysis on Representations from Neural Language Models
+"Average" Approximates "First Principal Component"? An Empirical Analysis on Representations from Neural Language Models
 Abstract, Rationale, Stance: A Joint Model for Scientific Claim Verification
 Gradient-Based Adversarial Factual Consistency Evaluation for Abstractive Summarization
 Lifelong Explainer for Lifelong Learners
@@ -290,7 +290,7 @@ Learning Task Sampling Policy for Multitask Learning
 An Exploratory Study on Long Dialogue Summarization: What Works and What's Next
 Improving Text Auto-Completion with Next Phrase Prediction
 KLMo: Knowledge Graph Enhanced Pretrained Language Model with Fine-Grained Relationships
-Do We Know What We Don’t Know? Studying Unanswerable Questions beyond SQuAD 2.0
+Do We Know What We Don't Know? Studying Unanswerable Questions beyond SQuAD 2.0
 Glyph Enhanced Chinese Character Pre-Training for Lexical Sememe Prediction
 Cross-Domain Data Integration for Named Entity Disambiguation in Biomedical Text
 Self-Training using Rules of Grammar for Few-Shot NLU

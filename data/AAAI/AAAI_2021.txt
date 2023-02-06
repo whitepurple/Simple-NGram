@@ -1033,7 +1033,7 @@ PULNS: Positive-Unlabeled Learning with Effective Negative Sample Selector
 Visual Relation Detection Using Hybrid Analogical Learning
 Leveraging Table Content for Zero-Shot Text-to-SQL with Meta-Learning
 Unsupervised Domain Adaptation for Semantic Segmentation by Content Transfer
-The Maximin Support Method: An Extension of the D’Hondt Method to Approval-Based
+The Maximin Support Method: An Extension of the D'Hondt Method to Approval-Based
 Neural Analogical Matching
 Unanswerable Question Correction in Question Answering over Personal Knowledge Base
 Hierarchical Negative Binomial Factorization for Recommender Systems on Implicit
@@ -1083,7 +1083,7 @@ MetaAugment: Sample-Aware Data Augmentation Policy Learning
 Nested Named Entity Recognition with Partially-Observed TreeCRFs
 RareBERT: Transformer Architecture for Rare Disease Patient Identification Using
 Network Satisfaction for Symmetric Relation Algebras with a Flexible Atom
-Do Response Selection Models Really Know What’s Next? Utterance Manipulation Strategies
+Do Response Selection Models Really Know What's Next? Utterance Manipulation Strategies
 Balanced Open Set Domain Adaptation via Centroid Alignment
 Learning Monocular Depth in Dynamic Scenes via Instance-Aware Projection Consistency
 A Few Queries Go a Long Way: Information-Distortion Tradeoffs in Matching
@@ -1320,7 +1320,7 @@ Controllable Guarantees for Fair Outcomes via Contrastive Information Estimation
 IDOL: Inertial Deep Orientation-Estimation and Localization
 Graph Neural Networks with Heterophily
 Necessary and Sufficient Conditions for Avoiding Reopenings in Best First Suboptimal Search
-Have We Solved the Hard Problem? It’s Not Easy! Contextual Lexical Contrast as a Means to
+Have We Solved the Hard Problem? It's Not Easy! Contextual Lexical Contrast as a Means to
 Contract-Based Inter-User Usage Coordination in Free-Floating Car Sharing
 Bayes-TrEx: a Bayesian Sampling Approach to Model Transparency by Example
 Improving Causal Discovery by Optimal Bayesian Network Learning
@@ -1412,7 +1412,7 @@ Human Uncertainty Inference via Deterministic Ensemble Neural Networks
 Rejection Sampling for Weighted Jaccard Similarity Revisited
 Asynchronous Optimization Methods for Efficient Training of Deep Neural Networks with
 Learning to Reweight with Deep Interactions
-Facility’s Perspective to Fair Facility Location Problems
+Facility's Perspective to Fair Facility Location Problems
 Online DR-Submodular Maximization: Minimizing Regret and Constraint Violation
 Deep Transfer Tensor Decomposition with Orthogonal Constraint for Recommender Systems
 Sample Complexity of Policy Gradient Finding Second-Order Stationary Points
@@ -1506,7 +1506,7 @@ GO Hessian for Expectation-Based Objectives
 Context-Aware Attentional Pooling (CAP) for Fine-Grained Visual Classification
 Revisiting Consistent Hashing with Bounded Loads
 Ordinal Historical Dependence in Graphical Event Models with Tree Representations
-If You Like Shapley Then You’ll Love the Core
+If You Like Shapley Then You'll Love the Core
 Temporal-Coded Deep Spiking Neural Network with Easy Training and Robust Performance
 TempLe: Learning Template of Transitions for Sample Efficient Multi-Task RL
 Characterizing Deep Gaussian Processes via Nonlinear Recurrence Systems

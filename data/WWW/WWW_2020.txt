@@ -4,7 +4,7 @@ FiDo: Ubiquitous Fine-Grained WiFi-based Localization for Unlabelled Users via D
 An Empirical Study of the Use of Integrity Verification Mechanisms for Web Subresources
 Power-Law Graphs Have Minimal Scaling of Kemeny Constant for Random Walks 
 Metric Learning with Equidistant and Equidistributed Triplet-based Loss for Product Image Search
-“What Apps Did You Use?”: Understanding the Long-term Evolution of Mobile App Usage
+"What Apps Did You Use?": Understanding the Long-term Evolution of Mobile App Usage
 OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning
 Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems
 Reinforced Negative Sampling over Knowledge Graph for Recommendation
@@ -81,7 +81,7 @@ Deconstructing Google's Web Light Service
 A First Look at Commercial 5G Performance on Smartphones 
 Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices 
 Adversarial Attack on Community Detection by Hiding Individuals
-Modeling Users’ Behavior Sequences with Hierarchical Explainable Network for Crossdomain Fraud Detection
+Modeling Users' Behavior Sequences with Hierarchical Explainable Network for Crossdomain Fraud Detection
 Valve: Securing Function Workflows on Serverless Computing Platforms 
 Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning
 Identifying Referential Intention with Heterogeneous Contexts 
@@ -144,7 +144,7 @@ Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Arti
 Keywords Generation Improves E-Commerce Session-based Recommendation
 TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data
 An Intent-Based Automation Framework for Securing Dynamic Consumer IoT Infrastructures
-Inferring Passengers’ Interactive Choices on Public Transits via MA-AL: Multi-Agent Apprenticeship Learning
+Inferring Passengers' Interactive Choices on Public Transits via MA-AL: Multi-Agent Apprenticeship Learning
 Personalized Employee Training Course Recommendation with Career Development Awareness
 Efficient Neural Interaction Function Search for Collaborative Filtering 
 Early Detection of User Exits from Clickstream Data: A Markov Modulated Marked Point Process Model
@@ -169,7 +169,7 @@ The Pod People: Understanding Manipulation of Social Media Popularity via Recipr
 Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction 
 Context-Aware Document Term Weighting for Ad-Hoc Search
 NetTaxo: Automated Topic Taxonomy Construction from Text-Rich Network
-Do Podcasts and Music Compete with One Another? Understanding Users’ Audio Streaming Habits 
+Do Podcasts and Music Compete with One Another? Understanding Users' Audio Streaming Habits 
 Near-Perfect Recovery in the One-Dimensional Latent Space Model
 Finding a Choice in a Haystack: Automatic Extraction of Opt-Out Statements from Privacy Policy Text
 eDarkFind: Unsupervised Multi-view Learning for Sybil Account Detection
@@ -211,7 +211,7 @@ Mining Points-of-Interest for Explaining Urban Phenomena: A Scalable Variational
 Large-Scale Talent Flow Embedding for Company Competitive Analysis
 Quantifying Engagement with Citations on Wikipedia
 Condition Aware and Revise Transformer for Question Answering
-In Opinion Holders’ Shoes: Modeling Cumulative Influence for View Change in Online Argumentation
+In Opinion Holders' Shoes: Modeling Cumulative Influence for View Change in Online Argumentation
 Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation
 Domain-Guided Task Decomposition with Self-Training for Detecting Personal Events in Social Media 
 Leveraging Passage-level Cumulative Gain for Document Ranking 
@@ -288,7 +288,7 @@ ShapeVis: High-dimensional Data Visualization at Scale
 Using Cliques with Higher-order Spectral Embeddings Improves Graph Visualizations 
 Distant Supervision for Multi-Stage Fine-Tuning in Retrieval-Based Question Answering
 NCVis: Noise Contrastive Approach for Scalable Visualization
-I've Got Your Packages: Harvesting Customers’ Delivery Order Information using Package Tracking Number Enumeration Attacks
+I've Got Your Packages: Harvesting Customers' Delivery Order Information using Package Tracking Number Enumeration Attacks
 Crowdsourcing Detection of Sampling Biases in Image Datasets 
 Don't Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing
 Addressing the Target Customer Distortion Problem in Recommender Systems

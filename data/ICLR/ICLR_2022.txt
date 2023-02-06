@@ -293,7 +293,7 @@ DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object M
 Discovering Invariant Rationales for Graph Neural Networks
 Fast Generic Interaction Detection for Model Interpretability and Compression
 BiBERT: Accurate Fully Binarized BERT
-What’s Wrong with Deep Learning in Tree Search for Combinatorial Optimization
+What's Wrong with Deep Learning in Tree Search for Combinatorial Optimization
 Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System
 Beyond ImageNet Attack: Towards Crafting Adversarial Examples for Black-box Domains
 Generative Models as a Data Source for Multiview Representation Learning
@@ -858,7 +858,7 @@ SURF: Semi-supervised Reward Learning with Data Augmentation for Feedback-effici
 Rethinking Adversarial Transferability from a Data Distribution Perspective
 Neural Networks as Kernel Learners: The Silent Alignment Effect
 Adaptive Control Flow in Transformers Improves Systematic Generalization
-Data Poisoning Won’t Save You From Facial Recognition
+Data Poisoning Won't Save You From Facial Recognition
 Procedural generalization by planning with self-supervised world models
 Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games
 Online Ad Hoc Teamwork under Partial Observability

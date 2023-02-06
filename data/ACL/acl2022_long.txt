@@ -102,7 +102,7 @@ ConditionalQA: A Complex Reading Comprehension Dataset with Conditional Answers
 Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation
 Constrained Multi-Task Learning for Bridging Resolution
 CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning
-Context Matters: A Pragmatic Study of PLMs’ Negation Understanding
+Context Matters: A Pragmatic Study of PLMs' Negation Understanding
 Contextual Fine-to-Coarse Distillation for Coarse-grained Response Selection in Open-Domain Conversations
 Contextual Representation Learning beyond Masked Language Modeling
 ConTinTin: Continual Learning from Task Instructions
@@ -276,7 +276,7 @@ Investigating Failures of Automatic Translation in the Case of Unambiguous Gende
 Investigating Non-local Features for Neural Constituency Parsing
 Is Attention Explanation? An Introduction to the Debate
 Is GPT-3 Text Indistinguishable from Human Text? Scarecrow: A Framework for Scrutinizing Machine Text
-It is AI’s Turn to Ask Humans a Question: Question-Answer Pair Generation for Children's Story Books
+It is AI's Turn to Ask Humans a Question: Question-Answer Pair Generation for Children's Story Books
 JointCL: A Joint Contrastive Learning Framework for Zero-Shot Stance Detection
 Just Rank: Rethinking Evaluation with Word and Sentence Similarities
 KaFSP: Knowledge-Aware Fuzzy Semantic Parsing for Conversational Question Answering over a Large-Scale Knowledge Base
@@ -518,7 +518,7 @@ SummaReranker: A Multi-Task Mixture-of-Experts Re-ranking Framework for Abstract
 SummScreen: A Dataset for Abstractive Screenplay Summarization
 SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities
 Synthetic Question Value Estimation for Domain Adaptation of Question Answering
-Systematic Inequalities in Language Technology Performance across the World’s Languages
+Systematic Inequalities in Language Technology Performance across the World's Languages
 TableFormer: Robust Transformer Modeling for Table-Text Encoding
 Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks
 Tailor: Generating and Perturbing Text with Semantic Controls
@@ -536,7 +536,7 @@ The Paradox of the Compositionality of Natural Language: A Neural Machine Transl
 The patient is more dead than alive: exploring the current state of the multi-document summarisation of the biomedical literature
 The Trade-offs of Domain Adaptation for Neural Language Models
 There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory
-There’s a Time and Place for Reasoning Beyond the Image
+There's a Time and Place for Reasoning Beyond the Image
 Things not Written in Text: Exploring Spatial Commonsense from Visual Signals
 Think Before You Speak: Explicitly Generating Implicit Commonsense Knowledge for Response Generation
 Token Dropping for Efficient BERT Pretraining
@@ -780,7 +780,7 @@ Modeling Intensification for Sign Language Generation: A Computational Approach
 Modular Domain Adaptation
 MoEfication: Transformer Feed-forward Layers are Mixtures of Experts
 More Than Words: Collocation Retokenization for Latent Dirichlet Allocation Models
-Morphological Processing of Low-Resource Languages: Where We Are and What’s Next
+Morphological Processing of Low-Resource Languages: Where We Are and What's Next
 Morphosyntactic Tagging with Pre-trained Language Models for Arabic and its Dialects
 MReD: A Meta-Review Dataset for Structure-Controllable Text Generation
 Mukayese: Turkish NLP Strikes Back
@@ -804,7 +804,7 @@ Phoneme transcription of endangered languages: an evaluation of recent ASR archi
 Platt-Bin: Efficient Posterior Calibrated Training for NLP Classifiers
 Plug-and-Play Adaptation for Continuously-updated QA
 Prior Knowledge and Memory Enriched Transformer for Sign Language Translation
-Probing BERT’s priors with serial reproduction chains
+Probing BERT's priors with serial reproduction chains
 Probing Factually Grounded Content Transfer with Factual Ablation
 Probing Multilingual Cognate Prediction Models
 Prompt-Driven Neural Machine Translation
@@ -867,7 +867,7 @@ What does it take to bake a cake? The RecipeRef corpus and anaphora resolution i
 What to Learn, and How: Toward Effective Learning from Rationales
 What Works and Doesn't Work, A Deep Decoder for Neural Machine Translation
 When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation
-Why don’t people use character-level machine translation?
+Why don't people use character-level machine translation?
 Why Exposure Bias Matters: An Imitation Learning Perspective of Error Accumulation in Language Generation
 Word Segmentation by Separation Inference for East Asian Languages
 XFUND: A Benchmark Dataset for Multilingual Visually Rich Form Understanding

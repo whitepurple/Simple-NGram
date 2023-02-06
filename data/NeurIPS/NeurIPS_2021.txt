@@ -33,7 +33,7 @@ Scalable Inference in SDEs by Direct Matching of the Fokker–Planck–Kolmogoro
 The Complexity of Bayesian Network Learning: Revisiting the Superstructure
 Fast Tucker Rank Reduction for Non-Negative Tensors Using Mean-Field Approximation
 Learning Stochastic Majority Votes by Minimizing a PAC-Bayes Generalization Bound
-Numerical influence of ReLU’(0) on backpropagation
+Numerical influence of ReLU'(0) on backpropagation
 A Contrastive Learning Approach for Training Variational Autoencoder Priors
 What training reveals about neural network complexity
 Class-agnostic Reconstruction of Dynamic Objects from Videos
@@ -64,7 +64,7 @@ Sample Selection for Fair and Robust Training
 NeurWIN: Neural Whittle Index Network For Restless Bandits Via Deep RL
 Sageflow: Robust Federated Learning against Both Stragglers and Adversaries
 Alias-Free Generative Adversarial Networks
-Noise2Score: Tweedie’s Approach to Self-Supervised Image Denoising without Clean Images
+Noise2Score: Tweedie's Approach to Self-Supervised Image Denoising without Clean Images
 Continuous Mean-Covariance Bandits
 Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language
 Solving Soft Clustering Ensemble via kkk-Sparse Discrete Wasserstein Barycenter
@@ -121,7 +121,7 @@ Grounding Representation Similarity Through Statistical Testing
 A Consciousness-Inspired Planning Agent for Model-Based Reinforcement Learning
 Reward-Free Model-Based Reinforcement Learning with Linear Function Approximation
 Beltrami Flow and Neural Diffusion on Graphs
-Think Big, Teach Small: Do Language Models Distil Occam’s Razor?
+Think Big, Teach Small: Do Language Models Distil Occam's Razor?
 Disentangling Identifiable Features from Noisy Data with Structured Nonlinear ICA
 Conditionally Parameterized, Discretization-Aware Neural Networks for Mesh-Based Modeling of Physical Systems
 USCO-Solver: Solving Undetermined Stochastic Combinatorial Optimization Problems
@@ -878,7 +878,7 @@ Dual Parameterization of Sparse Variational Gaussian Processes
 Learning to dehaze with polarization
 Conservative Data Sharing for Multi-Task Offline Reinforcement Learning
 Universal Rate-Distortion-Perception Representations for Lossy Compression
-What’s a good imputation to predict with missing values?
+What's a good imputation to predict with missing values?
 Replacing Rewards with Examples: Example-Based Policy Search via Recursive Classification
 Hierarchical Skills for Efficient Exploration
 Evidential Softmax for Sparse Multimodal Distributions in Deep Generative Models
@@ -952,7 +952,7 @@ Causal Navigation by Continuous-time Neural Networks
 Global Convergence of Online Optimization for Nonlinear Model Predictive Control
 Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions
 Learning with User-Level Privacy
-Don’t Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence
+Don't Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence
 Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers
 Variational Bayesian Optimistic Sampling
 Cross-modal Domain Adaptation for Cost-Efficient Visual Reinforcement Learning
@@ -1107,7 +1107,7 @@ A PAC-Bayes Analysis of Adversarial Robustness
 SE(3)-equivariant prediction of molecular wavefunctions and electronic densities
 Modified Frank Wolfe in Probability Space
 Bayesian Optimization of Function Networks
-Look at What I’m Doing: Self-Supervised Spatial Grounding of Narrations in Instructional Videos
+Look at What I'm Doing: Self-Supervised Spatial Grounding of Narrations in Instructional Videos
 RETRIEVE: Coreset Selection for Efficient and Robust Semi-Supervised Learning
 Collaborating with Humans without Human Data
 Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State
@@ -1597,7 +1597,7 @@ Precise characterization of the prior predictive distribution of deep ReLU netwo
 RED : Looking for Redundancies for Data-FreeStructured Compression of Deep Neural Networks
 TestRank: Bringing Order into Unlabeled Test Instances for Deep Learning Tasks
 Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods
-Reinforcement Learning based Disease Progression Model for Alzheimer’s Disease
+Reinforcement Learning based Disease Progression Model for Alzheimer's Disease
 Catch-A-Waveform: Learning to Generate Audio from a Single Short Example
 Explanation-based Data Augmentation for Image Classification
 Data-Efficient GAN Training Beyond (Just) Augmentations: A Lottery Ticket Perspective
@@ -1962,7 +1962,7 @@ SyMetric: Measuring the Quality of Learnt Hamiltonian Dynamics Inferred from Vis
 Learning with Holographic Reduced Representations
 Learning Barrier Certificates: Towards Safe Reinforcement Learning with Zero Training-time Violations
 On the Second-order Convergence Properties of Random Search Methods
-Noether’s Learning Dynamics: Role of Symmetry Breaking in Neural Networks
+Noether's Learning Dynamics: Role of Symmetry Breaking in Neural Networks
 A Theory of the Distortion-Perception Tradeoff in Wasserstein Space
 Neural Production Systems
 Smoothness Matrices Beat Smoothness Constants: Better  Communication Compression Techniques for Distributed Optimization
@@ -2225,7 +2225,7 @@ TAAC: Temporally Abstract Actor-Critic for Continuous Control
 Learning Robust Hierarchical Patterns of Human Brain across Many fMRI Studies
 Global Convergence  to Local Minmax Equilibrium in Classes of Nonconvex Zero-Sum Games
 Bandit Quickest Changepoint Detection
-Can multi-label classification networks know what they don’t know?
+Can multi-label classification networks know what they don't know?
 Balanced Chamfer Distance as a Comprehensive Metric for Point Cloud Completion
 Optimal Gradient-based Algorithms for Non-concave Bandit Optimization
 On Optimal Interpolation in Linear Regression

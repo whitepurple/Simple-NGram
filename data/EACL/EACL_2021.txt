@@ -1,11 +1,11 @@
 Unsupervised Sentence-embeddings by Manifold Approximation and Projection
 Contrastive Multi-document Question Generation
 Disambiguatory signals are stronger in word initial positions
-If you’ve got it, flaunt it: Making the most of fine-grained sentiment annotations
+If you've got it, flaunt it: Making the most of fine-grained sentiment annotations
 Keep Learning: Self-supervised Meta-learning for Learning from Inference
 ResPer: Computationally Modelling Resisting Strategies in Persuasive Conversations
 BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression
-Telling BERT’s Full Story: from Local Attention to Global Aggregation
+Telling BERT's Full Story: from Local Attention to Global Aggregation
 Effects of Pre- and Post-Processing on type-based Embeddings in Lexical Semantic Change Detection
 The Gutenberg Dialogue Dataset
 On the Calibration and Uncertainty of Neural Learning to Rank Models for Conversational Search
@@ -37,7 +37,7 @@ Improving Factual Consistency Between a Response and Persona Facts
 PolyLM: Learning about Polysemy through Language Modeling
 Scalable Evaluation and Improvement of Document Set Expansion via Neural Positive-Unlabeled Learning
 The Role of Syntactic Planning in Compositional Image Captioning
-Is ``hot pizza” Positive or Negative? Mining Target-aware Sentiment Lexicons
+Is ``hot pizza" Positive or Negative? Mining Target-aware Sentiment Lexicons
 Document-level Event Entities Extraction with Generative Role-filler Transformers
 Cross-lingual Entity Alignment with Incidental Supervision
 Query Generation for Multimodal Documents
@@ -72,7 +72,7 @@ Discourse-Aware Unsupervised Summarization for Long Scientific Documents
 MIDAS: A Dialog Act Annotation Scheme for Open Domain HumanMachine Spoken Conversations
 Analyzing the Forgetting Problem in Pretrain-Finetuning of Open-domain Dialogue Response Models
 Leveraging End-to-End ASR for Endangered Language Documentation: An Empirical Study on Yolóxochitl Mixtec
-Mode Effects’ Challenge to Authorship Attribution
+Mode Effects' Challenge to Authorship Attribution
 Generative Text Modeling through Short Run Inference
 Randomized Deep Structured Prediction for Discourse-Level Processing
 Automatic Data Acquisition for Event Coreference Resolution
@@ -120,16 +120,16 @@ Error Analysis and the Role of Morphology
 Exploring Supervised and Unsupervised Rewards in Machine Translation
 Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions
 Multilingual Entity and Relation Extraction Dataset and Model
-A New View of Multi-modal Language Analysis: Audio and Video Features as Text “Styles”
+A New View of Multi-modal Language Analysis: Audio and Video Features as Text "Styles"
 Multi- And Cross-Lingual Document Classification: A Meta-Learning Approach
 Attention-based Relational Graph Convolutional Network for Target-Oriented Opinion Words Extraction
-``Laughing at you or with you’’: The Role of Sarcasm in Shaping the Disagreement Space
+``Laughing at you or with you'': The Role of Sarcasm in Shaping the Disagreement Space
 I Beg to Differ: A study of constructive disagreement in online conversations
 Acquiring a Formality-Informed Lexical Resource for Style Analysis
 Language Modelling as a Multi-Task Problem
 ChainCQG: Flow-Aware Conversational Question Generation
 The Interplay of Task Success and Dialogue Quality: An in-depth Evaluation in Task-Oriented Visual Dialogues
-“Are you kidding me?”: Detecting Unpalatable Questions on Reddit
+"Are you kidding me?": Detecting Unpalatable Questions on Reddit
 Neural-Driven Search-Based Paraphrase Generation
 Word Alignment by Fine-tuning Embeddings on Parallel Corpora
 A Unified Feature Representation for Lexical Connotations
@@ -238,7 +238,7 @@ Metrical Tagging in the Wild: Building and Annotating Poetry Corpora with Rhythm
 Enhancing Aspect-level Sentiment Analysis with Word Dependencies
 On the (In)Effectiveness of Images for Natural Language Processing
 Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples
-“Talk to me with left, right, and angles”: Lexical entrainment in spoken Hebrew dialogue
+"Talk to me with left, right, and angles": Lexical entrainment in spoken Hebrew dialogue
 A Systematic Review of Reproducibility Research in Natural Language Processing
 Polarized-VAE: Proximity Based Disentangled Representation Learning for Text Generation
 Knowledge Base Question Answering through Recursive Hypergraphs
@@ -275,7 +275,7 @@ MultiHumES: Multilingual Humanitarian Dataset for Extractive Summarization
 BERT Prescriptions to Avoid Unwanted Headaches: A Comparison of Transformer Architectures for Adverse Drug Event Detection
 Semantic Parsing of Disfluent Speech
 Joint Energy-based Model Training for Better Calibrated Natural Language Understanding Models
-What Sounds “Right” to Me? Experiential Factors in the Perception of Political Ideology
+What Sounds "Right" to Me? Experiential Factors in the Perception of Political Ideology
 We Need To Talk About Random Splits
 How Certain is Your {T}ransformer?
 Data Augmentation for Voice-Assistant NLU using BERT-based Interchangeable Rephrase
@@ -286,7 +286,7 @@ Probing into the Root: A Dataset for Reason Extraction of Structural Events from
 Paraphrases do not explain word analogies
 An Empirical Study on the Generalization Power of Neural Representations Learned via Visual Guessing Games
 First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT
-On the evolution of syntactic information encoded by BERT’s contextualized representations
+On the evolution of syntactic information encoded by BERT's contextualized representations
 L2C: Describing Visual Differences Needs Semantic Understanding of Individuals
 Exploiting Definitions for Frame Identification
 ADePT: Auto-encoder based Differentially Private Text Transformation
@@ -302,7 +302,7 @@ Entity-level Factual Consistency of Abstractive Text Summarization
 Fine-Grained Event Trigger Detection
 Extremely Small BERT Models from Mixed-Vocabulary Training
 Diverse Adversaries for Mitigating Bias in Training
-`Just because you are right, doesn’t mean I am wrong’: Overcoming a bottleneck in development and evaluation of Open-Ended VQA tasks
+`Just because you are right, doesn't mean I am wrong': Overcoming a bottleneck in development and evaluation of Open-Ended VQA tasks
 CLiMP: A Benchmark for Chinese Language Model Evaluation
 Exploring the Limits of Few-Shot Link Prediction in Knowledge Graphs
 ProFormer: Towards On-Device LSH Projection Based Transformers
@@ -319,8 +319,8 @@ Framing Word Sense Disambiguation as a Multi-Label Problem for Model-Agnostic Kn
 Graph-based Fake News Detection using a Summarization Technique
 Disfluency Correction using Unsupervised and Semi-supervised Learning
 A Large-scale Evaluation of Neural Machine Transliteration for Indic Languages
-Don’t Change Me! User-Controllable Selective Paraphrase Generation
+Don't Change Me! User-Controllable Selective Paraphrase Generation
 Is the Understanding of Explicit Discourse Relations Required in Machine Reading Comprehension?
-“Killing Me” Is Not a Spoiler: Spoiler Detection Model using Graph Neural Networks with Dependency Relation-Aware Attention Mechanism
+"Killing Me" Is Not a Spoiler: Spoiler Detection Model using Graph Neural Networks with Dependency Relation-Aware Attention Mechanism
 BERTese: Learning to Speak to BERT
 Adaptation of Back-translation to Automatic Post-Editing for Synthetic Data Generation

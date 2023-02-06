@@ -1,5 +1,5 @@
 The Curse of Dense Low-Dimensional Information Retrieval for Large Index Sizes
-What’s in the Box? An Analysis of Undesirable Content in the Common Crawl Corpus
+What's in the Box? An Analysis of Undesirable Content in the Common Crawl Corpus
 Uncertainty and Surprisal Jointly Deliver the Punchline: Exploiting Incongruity-Based Features for Humor Recognition
 Parameter Selection: Why We Should Pay More Attention to It
 DuReader_robust: A Chinese Dataset Towards Evaluating Robustness and Generalization of Machine Reading Comprehension in Real-World Applications
@@ -63,7 +63,7 @@ Continual Quality Estimation with Online Bayesian Meta-Learning
 Relative Importance in Sentence Processing
 PRAL: A Tailored Pre-Training Model for Task-Oriented Dialog Generation
 WikiSum: Coherent Summarization Dataset for Efficient Human-Evaluation
-Replicating and Extending ``Because Their Treebanks Leak’’: Graph Isomorphism, Covariants, and Parser Performance
+Replicating and Extending ``Because Their Treebanks Leak'': Graph Isomorphism, Covariants, and Parser Performance
 Distinct Label Representations for Few-Shot Text Classification
 Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis
 Towards Generative Aspect-Based Sentiment Analysis
@@ -88,12 +88,12 @@ Learning to Solve NLP Tasks in an Incremental Number of Languages
 Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing
 The Case for Translation-Invariant Self-Attention in Transformer-Based Language Models
 Question Generation for Adaptive Education
-Measuring and Improving BERT’s Mathematical Abilities by Predicting the Order of Reasoning.
+Measuring and Improving BERT's Mathematical Abilities by Predicting the Order of Reasoning.
 MedNLI Is Not Immune: Natural Language Inference Artifacts in the Clinical Domain
 Lightweight Adapter Tuning for Multilingual Speech Translation
 Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations
 Zero-shot Event Extraction via Transfer Learning: Challenges and Insights
-AND does not mean OR: Using Formal Languages to Study Language Models’ Representations
+AND does not mean OR: Using Formal Languages to Study Language Models' Representations
 Can Transformer Models Measure Coherence In Text: Re-Thinking the Shuffle Test
 An Exploratory Analysis of Multilingual Word-Level Quality Estimation with Cross-Lingual Transformers
 Towards more equitable question answering systems: How much more data do you need?
@@ -118,14 +118,14 @@ Demoting the Lead Bias in News Summarization via Alternating Adversarial Learnin
 SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization
 Avoiding Overlap in Data Augmentation for AMR-to-Text Generation
 Quotation Recommendation and Interpretation Based on Transformation from Queries to Quotations
-Don’t Let Discourse Confine Your Model: Sequence Perturbations for Improved Event Language Models
+Don't Let Discourse Confine Your Model: Sequence Perturbations for Improved Event Language Models
 eMLM: A New Pre-training Objective for Emotion Related Tasks
 Discrete Cosine Transform as Universal Sentence Encoder
 Semantic Frame Induction using Masked Word Embeddings and Two-Step Clustering
 A Cluster-based Approach for Improving Isotropy in Contextual Embedding Space
 Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation
 Happy Dance, Slow Clap: Using Reaction GIFs to Predict Induced Affect on Twitter
-Don’t Rule Out Monolingual Speakers: A Method For Crowdsourcing Machine Translation Data
+Don't Rule Out Monolingual Speakers: A Method For Crowdsourcing Machine Translation Data
 Automatic Fake News Detection: Are Models Learning to Reason?
 Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction
 Counterfactuals to Control Latent Disentangled Text Representations for Style Transfer

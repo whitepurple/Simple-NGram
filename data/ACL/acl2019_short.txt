@@ -126,7 +126,7 @@ Learning to Rank for Plausible Plausibility
 Learning Emphasis Selection for Written Text in Visual Media from Crowd-Sourced Label Distributions
 SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking
 Towards Integration of Statistical Hypothesis Tests into Deep Neural Networks
-Why Didn’t You Listen to Me? Comparing User Control of Human-in-the-Loop Topic Models
+Why Didn't You Listen to Me? Comparing User Control of Human-in-the-Loop Topic Models
 Synthetic QA Corpora Generation with Roundtrip Consistency
 Attention-based Conditioning Methods for External Knowledge Integration
 Generating Diverse Translations with Sentence Codes

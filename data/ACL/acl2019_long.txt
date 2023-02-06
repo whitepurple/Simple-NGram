@@ -70,7 +70,7 @@ Neural Text Simplification of Clinical Letters with a Domain Specific Phrase Tab
 TIGS: An Inference Algorithm for Text Infilling with Gradient Search
 Stochastic Tokenization with a Language Model for Neural Text Classification
 Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency
-Modeling financial analysts’ decision making via the pragmatics and semantics of earnings calls
+Modeling financial analysts' decision making via the pragmatics and semantics of earnings calls
 Dialogue Natural Language Inference
 Budgeted Policy Learning for Task-Oriented Dialogue Systems
 An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis
@@ -431,7 +431,7 @@ Reference Network for Neural Machine Translation
 Target-Guided Open-Domain Conversation
 Mitigating Gender Bias in Natural Language Processing: Literature Review
 VIFIDEL: Evaluating the Visual Fidelity of Image Descriptions
-Searching for Effective Neural Extractive Summarization: What Works and What’s Next
+Searching for Effective Neural Extractive Summarization: What Works and What's Next
 Give Me More Feedback II: Annotating Thesis Strength and Related Attributes in Student Essays
 Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation
 Modeling Semantic Compositionality with Sememe Knowledge

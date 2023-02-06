@@ -32,7 +32,7 @@ Assessing Non-autoregressive Alignment in Neural Machine Translation via Word Re
 Syntax-guided Localized Self-attention by Constituency Syntactic Distance
 Quadapter: Adapter for GPT-2 Quantization
 On the Curious Case of l2 norm of Sense Embeddings
-"I Know Who You Are”: Character-Based Features for Conversational Humor Recognition in Chinese
+"I Know Who You Are": Character-Based Features for Conversational Humor Recognition in Chinese
 DebiasGAN: Eliminating Position Bias in News Recommendation with Adversarial Learning
 Multilingual Sentence Transformer as A Multilingual Word Aligner
 A Unified Framework for Pun Generation with Humor Principles
@@ -90,7 +90,7 @@ MBTI Personality Prediction for Fictional Characters Using Movie Scripts
 Table-To-Text generation and pre-training with TabT5
 Improving Few-Shot Domain Transfer for Named Entity Disambiguation with Pattern Exploitation
 Capturing Topic Framing via Masked Language Modeling
-Revisiting the Roles of "Text” in Text Games
+Revisiting the Roles of "Text" in Text Games
 FPT: Improving Prompt Tuning Efficiency via Progressive Training
 Modeling Context With Linear Attention for Scalable Document-Level Translation
 Adapting Multilingual Models for Code-Mixed Translation
@@ -189,7 +189,7 @@ AMAL: Meta Knowledge-Driven Few-Shot Adapter Learning
 An Empirical Study on the Transferability of Transformer Modules in Parameter-efficient Fine-tuning
 AdapterShare: Task Correlation Modeling with Adapter Differentiation
 Rethinking Task-Specific Knowledge Distillation: Contextualized Corpus as Better Textbook
-The "Problem” of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation
+The "Problem" of Human Label Variation: On Ground Truth in Data, Modeling and Evaluation
 Quality Scoring of Source Words in Neural Translation Models
 Pneg: Prompt-based Negative Response Generation for Dialogue Response Selection Task
 Simplified Graph Learning for Inductive Short Text Classification

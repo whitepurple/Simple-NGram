@@ -661,7 +661,7 @@
  On the (In)tractability of Computing Normalizing Constants for the Product of Determinantal Point Processes 
  Unsupervised Speech Decomposition via Triple Information Bottleneck 
  Teaching with Limited Information on the Learner's Behaviour 
- “Other-Play” for Zero-Shot Coordination 
+ "Other-Play" for Zero-Shot Coordination 
  LEEP: A New Measure to Evaluate Transferability of Learned Representations 
  Variable Skipping for Autoregressive Range Density Estimation 
  Privately Learning Markov Random Fields 
@@ -740,7 +740,7 @@
  Latent Space Factorisation and Manipulation via Matrix Subspace Projection 
  Equivariant Neural Rendering 
  Interferometric Graph Transform: a Deep Unsupervised Graph Representation 
- Learning Selection Strategies in Buchberger’s Algorithm 
+ Learning Selection Strategies in Buchberger's Algorithm 
  Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation 
  Spectral Subsampling MCMC for Stationary Time Series 
  SimGANs: Simulator-Based Generative Adversarial Networks for ECG Synthesis to Improve Deep ECG Classification 

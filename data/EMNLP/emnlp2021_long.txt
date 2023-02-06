@@ -439,7 +439,7 @@ Frequency Effects on Syntactic Rule Learning in Transformers
 A surprisal--duration trade-off across and within the world's languages
 Unsupervised Relation Extraction: A Variational Autoencoder Approach
 Aligning Multidimensional Worldviews and Discovering Ideological Differences
-Extend, don’t rebuild: Phrasing conditional graph modification as autoregressive sequence labelling
+Extend, don't rebuild: Phrasing conditional graph modification as autoregressive sequence labelling
 Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue Summarization
 You should evaluate your language model on marginal likelihood over tokenisations
 A Strong Baseline for Query Efficient Attacks in a Black Box Setting
@@ -449,7 +449,7 @@ Towards Label-Agnostic Emotion Embeddings
 Conditional Poisson Stochastic Beams
 Exploring the Role of BERT Token Representations to Explain Sentence Probing Results
 (Mis)alignment Between Stance Expressed in Social Media Data and Public Opinion Surveys
-Inducing Transformer’s Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks
+Inducing Transformer's Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks
 Phrase Retrieval Learns Passage Retrieval, Too
 Controllable Semantic Parsing via Retrieval Augmentation
 ConvAbuse: Data, Analysis, and Benchmarks for Nuanced Detection in Conversational AI
@@ -529,7 +529,7 @@ Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Co
 Softmax Tree: An Accurate, Fast Classifier When the Number of Classes Is Large
 Finding a Balanced Degree of Automation for Summary Evaluation
 AfroMT: Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages
-Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right
+Surface Form Competition: Why the Highest Probability Answer Isn't Always Right
 Weakly-Supervised Visual-Retriever-Reader for Knowledge-based Question Answering
 Connect-the-Dots: Bridging Semantics between Words and Definitions via Aligning Word Sense Inventories
 Iconary: A Pictionary-Based Game for Testing Multimodal Communication with Drawings and Text
@@ -852,7 +852,7 @@ KFCNet: Knowledge Filtering and Contrastive Learning for Generative Commonsense 
 Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus
 A Discourse-Aware Graph Neural Network for Emotion Recognition in Multi-Party Conversation
 Extract, Integrate, Compete: Towards Verification Style Reading Comprehension
-Comparing learnability of two dependency schemes: ‘semantic’ (UD) and ‘syntactic’ (SUD)
+Comparing learnability of two dependency schemes: 'semantic' (UD) and 'syntactic' (SUD)
 Eliminating Sentiment Bias for Aspect-Level Sentiment Classification with Unsupervised Opinion Extraction
 Data Efficient Masked Language Modeling for Vision and Language
 Improving Multilingual Neural Machine Translation with Auxiliary Source Languages

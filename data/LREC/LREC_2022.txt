@@ -1,0 +1,1272 @@
+Domain Adaptation in Neural Machine Translation using a Qualia-Enriched FrameNet
+HOPE: A Task-Oriented and Human-Centric Evaluation Framework Using Professional Post-Editing Towards More Effective MT Evaluation
+Priming Ancient Korean Neural Machine Translation
+GECO-MT: The Ghent Eye-tracking Corpus of Machine Translation
+Introducing Frege to Fillmore: A FrameNet Dataset that Captures both Sense and Reference
+Compiling a Suitable Level of Sense Granularity in a Lexicon for AI Purposes: The Open Source COR Lexicon
+Sense and Sentiment
+Enriching Linguistic Representation in the Cantonese Wordnet and Building the New Cantonese Wordnet Corpus
+ZAEBUC: An Annotated Arabic-English Bilingual Writer Corpus
+Turkish Universal Conceptual Cognitive Annotation
+Introducing the CURLICAT Corpora: Seven-language Domain Specific Annotated Corpora from Curated Sources
+RU-ADEPT: Russian Anonymized Dataset with Eight Personality Traits
+CoQAR: Question Rewriting on CoQA
+User Interest Modelling in Argumentative Dialogue Systems
+Every time I fire a conversational designer, the performance of the dialogue system goes down
+An Empirical Study on the Overlapping Problem of Open-Domain Dialogue Datasets
+Language Technologies for the Creation of Multilingual Terminologies. Lessons Learned from the SSHOC Project
+How to be FAIR when you CARE: The DGS Corpus as a Case Study of Open Science Resources for Minority Languages
+Italian NLP for Everyone: Resources and Models from EVALITA to the European Language Grid
+Cross-Lingual Link Discovery for Under-Resourced Languages
+Angry or Sad ? Emotion Annotation for Extremist Content Characterisation
+Identification of Multiword Expressions in Tweets for Hate Speech Detection
+Causal Investigation of Public Opinion during the COVID-19 Pandemic via Social Media Text
+Misspelling Semantics in Thai
+Automatic Detection of Stigmatizing Uses of Psychiatric Terms on Twitter
+CoVERT: A Corpus of Fact-checked Biomedical COVID-19 Tweets
+XLM-T: Multilingual Language Models in Twitter for Sentiment Analysis and Beyond
+'Am I the Bad One'? Predicting the Moral Judgement of the Crowd Using Pre–trained Language Models
+Generating Questions from Wikidata Triples
+Evaluating Transformer Language Models on Arithmetic Operations Using Number Decomposition
+Evaluating the Effects of Embedding with Speaker Identity Information in Dialogue Summarization
+Perceived Text Quality and Readability in Extractive and Abstractive Summaries
+Learning to Prioritize: Precision-Driven Sentence Filtering for Long Text Summarization
+Automating Horizon Scanning in Future Studies
+ViHealthBERT: Pre-trained Language Models for Vietnamese in Health Text Mining
+Privacy-Preserving Graph Convolutional Networks for Text Classification
+ArMATH: a Dataset for Solving Arabic Math Word Problems
+KIMERA: Injecting Domain Knowledge into Vacant Transformer Heads
+Distilling the Knowledge of Romanian BERTs Using Multiple Teachers
+Personalized Filled-pause Generation with Group-wise Prediction Models
+Transformer versus LSTM Language Models trained on Uncertain ASR Hypotheses in Limited Data Scenarios
+Out of Thin Air: Is Zero-Shot Cross-Lingual Keyword Detection Better Than Unsupervised?
+Evaluating Pretraining Strategies for Clinical BERT Models
+KazNERD: Kazakh Named Entity Recognition Dataset
+Mitigating Dataset Artifacts in Natural Language Inference Through Automatic Contextual Data Augmentation and Learning Optimization
+Kompetencer: Fine-grained Skill Classification in Danish Job Postings via Distant Supervision and Transfer Learning
+Semantic Role Labelling for Dutch Law Texts
+English Language Spelling Correction as an Information Retrieval Task Using Wikipedia Search Statistics
+CrudeOilNews: An Annotated Crude Oil News Corpus for Event Extraction
+Claim Extraction and Law Matching for COVID-19-related Legislation
+Constructing A Dataset of Support and Attack Relations in Legal Arguments in Court Judgements using Linguistic Rules
+KIND: an Italian Multi-Domain Dataset for Named Entity Recognition
+Russian Jeopardy! Data Set for Question-Answering Systems
+Know Better – A Clickbait Resolving Challenge
+Valet: Rule-Based Information Extraction for Rapid Deployment
+Negation Detection in Dutch Spoken Human-Computer Conversations
+Reflections on 30 Years of Language Resource Development and Sharing
+Language Resources to Support Language Diversity – the ELRA Achievements
+Ethical Issues in Language Resources and Language Technology – Tentative Categorisation
+Do we Name the Languages we Study? The #BenderRule in LREC and ACL articles
+Aspect-Based Emotion Analysis and Multimodal Coreference: A Case Study of Customer Comments on Adidas Instagram Posts
+Multi-source Multi-domain Sentiment Analysis with BERT-based Models
+NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis
+A (Psycho-)Linguistically Motivated Scheme for Annotating and Exploring Emotions in a Genre-Diverse Corpus
+Integrating a Phrase Structure Corpus Grammar and a Lexical-Semantic Network: the HOLINET Knowledge Graph
+On the Impact of Temporal Representations on Metaphor Detection
+Analysis and Prediction of NLP Models via Task Embeddings
+Cross-lingual and Cross-domain Transfer Learning for Automatic Term Extraction from Low Resource Data
+Few-Shot Learning for Argument Aspects of the Nuclear Energy Debate
+MuLVE, A Multi-Language Vocabulary Evaluation Data Set
+PLOD: An Abbreviation Detection Dataset for Scientific Documents
+Potential Idiomatic Expression (PIE)-English: Corpus for Classes of Idioms
+LeSpell - A Multi-Lingual Benchmark Corpus of Spelling Errors to Develop Spellchecking Methods for Learner Language
+Subjective Text Complexity Assessment for German
+Querying Interaction Structure: Approaches to Overlap in Spoken Language Corpora
+DiaBiz – an Annotated Corpus of Polish Call Center Dialogs
+LaVA – Latvian Language Learner corpus
+The EuroPat Corpus: A Parallel Corpus of European Patent Data
+"Beste Grüße, Maria Meyer" — Pseudonymization of Privacy-Sensitive Information in Emails
+Criteria for the Annotation of Implicit Stereotypes
+Common Phone: A Multilingual Dataset for Robust Acoustic Modelling
+Curras + Baladi: Towards a Levantine Corpus
+Annotation Study of Japanese Judgments on Tort for Legal Judgment Prediction with Rationales
+Placing M-Phasis on the Plurality of Hate: A Feature-Based Corpus of Hate Online
+ParCorFull2.0: a Parallel Corpus Annotated with Full Coreference
+A Multi-Party Dialogue Ressource in French
+Bicleaner AI: Bicleaner Goes Neural
+Semi-automatically Annotated Learner Corpus for Russian
+UniMorph 4.0: Universal Morphology
+Textinator: an Internationalized Tool for Annotation and Human Evaluation in Natural Language Processing and Generation
+CyberAgressionAdo-v1: a Dataset of Annotated Online Aggressions in French Collected through a Role-playing Game
+Finnish Hate-Speech Detection on Social Media Using CNN and FinBERT
+Empirical Analysis of Noising Scheme based Synthetic Data Generation for Automatic Post-editing
+Domain Mismatch Doesn't Always Prevent Cross-lingual Transfer Learning
+Cross-Lingual Knowledge Transfer for Clinical Phenotyping
+The Multilingual Microblog Translation Corpus: Improving and Evaluating Translation of User-Generated Text
+Multilingual and Multimodal Learning for Brazilian Portuguese
+LibriS2S: A German-English Speech-to-Speech Translation Corpus
+A Linguistically Motivated Test Suite to Semi-Automatically Evaluate German–English Machine Translation Output
+Cross-lingual Transfer of Monolingual Models
+Dataset of Student Solutions to Algorithm and Data Structure Programming Assignments
+Language Patterns and Behaviour of the Peer Supporters in Multilingual Healthcare Conversational Forums
+Frame Shift Prediction
+CLeLfPC: a Large Open Multi-Speaker Corpus of French Cued Speech
+Samrómur Children: An Icelandic Speech Corpus
+The Norwegian Parliamentary Speech Corpus
+A Speech Recognizer for Frisian/Dutch Council Meetings
+Elderly Conversational Speech Corpus with Cognitive Impairment Test and Pilot Dementia Detection Experiment Using Acoustic Characteristics of Speech in Japanese Dialects
+A Spoken Drug Prescription Dataset in French for Spoken Language Understanding
+Towards an Open-Source Dutch Speech Recognition System for the Healthcare Domain
+A Dataset for Speech Emotion Recognition in Greek Theatrical Plays
+Audiobook Dialogues as Training Data for Conversational Style Synthetic Voices
+Using a Knowledge Base to Automatically Annotate Speech Corpora and to Identify Sociolinguistic Variation
+Phone Inventories and Recognition for Every Language
+Constructing Parallel Corpora from COVID-19 News using MediSys Metadata
+A Distant Supervision Corpus for Extracting Biomedical Relationships Between Chemicals, Diseases and Genes
+DrugEHRQA: A Question Answering Dataset on Structured and Unstructured Electronic Health Records For Medicine Related Queries
+Efficiently and Thoroughly Anonymizing a Transformer Language Model for Dutch Electronic Health Records: a Two-Step Method
+BERTrade: Using Contextual Embeddings to Parse Old French
+Out-of-Domain Evaluation of Finnish Dependency Parsing
+TArC: Tunisian Arabish Corpus, First complete release
+Towards Universal Segmentations: UniSegments 1.0
+TeDDi Sample: Text Data Diversity Sample for Language Comparison and Multilingual NLP
+Leveraging a Bilingual Dictionary to Learn Wolastoqey Word Representations
+Unmasking the Myth of Effortless Big Data - Making an Open Source Multi-lingual Infrastructure and Building Language Resources from Scratch
+Building and curating conversational corpora for diversity-aware language science and technology
+EPIC UdS - Creation and Applications of a Simultaneous Interpreting Corpus
+Development of a Benchmark Corpus to Support Entity Recognition in Job Descriptions
+CAMIO: A Corpus for OCR in Multiple Languages
+FABRA: French Aggregator-Based Readability Assessment toolkit
+Towards Building a Spoken Dialogue System for Argument Exploration
+FreeTalky: Don't Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue
+Self-Contained Utterance Description Corpus for Japanese Dialog
+DialCrowd 2.0: A Quality-Focused Dialog System Crowdsourcing Toolkit
+A Brief Survey of Textual Dialogue Corpora
+A Unified Approach to Entity-Centric Context Tracking in Social Conversations
+A Unifying View On Task-oriented Dialogue Annotation
+A Multi-source Graph Representation of the Movie Domain for Recommendation Dialogues Analysis
+SHARE: A Lexicon of Harmful Expressions by Spanish Speakers
+Wiktextract: Wiktionary as Machine-Readable Structured Data
+NyLLex: A Novel Resource of Swedish Words Annotated with Reading Proficiency Level
+Making a Semantic Event-type Ontology Multilingual
+NomVallex: A Valency Lexicon of Czech Nouns and Adjectives
+TZOS: an Online Terminology Database Aimed at Working on Basque Academic Terminology Collaboratively
+Animacy Denoting German Nouns: Annotation and Classification
+x-enVENT: A Corpus of Event Descriptions with Experiencer-specific Emotion and Appraisal Annotations
+Polar Quantification of Actor Noun Phrases for German
+Czech Dataset for Cross-lingual Subjectivity Classification
+RED v2: Enhancing RED Dataset for Multi-Label Emotion Detection
+Fine-Grained Error Analysis and Fair Evaluation of Labeled Spans
+Probing Pre-trained Auto-regressive Language Models for Named Entity Typing and Recognition
+Frustratingly Easy Performance Improvements for Low-resource Setups: A Tale on BERT and Segment Embeddings
+The Subject Annotations of the Danish Parliament Corpus (2009-2017) - Evaluated with Automatic Multi-label Classification
+A Systematic Study Reveals Unexpected Interactions in Pre-Trained Neural Machine Translation
+Holistic Evaluation of Automatic TimeML Annotators
+Measuring Uncertainty in Translation Quality Evaluation (TQE)
+Challenging the Transformer-based models with a Classical Arabic dataset: Quran and Hadith
+Question Modifiers in Visual Question Answering
+Multimodal Pipeline for Collection of Misinformation Data from Telegram
+Identifying Tension in Holocaust Survivors' Interview: Code-switching/Code-mixing as Cues
+Fine-tuning vs From Scratch: Do Vision & Language Models Have Similar Capabilities on Out-of-Distribution Visual Question Answering?
+Multilingual Image Corpus – Towards a Multimodal and Multilingual Dataset
+Sign Language Production With Avatar Layering: A Critical Use Case over Rare Words
+The VoxWorld Platform for Multimodal Embodied Agents
+MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes
+RUSAVIC Corpus: Russian Audio-Visual Speech in Cars
+A First Corpus of AZee Discourse Expressions
+BERTHA: Video Captioning Evaluation Via Transfer-Learned Human Assessment
+Abstract Meaning Representation for Gesture
+The GINCO Training Dataset for Web Genre Identification of Documents Out in the Wild
+The Spoken Language Understanding MEDIA Benchmark Dataset in the Era of Deep Learning: data updates, training and evaluation tools
+BasqueGLUE: A Natural Language Understanding Benchmark for Basque
+Resources and Experiments on Sentiment Classification for Georgian
+CoFiF Plus: A French Financial Narrative Summarisation Corpus
+Generating Extended and Multilingual Summaries with Pre-trained Transformers
+MUSS: Multilingual Unsupervised Sentence Simplification by Mining Paraphrases
+Towards Understanding Gender-Seniority Compound Bias in Natural Language Generation
+Combining ELECTRA and Adaptive Graph Encoding for Frame Identification
+Polysemy in Spoken Conversations and Written Texts
+Cross-Level Semantic Similarity for Serbian Newswire Texts
+Universal Proposition Bank 2.0
+The Copenhagen Corpus of Eye Tracking Recordings from Natural Reading of Danish Texts
+The Brooklyn Multi-Interaction Corpus for Analyzing Variation in Entrainment Behavior
+Pro-TEXT: an Annotated Corpus of Keystroke Logs
+Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game
+DiHuTra: a Parallel Corpus to Analyse Differences between Human Translations
+Data Expansion Using WordNet-based Semantic Expansion and Word Disambiguation for Cyberbullying Detection
+ALIGNMEET: A Comprehensive Tool for Meeting Annotation, Alignment, and Evaluation
+KSoF: The Kassel State of Fluency Dataset – A Therapy Centered Dataset of Stuttering
+EZCAT: an Easy Conversation Annotation Tool
+Spoken Language Treebanks in Universal Dependencies: an Overview
+LeConTra: A Learner Corpus of English-to-Dutch News Translation
+Annotating Attribution in Czech News Server Articles
+Xposition: An Online Multilingual Database of Adpositional Semantics
+A Study in Contradiction: Data and Annotation for AIDA Focusing on Informational Conflict in Russia-Ukraine Relations
+Annotating Verbal Multiword Expressions in Arabic: Assessing the Validity of a Multilingual Annotation Procedure
+Annotation of Communicative Functions of Short Feedback Tokens in Switchboard
+A Dataset of Offensive Language in Kosovo Social Media
+The Arabic Parallel Gender Corpus 2.0: Extensions and Analyses
+The Engage Corpus: A Social Media Dataset for Text-Based Recommender Systems
+Annotating Arguments in a Corpus of Opinion Articles
+German Parliamentary Corpus (GerParCor)
+NerKor+Cars-OntoNotes++
+A Comparative Cross Language View On Acted Databases Portraying Basic Emotions Utilising Machine Learning
+Nkululeko: A Tool For Rapid Speaker Characteristics Detection
+Speech Aerodynamics Database, Tools and Visualisation
+PATATRA and PATAFreq: two French databases for the documentation of within-speaker variability in speech
+The Makerere Radio Speech Corpus: A Luganda Radio Corpus for Automatic Speech Recognition
+Far-Field Speaker Recognition Benchmark Derived From The DiPCo Corpus
+Evaluating Sampling-based Filler Insertion with Spontaneous TTS
+BEA-Base: A Benchmark for ASR of Spontaneous Hungarian
+SNuC: The Sheffield Numbers Spoken Language Corpus
+The ManDi Corpus: A Spoken Corpus of Mandarin Regional Dialects
+The Speed-Vel Project: a Corpus of Acoustic and Aerodynamic Data to Measure Droplets Emission During Speech Interaction
+Towards Speech-only Opinion-level Sentiment Analysis
+At the Intersection of NLP and Sustainable Development: Exploring the Impact of Demographic-Aware Text Representations in Modeling Value on a Corpus of Interviews
+A Study on the Ambiguity in Human Annotation of German Oral History Interviews for Perceived Emotion Recognition and Sentiment Analysis
+Detecting Optimism in Tweets using Knowledge Distillation and Linguistic Analysis of Optimism
+Dataset and Baseline for Automatic Student Feedback Analysis
+EENLP: Cross-lingual Eastern European NLP Index
+Slovene SuperGLUE Benchmark: Translation and Evaluation
+Speech Resources in the Tamasheq Language
+Aesop's fable "The North Wind and the Sun" Used as a Rosetta Stone to Extract and Map Spoken Words in Under-resourced Languages
+Multilingual Open Text Release 1: Public Domain News in 44 Languages
+TweetTaglish: A Dataset for Investigating Tagalog-English Code-Switching
+Jojajovai: A Parallel Guarani-Spanish Corpus for MT Benchmarking
+Assessing Multilinguality of Publicly Accessible Websites
+A Methodology for Building a Diachronic Dataset of Semantic Shifts and its Application to QC-FR-Diac-V1.0, a Free Reference for French
+CRASS: A Novel Data Set and Benchmark to Test Counterfactual Reasoning of Large Language Models
+Evaluating Gender Bias in Speech Translation
+Design Choices in Crowdsourcing Discourse Relation Annotations: The Effect of Worker Selection and Training
+TBD3: A Thresholding-Based Dynamic Depression Detection from Social Media for Low-Resource Users
+SpecNFS: A Challenge Dataset Towards Extracting Formal Models from Natural Language Specifications
+Argument Similarity Assessment in German for Intelligent Tutoring: Crowdsourced Dataset and First Experiments
+Leveraging Pre-trained Language Models for Gender Debiasing
+Unsupervised Embeddings with Graph Auto-Encoders for Multi-domain and Multilingual Hate Speech Detection
+FQuAD2.0: French Question Answering and Learning When You Don't Know
+Large-Scale Hate Speech Detection with Cross-Domain Transfer
+GLoHBCD: A Naturalistic German Dataset for Language of Health Behaviour Change on Online Support Forums
+Creating a Data Set of Abstractive Summaries of Turn-labeled Spoken Human-Computer Conversations
+OpenEL: An Annotated Corpus for Entity Linking and Discourse in Open Domain Dialogue
+Collecting Visually-Grounded Dialogue with A Game Of Sorts
+CoRoSeOf - An Annotated Corpus of Romanian Sexist and Offensive Tweets
+ArMIS - The Arabic Misogyny and Sexism Corpus with Annotator Subjective Disagreements
+Annotating Interruption in Dyadic Human Interaction
+The Causal News Corpus: Annotating Causal Relations in Event Sentences from News
+Samrómur: Crowd-sourcing large amounts of data
+An Annotated Corpus of Textual Explanations for Clinical Decision Support
+LARD: Large-scale Artificial Disfluency Generation
+The CRECIL Corpus: a New Dataset for Extraction of Relations between Characters in Chinese Multi-party Dialogues
+The Bahrain Corpus: A Multi-genre Corpus of Bahraini Arabic
+A Universal Dependencies Treebank of Ancient Hebrew
+Hate Speech Dynamics Against African descent, Roma and LGBTQI Communities in Portugal
+Evolving Large Text Corpora: Four Versions of the Icelandic Gigaword Corpus
+A Pragmatics-Centered Evaluation Framework for Natural Language Understanding
+Conversational Analysis of Daily Dialog Data using Polite Emotional Dialogue Acts
+Inducing Discourse Marker Inventories from Lexical Knowledge Graphs
+Story Trees: Representing Documents using Topological Persistence
+Extracting and Analysing Metaphors in Migration Media Discourse: towards a Metaphor Annotation Scheme
+DDisCo: A Discourse Coherence Dataset for Danish
+LPAttack: A Feasible Annotation Scheme for Capturing Logic Pattern of Attacks in Arguments
+BeSt: The Belief and Sentiment Corpus
+MOTIF: Contextualized Images for Complex Words to Improve Human Reading
+Challenges with Sign Language Datasets for Sign Language Recognition and Translation
+A Low-Cost Motion Capture Corpus in French Sign Language for Interpreting Iconicity and Spatial Referencing Mechanisms
+The CLAMS Platform at Work: Processing Audiovisual Data from the American Archive of Public Broadcasting
+BU-NEmo: an Affective Dataset of Gun Violence News
+RoomReader: A Multimodal Corpus of Online Multiparty Conversational Interactions
+Quevedo: Annotation and Processing of Graphical Languages
+Merkel Podcast Corpus: A Multimodal Dataset Compiled from 16 Years of Angela Merkel's Weekly Video Podcasts
+Crowdsourcing Kazakh-Russian Sign Language: FluentSigners-50
+Connecting a French Dictionary from the Beginning of the 20th Century to Wikidata
+Metaphor annotation for German
+NorDiaChange: Diachronic Semantic Change Dataset for Norwegian
+Exploring Transformers for Ranking Portuguese Semantic Relations
+Building Static Embeddings from Contextual Ones: Is It Useful for Building Distributional Thesauri?
+Sentence Selection Strategies for Distilling Word Embeddings from BERT
+DiaWUG: A Dataset for Diatopic Lexical Semantic Variation in Spanish
+My Case, For an Adposition: Lexical Polysemy of Adpositions and Case Markers in Finnish and Latin
+WiC-TSV-de: German Word-in-Context Target-Sense-Verification Dataset and Cross-Lingual Transfer Analysis
+Re-train or Train from Scratch? Comparing Pre-training Strategies of BERT in the Medical Domain
+Universal Semantic Annotator: the First Unified API for WSD, SRL and Semantic Parsing
+D3: A Massive Dataset of Scholarly Metadata for Analyzing the State of Computer Science Research
+SciPar: A Collection of Parallel Corpora from Scientific Abstracts
+CATs are Fuzzy PETs: A Corpus and Analysis of Potentially Euphemistic Terms
+Camel Treebank: An Open Multi-genre Arabic Dependency Treebank
+MentSum: A Resource for Exploring Summarization of Mental Health Online Posts
+Klexikon: A German Dataset for Joint Summarization and Simplification
+Applying Automatic Text Summarization for Fake News Detection
+Increasing CMDI's Semantic Interoperability with schema.org
+RefCo and its Checker: Improving Language Documentation Corpora's Reusability Through a Semi-Automatic Review Process
+Identification and Analysis of Personification in Hungarian: The PerSECorp project
+ISO-based Annotated Multilingual Parallel Corpus for Discourse Markers
+LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild
+Modality Alignment between Deep Representations for Effective Video-and-Language Learning
+Mutual Gaze and Linguistic Repetition in a Multimodal Corpus
+Multidimensional Coding of Multimodal Languaging in Multi-Party Settings
+Constructing a Lexical Resource of Russian Derivational Morphology
+Using Linguistic Typology to Enrich Multilingual Lexicons: the Case of Lexical Gaps in Kinship
+Towards Latvian WordNet
+Building Sentiment Lexicons for Mainland Scandinavian Languages Using Machine Translation and Sentence Embeddings
+A Thesaurus-based Sentiment Lexicon for Danish: The Danish Sentiment Lexicon
+IndoUKC: A Concept-Centered Indian Multilingual Lexical Resource
+Korean Language Modeling via Syntactic Guide
+A Whole-Person Function Dictionary for the Mobility, Self-Care and Domestic Life Domains: a Seedset Expansion Approach
+Placing multi-modal, and multi-lingual Data in the Humanities Domain on the Map: the Mythotopia Geo-tagged Corpus
+An Architecture of resolving a multiple link path in a standoff-style data format to enhance the mobility of language resources
+A Corpus of German Citizen Contributions in Mobility Planning: Supporting Evaluation Through Multidimensional Classification
+Overlooked Data in Typological Databases: What Grambank Teaches Us About Gaps in Grammars
+Hong Kong: Longitudinal and Synchronic Characterisations of Protest News between 1998 and 2020
+Nunc profana tractemus. Detecting Code-Switching in a Large Corpus of 16th Century Letters
+Quality and Efficiency of Manual Annotation: Pre-annotation Bias
+A Comprehensive Evaluation and Correction of the TimeBank Corpus
+Evaluating Multilingual Sentence Representation Models in a Real Case Scenario
+Validity, Agreement, Consensuality and Annotated Data Quality
+Impact Analysis of the Use of Speech and Language Models Pretrained by Self-Supersivion for Spoken Language Understanding
+JGLUE: Japanese General Language Understanding Evaluation
+Using the LARA Little Prince to compare human and TTS audio quality
+Cyberbullying Classifiers are Sensitive to Model-Agnostic Perturbations
+Constructing Distributions of Variation in Referring Expression Type from Corpora for Model Evaluation
+Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis
+Multi-Task Learning for Cross-Lingual Abstractive Summarization
+How Much Context Span is Enough? Examining Context-Related Issues for Document-level MT
+TANDO: A Corpus for Document-level Machine Translation
+Unsupervised Machine Translation in Real-World Scenarios
+COVID-19 Mythbusters in World Languages
+On the Multilingual Capabilities of Very Large-Scale English Language Models
+Evaluating Subtitle Segmentation for End-to-end Generation Systems
+Using Semantic Role Labeling to Improve Neural Machine Translation
+A Deep Transfer Learning Method for Cross-Lingual Natural Language Inference
+Simple TICO-19: A Dataset for Joint Translation and Simplification of COVID-19 Texts
+Building Comparable Corpora for Assessing Multi-Word Term Alignment
+Mean Machine Translations: On Gender Bias in Icelandic Machine Translations
+An Analysis of Dialogue Act Sequence Similarity Across Multiple Domains
+Constructing a Culinary Interview Dialogue Corpus with Video Conferencing Tool
+UgChDial: A Uyghur Chat-based Dialogue Corpus for Response Space Classification
+A Speculative and Tentative Common Ground Handling for Efficient Composition of Uncertain Dialogue
+BaSCo: An Annotated Basque-Spanish Code-Switching Corpus for Natural Language Understanding
+ProDial – An Annotated Proactive Dialogue Act Corpus for Conversational Assistants using Crowdsourcing
+ELITR Minuting Corpus: A Novel Dataset for Automatic Minuting from Multi-Party Meetings in English and Czech
+Extracting Age-Related Stereotypes from Social Media Texts
+Borrowing or Codeswitching? Annotating for Finer-Grained Distinctions in Language Mixing
+Multi-Aspect Transfer Learning for Detecting Low Resource Mental Disorders on Social Media
+ArCovidVac: Analyzing Arabic Tweets About COVID-19 Vaccination
+FACTOID: A New Dataset for Identifying Misinformation Spreaders and Political Bias
+Multitask Learning for Grapheme-to-Phoneme Conversion of Anglicisms in German Speech Recognition
+SDS-200: A Swiss German Speech to Standard German Text Corpus
+Extracting Linguistic Knowledge from Speech: A Study of Stop Realization in 5 Romance Languages
+Overlaps and Gender Analysis in the Context of Broadcast Media
+A Semi-Automatic Approach to Create Large Gender- and Age-Balanced Speaker Corpora: Usefulness of Speaker Diarization & Identification.
+DiscoGeM: A Crowdsourced Corpus of Genre-Mixed Implicit Discourse Relations
+QT30: A Corpus of Argument and Conflict in Broadcast Debate
+Scaling up Discourse Quality Annotation for Political Science
+Clarifying Implicit and Underspecified Phrases in Instructional Text
+Multilingual Pragmaticon: Database of Discourse Formulae
+Distant Reading in Digital Humanities: Case Study on the Serbian Part of the ELTeC Collection
+Exploring Text Recombination for Automatic Narrative Level Detection
+Automatic Normalisation of Early Modern French
+From FreEM to D'AlemBERT: a Large Corpus and a Language Model for Early Modern French
+Detecting Multiple Transitions in Literary Texts
+BasqueParl: A Bilingual Corpus of Basque Parliamentary Transcriptions
+GerEO: A Large-Scale Resource on the Syntactic Distribution of German Experiencer-Object Verbs
+ACT2: A multi-disciplinary semi-structured dataset for importance and purpose classification of citations
+Quantification Annotation in ISO 24617-12, Second Draft
+The LTRC Hindi-Telugu Parallel Corpus
+MHE: Code-Mixed Corpora for Similar Language Identification
+Bazinga! A Dataset for Multi-Party Dialogues Structuring
+The Ellogon Web Annotation Tool: Annotating Moral Values and Arguments
+WeCanTalk: A New Multi-language, Multi-modal Resource for Speaker Recognition
+Using Wiktionary to Create Specialized Lexical Resources and Datasets
+STAPI: An Automatic Scraper for Extracting Iterative Title-Text Structure from Web Documents
+ELTE Poetry Corpus: A Machine Annotated Database of Canonical Hungarian Poetry
+HAWP: a Dataset for Hindi Arithmetic Word Problem Solving
+The Bulgarian Event Corpus: Overview and Initial NER Experiments
+A Corpus for Commonsense Inference in Story Cloze Test
+Lessons Learned from GPT-SW3: Building the First Large-Scale Generative Language Model for Swedish
+Constrained Language Models for Interactive Poem Generation
+ELF22: A Context-based Counter Trolling Dataset to Combat Internet Trolls
+Generating Textual Explanations for Machine Learning Models Performance: A Table-to-Text Task
+Barch: an English Dataset of Bar Chart Summaries
+Effectiveness of Data Augmentation and Pretraining for Improving Neural Headline Generation in Low-Resource Settings
+Effectiveness of French Language Models on Abstractive Dialogue Summarization Task
+ALEXSIS: A Dataset for Lexical Simplification in Spanish
+The IARPA BETTER Program Abstract Task Four New Semantically Annotated Corpora from IARPA's BETTER Program
+A Named Entity Recognition Corpus for Vietnamese Biomedical Texts to Support Tuberculosis Treatment
+RaFoLa: A Rationale-Annotated Corpus for Detecting Indicators of Forced Labour
+Wojood: Nested Arabic Named Entity Corpus and Recognition using BERT
+Cross-lingual Approaches for the Detection of Adverse Drug Reactions in German from a Patient's Perspective
+GGPONC 2.0 - The German Clinical Guideline Corpus for Oncology: Curation Workflow, Annotation Policy, Baseline NER Taggers
+ClinIDMap: Towards a Clinical IDs Mapping for Data Interoperability
+Identifying Draft Bills Impacting Existing Legislation: a Case Study on Romanian
+MuLD: The Multitask Long Document Benchmark
+A Cross-document Coreference Dataset for Longitudinal Tracking across Radiology Reports
+How's Business Going Worldwide ? A Multilingual Annotated Corpus for Business Relation Extraction
+Do Transformer Networks Improve the Discovery of Rules from Text?
+Offensive language detection in Hebrew: can other languages help?
+JaMIE: A Pipeline Japanese Medical Information Extraction System with Novel Relation Annotation
+Enhanced Entity Annotations for Multilingual Corpora
+Enriching Epidemiological Thematic Features For Disease Surveillance Corpora Classification
+Spanish Datasets for Sensitive Entity Detection in the Legal Domain
+ConvTextTM: An Explainable Convolutional Tsetlin Machine Framework for Text Classification
+Elvis vs. M. Jackson: Who has More Albums? Classification and Identification of Elements in Comparative Questions
+Decorate the Examples: A Simple Method of Prompt Design for Biomedical Relation Extraction
+Comparing Annotated Datasets for Named Entity Recognition in English Literature
+Investigating User Radicalization: A Novel Dataset for Identifying Fine-Grained Temporal Shifts in Opinion
+APPReddit: a Corpus of Reddit Posts Annotated for Appraisal
+Evaluating Methods for Extraction of Aspect Terms in Opinion Texts in Portuguese - the Challenges of Implicit Aspects
+SenticNet 7: A Commonsense-based Neurosymbolic AI Framework for Explainable Sentiment Analysis
+Building an Endangered Language Resource in the Classroom: Universal Dependencies for Kakataibo
+The Norwegian Colossal Corpus: A Text Corpus for Training Large Norwegian Language Models
+Embeddings models for Buddhist Sanskrit
+Development of Automatic Speech Recognition for the Documentation of Cook Islands Māori
+A Generalized Approach to Protest Event Detection in German Local News
+Evaluation of Transfer Learning and Domain Adaptation for Analyzing German-Speaking Job Advertisements
+Pre-Training Language Models for Identifying Patronizing and Condescending Language: An Analysis
+HeLI-OTS, Off-the-shelf Language Identifier for Text
+Towards a Broad Coverage Named Entity Resource: A Data-Efficient Approach for Many Diverse Languages
+Towards the Construction of a WordNet for Old English
+A Framenet and Frame Annotator for German Social Media
+The Robotic Surgery Procedural Framebank
+Representing the Toddler Lexicon: Do the Corpus and Semantics Matter?
+Organizing and Improving a Database of French Word Formation Using Formal Concept Analysis
+Towards a new Ontology for Sign Languages
+Towards the Detection of a Semantic Gap in the Chain of Commonsense Knowledge Triples
+COPA-SSE: Semi-structured Explanations for Commonsense Reasoning
+GRhOOT: Ontology of Rhetorical Figures in German
+Querying a Dozen Corpora and a Thousand Years with Fintan
+The Index Thomisticus Treebank as Linked Data in the LiLa Knowledge Base
+Building a Multilingual Taxonomy of Olfactory Terms with Timestamps
+Attention Understands Semantic Relations
+Analysis of Dialogue in Human-Human Collaboration in Minecraft
+Data Collection for Empirically Determining the Necessary Information for Smooth Handover in Dialogue
+The slurk Interaction Server Framework: Better Data for Better Dialog Models
+Corpus Design for Studying Linguistic Nudges in Human-Computer Spoken Interactions
+Dialogue Corpus Construction Considering Modality and Social Relationships in Building Common Ground
+EmoWOZ: A Large-Scale Corpus and Labelling Scheme for Emotion Recognition in Task-Oriented Dialogue Systems
+Data Augmentation with Paraphrase Generation and Entity Extraction for Multimodal Dialogue System
+Towards Modelling Self-imposed Filter Bubbles in Argumentative Dialogue Systems
+Telling a Lie: Analyzing the Language of Information and Misinformation during Global Health Events
+Misogyny and Aggressiveness Tend to Come Together and Together We Address Them
+The ComMA Dataset V0.2: Annotating Aggression and Bias in Multilingual Social Media Discourse
+Tweet Emotion Dynamics: Emotion Word Usage in Tweets from US and Canada
+A Turkish Hate Speech Dataset and Detection System
+Life is not Always Depressing: Exploring the Happy Moments of People Diagnosed with Depression
+Evaluating Tokenizers Impact on OOVs Representation with Transformers Models
+Assessing the Quality of an Italian Crowdsourced Idiom Corpus:the Dodiom Experiment
+Medical Crossing: a Cross-lingual Evaluation of Clinical Entity Linking
+MTLens: Machine Translation Output Debugging
+IceBATS: An Icelandic Adaptation of the Bigger Analogy Test Set
+Transfer Learning Methods for Domain Adaptation in Technical Logbook Datasets
+Downstream Task Performance of BERT Models Pre-Trained Using Automatically De-Identified Clinical Data
+Dilated Convolutional Neural Networks for Lightweight Diacritics Restoration
+Generating Artificial Texts as Substitution or Complement of Training Data
+From Pattern to Interpretation. Using Colibri Core to Detect Translation Patterns in the Peshitta.
+PAGnol: An Extra-Large French Generative Model
+CEPOC: The Cambridge Exams Publishing Open Cloze dataset
+ALBETO and DistilBETO: Lightweight Spanish Language Models
+On the Robustness of Cognate Generation Models
+CLISTER : A Corpus for Semantic Textual Similarity in French Clinical Narratives
+The Chinese Causative-Passive Homonymy Disambiguation: an adversarial Dataset for NLI and a Probing Task
+Modeling Noise in Paraphrase Detection
+Give me your Intentions, I'll Predict our Actions: A Two-level Classification of Speech Acts for Crisis Management in Social Media
+Towards a Cleaner Document-Oriented Multilingual Crawled Corpus
+A Warm Start and a Clean Crawled Corpus - A Recipe for Good Language Models
+Adapting Language Models When Training on Privacy-Transformed Data
+Evaluation of Transfer Learning for Polish with a Text-to-Text Model
+Evaluation of HTR models without Ground Truth Material
+A Semi-Automated Live Interlingual Communication Workflow Featuring Intralingual Respeaking: Evaluation and Benchmarking
+Are Embedding Spaces Interpretable? Results of an Intrusion Detection Evaluation on a Large French Corpus
+Corpus for Automatic Structuring of Legal Documents
+The Search for Agreement on Logical Fallacy Annotation of an Infodemic
+Recovering Patient Journeys: A Corpus of Biomedical Entities and Relations on Twitter (BEAR)
+Improving Event Duration Question Answering by Leveraging Existing Temporal Information Extraction Data
+Entity Linking over Nested Named Entities for Russian
+HiNER: A large Hindi Named Entity Recognition Dataset
+Bootstrapping Text Anonymization Models with Distant Supervision
+Natural Questions in Icelandic
+QA4IE: A Quality Assurance Tool for Information Extraction
+A New Dataset for Topic-Based Paragraph Classification in Genocide-Related Court Transcripts
+DeepREF: A Framework for Optimized Deep Learning-based Relation Classification
+Exploring Data Augmentation Strategies for Hate Speech Detection in Roman Urdu
+Incorporating LIWC in Neural Networks to Improve Human Trait and Behavior Analysis in Low Resource Scenarios
+Using Sentence-level Classification Helps Entity Extraction from Material Science Literature
+A Twitter Corpus for Named Entity Recognition in Turkish
+A STEP towards Interpretable Multi-Hop Reasoning:Bridge Phrase Identification and Query Expansion
+Question Generation and Answering for exploring Digital Humanities collections
+Evaluating Retrieval for Multi-domain Scientific Publications
+Modeling Dutch Medical Texts for Detecting Functional Categories and Levels of COVID-19 Patients
+Hierarchical Aggregation of Dialectal Data for Arabic Dialect Identification
+Investigating Active Learning Sampling Strategies for Extreme Multi Label Text Classification
+German Light Verb Constructions in Business Process Models
+PhysNLU: A Language Resource for Evaluating Natural Language Understanding and Explanation Coherence in Physics
+HECTOR: A Hybrid TExt SimplifiCation TOol for Raw Texts in French
+AiRO - an Interactive Learning Tool for Children at Risk of Dyslexia
+Creating a Basic Language Resource Kit for Faroese
+Developing a Spell and Grammar Checker for Icelandic using an Error Corpus
+The TalkMoves Dataset: K-12 Mathematics Lesson Transcripts Annotated for Teacher and Student Discursive Moves
+Automating Idea Unit Segmentation and Alignment for Assessing Reading Comprehension via Summary Protocol Analysis
+IRAC: A Domain-Specific Annotated Corpus of Implicit Reasoning in Arguments
+Conversational Speech Recognition Needs Data? Experiments with Austrian German
+A Benchmark Corpus for the Detection of Automatically Generated Text in Academic Publications
+Building a Dataset for Automatically Learning to Detect Questions Requiring Clarification
+The ALPIN Sentiment Dictionary: Austrian Language Polarity in Newspapers
+Text Classification and Prediction in the Legal Domain
+I still have Time(s): Extending HeidelTime for German Texts
+Morphological Complexity of Children Narratives in Eight Languages
+EXPRES Corpus for A Field-specific Automated Exploratory Study of L2 English Expert Scientific Writing
+An Evaluation Framework for Legal Document Summarization
+Complex Labelling and Similarity Prediction in Legal Texts: Automatic Analysis of France's Court of Cassation Rulings
+Cyrillic-MNIST: a Cyrillic Version of the MNIST Dataset
+gaBERT — an Irish Language Model
+PoS Tagging, Lemmatization and Dependency Parsing of West Frisian
+A Dataset of Offensive German Language Tweets Annotated for Speech Acts
+Tracing Syntactic Change in the Scientific Genre: Two Universal Dependency-parsed Diachronic Corpora of Scientific English and German
+The Tembusu Treebank: An English Learner Treebank
+The Norwegian Dialect Corpus Treebank
+RRGparbank: A Parallel Role and Reference Grammar Treebank
+Unifying Morphology Resources with OntoLex-Morph. A Case Study in German
+Building Dataset for Grounding of Formulae — Annotating Coreference Relations Among Math Identifiers
+CorefUD 1.0: Coreference Meets Universal Dependencies
+The Universal Anaphora Scorer
+Towards Evaluation of Cross-document Coreference Resolution Models Using Datasets with Diverse Annotation Schemes
+Explainable Tsetlin Machine Framework for Fake News Detection with Credibility Score Assessment
+Enhancing Deep Learning with Embedded Features for Arabic Named Entity Recognition
+SCAI-QReCC Shared Task on Conversational Question Answering
+Semantic Relations between Text Segments for Semantic Storytelling: Annotation Tool - Dataset - Evaluation
+Evaluating Pre-training Objectives for Low-Resource Translation into Morphologically Rich Languages
+Aligning Images and Text with Semantic Role Labels for Fine-Grained Cross-Modal Understanding
+Rosetta-LSF: an Aligned Corpus of French Sign Language and French for Text-to-Sign Translation
+MLQE-PE: A Multilingual Quality Estimation and Post-Editing Dataset
+OpenKorPOS: Democratizing Korean Tokenization with Voting-Based Open Corpus Annotation
+Enriching Grammatical Error Correction Resources for Modern Greek
+A Hmong Corpus with Elaborate Expression Annotations
+ELAL: An Emotion Lexicon for the Analysis of Alsatian Theatre Plays
+Universal Dependencies for Western Sierra Puebla Nahuatl
+The Construction and Evaluation of the LEAFTOP Dataset of Automatically Extracted Nouns in 1480 Languages
+Huqariq: A Multilingual Speech Corpus of Native Languages of Peru forSpeech Recognition
+Writing System and Speaker Metadata for 2,800+ Language Varieties
+The PALMA Corpora of African Varieties of Portuguese
+A Learning-Based Dependency to Constituency Conversion Algorithm for the Turkish Language
+Standard German Subtitling of Swiss German TV content: the PASSAGE Project
+A Survey of Multilingual Models for Automatic Speech Recognition
+LuxemBERT: Simple and Practical Data Augmentation in Language Model Pre-Training for Luxembourgish
+PerPaDa: A Persian Paraphrase Dataset based on Implicit Crowdsourcing Data Collection
+Introducing the Welsh Text Summarisation Dataset and Baseline Systems
+A Systematic Approach to Derive a Refined Speech Corpus for Sinhala
+IgboBERT Models: Building and Training Transformer Models for the Igbo Language
+Latvian National Corpora Collection – Korpuss.lv
+Investigating the Relationship Between Romanian Financial News and Closing Prices from the Bucharest Stock Exchange
+A Free/Open-Source Morphological Analyser and Generator for Sakha
+An Expanded Finite-State Transducer for Tsuut'ina Verbs
+BD-SHS: A Benchmark Dataset for Learning to Detect Online Bangla Hate Speech in Different Social Contexts
+Introducing RezoJDM16k: a French KnowledgeGraph DataSet for Link Prediction
+The Badalona Corpus - An Audio, Video and Neuro-Physiological Conversational Dataset
+Reading Time and Vocabulary Rating in the Japanese Language: Large-Scale Japanese Reading Time Data Collection Using Crowdsourcing
+Thematic Fit Bits: Annotation Quality and Quantity Interplay for Event Participant Representation
+ChiSense-12: An English Sense-Annotated Child-Directed Speech Corpus
+Making People Laugh like a Pro: Analysing Humor Through Stand-Up Comedy
+Testing Focus and Non-at-issue Frameworks with a Question-under-Discussion-Annotated Corpus
+Development of a Multilingual CCG Treebank via Universal Dependencies Conversion
+The Automatic Extraction of Linguistic Biomarkers as a Viable Solution for the Early Diagnosis of Mental Disorders
+Singlish Where Got Rules One? Constructing a Computational Grammar for Singlish
+COSMOS: Experimental and Comparative Studies of Concept Representations in Schoolchildren
+Features of Perceived Metaphoricity on the Discourse Level: Abstractness and Emotionality
+Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of Movie Dialogues
+VoxCommunis: A Corpus for Cross-linguistic Phonetic Analysis
+Tracking Textual Similarities in Neo-Latin Drama Networks
+Named Entity Recognition in Estonian 19th Century Parish Court Records
+Investigating Independence vs. Control: Agenda-Setting in Russian News Coverage on Social Media
+SLäNDa version 2.0: Improved and Extended Annotation of Narrative and Dialogue in Swedish Literature
+AGILe: The First Lemmatizer for Ancient Greek Inscriptions
+»textklang« – Towards a Multi-Modal Exploration Platform for German Poetry
+Predicting the Proficiency Level of Nonnative Hebrew Authors
+Trends, Limitations and Open Challenges in Automatic Readability Assessment Research
+HateCheckHIn: Evaluating Hindi Hate Speech Detection Models
+Surfer100: Generating Surveys From Web Resources, Wikipedia-style
+MS-LaTTE: A Dataset of Where and When To-do Tasks are Completed
+KazakhTTS2: Extending the Open-Source Kazakh TTS Corpus With More Data, Speakers, and Topics
+A Graph-Based Method for Unsupervised Knowledge Discovery from Financial Texts
+Leveraging Mental Health Forums for User-level Depression Detection on Social Media
+Classifying Implant-Bearing Patients via their Medical Histories: a Pre-Study on Swedish EMRs with Semi-Supervised GanBERT
+Standardisation of Dialect Comments in Social Networks in View of Sentiment Analysis : Case of Tunisian Dialect
+EnsyNet: A Dataset for Encouragement and Sympathy Detection
+Preliminary Results on the Evaluation of Computational Tools for the Analysis of Quechua and Aymara
+A Tale of Two Regulatory Regimes: Creation and Analysis of a Bilingual Privacy Policy Corpus
+MeSHup: Corpus for Full Text Biomedical Document Indexing
+Hierarchical Annotation for Building A Suite of Clinical Natural Language Processing Tasks: Progress Note Understanding
+KC4MT: A High-Quality Corpus for Multilingual Machine Translation
+Developing A Multilabel Corpus for the Quality Assessment of Online Political Talk
+BILinMID: A Spanish-English Corpus of the US Midwest
+One Document, Many Revisions: A Dataset for Classification and Description of Edit Intents
+CTAP for Chinese:A Linguistic Complexity Feature Automatic Calculation Platform
+A Corpus for Suggestion Mining of German Peer Feedback
+CLGC: A Corpus for Chinese Literary Grace Evaluation
+Anonymising the SAGT Speech Corpus and Treebank
+Construction of a Quality Estimation Dataset for Automatic Evaluation of Japanese Grammatical Error Correction
+Enhanced Distant Supervision with State-Change Information for Relation Extraction
+The Hebrew Essay Corpus
+Design and Evaluation of the Corpus of Everyday Japanese Conversation
+Developing Language Resources and NLP Tools for the North Korean Language
+Developing a Dataset of Overridden Information in Wikipedia
+BRATECA (Brazilian Tertiary Care Dataset): a Clinical Information Dataset for the Portuguese Language
+Universal Grammatical Dependencies for Portuguese with CINTIL Data, LX Processing and CLARIN support
+CWID-hi: A Dataset for Complex Word Identification in Hindi Text
+Automatic Classification of Russian Learner Errors
+Annotation of metaphorical expressions in the Basic Corpus of Polish Metaphors
+ChiMST: A Chinese Medical Corpus for Word Segmentation and Medical Term Recognition
+Building a Synthetic Biomedical Research Article Citation Linkage Corpus
+Dataset Construction for Scientific-Document Writing Support by Extracting Related Work Section and Citations from PDF Papers
+RuPAWS: A Russian Adversarial Dataset for Paraphrase Identification
+Atril: an XML Visualization System for Corpus Texts
+MASALA: Modelling and Analysing the Semantics of Adpositions in Linguistic Annotation of Hindi
+Universal Dependencies for Punjabi
+TeSum: Human-Generated Abstractive Summarization Corpus for Telugu
+A Corpus of Simulated Counselling Sessions with Dialog Act Annotation
+Interactive Evaluation of Dialog Track at DSTC9
+HADREB: Human Appraisals and (English) Descriptions of Robot Emotional Behaviors
+Dialogue Collection for Recording the Process of Building Common Ground in a Collaborative Task
+Collection and Analysis of Travel Agency Task Dialogues with Age-Diverse Speakers
+Strategy-level Entrainment of Dialogue System Users in a Creative Visual Reference Resolution Task
+MMChat: Multi-Modal Chat Dataset on Social Media
+E-ConvRec: A Large-Scale Conversational Recommendation Dataset for E-Commerce Customer Service
+SHONGLAP: A Large Bengali Open-Domain Dialogue Corpus
+A Comparison of Praising Skills in Face-to-Face and Remote Dialogues
+Comparing Approaches to Language Understanding for Human-Robot Dialogue: An Error Taxonomy and Analysis
+SPORTSINTERVIEW: A Large-Scale Sports Interview Benchmark for Entity-centric Dialogues
+EmoInHindi: A Multi-label Emotion and Intensity Annotated Dataset in Hindi for Emotion Recognition in Dialogues
+The Project Dialogism Novel Corpus: A Dataset for Quotation Attribution in Literary Texts
+Who's in, who's out? Predicting the Inclusiveness or Exclusiveness of Personal Pronouns in Parliamentary Debates
+A Language Modelling Approach to Quality Assessment of OCR'ed Historical Text
+Identifying Copied Fragments in a 18th Century Dutch Chronicle
+A Study of Distant Viewing of ukiyo-e prints
+CCTAA: A Reproducible Corpus for Chinese Authorship Attribution Research
+An automatic model and Gold Standard for translation alignment of Ancient Greek
+Rhetorical Structure Approach for Online Deception Detection: A Survey
+TYPIC: A Corpus of Template-Based Diagnostic Comments on Argumentation
+Towards Speaker Verification for Crowdsourced Speech Collections
+Align-smatch: A Novel Evaluation Method for Chinese Abstract Meaning Representation Parsing based on Alignment of Concept and Relation
+Dynamic Human Evaluation for Relative Model Comparisons
+Please, Don't Forget the Difference and the Confidence Interval when Seeking for the State-of-the-Art Status
+PCR4ALL: A Comprehensive Evaluation Benchmark for Pronoun Coreference Resolution in English
+Estimating Confidence of Predictions of Individual Classifiers and TheirEnsembles for the Genre Classification Task
+What do we really know about State of the Art NER?
+ProQE: Proficiency-wise Quality Estimation dataset for Grammatical Error Correction
+Evaluation of Off-the-shelf Speech Recognizers on Different Accents in a Dialogue Domain
+Sentence Pair Embeddings Based Evaluation Metric for Abstractive and Extractive Summarization
+On "Human Parity" and "Super Human Performance" in Machine Translation Evaluation
+Evaluation Benchmarks for Spanish Sentence Representations
+UMUTextStats: A linguistic feature extraction tool for Spanish
+Problem-solving Recognition in Scientific Text
+HRCA+: Advanced Multiple-choice Machine Reading Comprehension Method
+HyperBox: A Supervised Approach for Hypernym Discovery using Box Embeddings
+Extracting Space Situational Awareness Events from News Text
+PerCQA: Persian Community Question Answering Dataset
+GrASP: A Library for Extracting and Exploring Human-Interpretable Textual Patterns
+Recurrent Neural Networks with Mixed Hierarchical Structures and EM Algorithm for Natural Language Processing
+Korean-Specific Dataset for Table Question Answering
+GerCCT: An Annotated Corpus for Mining Arguments in German Tweets on Climate Change
+Budget Argument Mining Dataset Using Japanese Minutes from the National Diet and Local Assemblies
+Context-based Virtual Adversarial Training for Text Classification with Noisy Labels
+FinMath: Injecting a Tree-structured Solver for Question Answering over Financial Reports
+HeadlineCause: A Dataset of News Headlines for Detecting Causalities
+Incorporating Zoning Information into Argument Mining from Biomedical Literature
+MAKED: Multi-lingual Automatic Keyword Extraction Dataset
+From Examples to Rules: Neural Guided Rule Synthesis for Information Extraction
+Enhancing Relation Extraction via Adversarial Multi-task Learning
+Query Obfuscation by Semantic Decomposition
+TWEET-FID: An Annotated Dataset for Multiple Foodborne Illness Detection Tasks
+Named Entity Recognition to Detect Criminal Texts on the Web
+Task-Driven and Experience-Based Question Answering Corpus for In-Home Robot Application in the House3D Virtual Environment
+ELRC Action: Covering Confidentiality, Correctness and Cross-linguality
+RadQA: A Question Answering Dataset to Improve Comprehension of Radiology Reports
+Knowledge Graph - Deep Learning: A Case Study in Question Answering in Aviation Safety Domain
+A Bayesian Topic Model for Human-Evaluated Interpretability
+A Large Interlinked Knowledge Graph of the Italian Cultural Heritage
+Training on Lexical Resources
+Challenging the Assumption of Structure-based embeddings in Few- and Zero-shot Knowledge Graph Completion
+Open Terminology Management and Sharing Toolkit for Federation of Terminology Databases
+RELATE: Generating a linguistically inspired Knowledge Graph for fine-grained emotion classification
+Language technology practitioners as language managers: arbitrating data bias and predictive bias in ASR
+Masader: Metadata Sourcing for Arabic Text and Speech Data Resources
+Linghub2: Language Resource Discovery Tool for Language Technologies
+CxLM: A Construction and Context-aware Language Model
+The Lexometer: A Shiny Application for Exploratory Analysis and Visualization of Corpus Data
+TallVocabL2Fi: A Tall Dataset of 15 Finnish L2 Learners' Vocabulary
+CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts
+How Does the Experimental Setting Affect the Conclusions of Neural Encoding Models?
+SPADE: A Big Five-Mturk Dataset of Argumentative Speech Enriched with Socio-Demographics for Personality Detection
+Progress in Multilingual Speech Recognition for Low Resource Languages Kurmanji Kurdish, Cree and Inuktut
+Efficient Entity Candidate Generation for Low-Resource Languages
+What a Creole Wants, What a Creole Needs
+Extensions to Brahmic script processing within the Nisaba library: new scripts, languages and utilities
+Predicting Embedding Reliability in Low-Resource Settings Using Corpus Similarity Measures
+Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation
+A Survey of Machine Translation Tasks on Nigerian Languages
+Automatic Speech Recognition Datasets in Cantonese: A Survey and New Dataset
+Survey on Thai NLP Language Resources and Tools
+LaoPLM: Pre-trained Language Models for Lao
+The Maaloula Aramaic Speech Corpus (MASC): From Printed Material to a Lemmatized and Time-Aligned Corpus
+VIMQA: A Vietnamese Dataset for Advanced Reasoning and Explainable Multi-hop Question Answering
+Language Identification for Austronesian Languages
+A Mapudüngun FST Morphological Analyser and its Web Interface
+Improving Large-scale Language Models and Resources for Filipino
+Thirumurai: A Large Dataset of Tamil Shaivite Poems and Classification of Tamil Pann
+Generating Monolingual Dataset for Low Resource Language Bodo from old books using Google Keep
+AsNER - Annotated Dataset and Baseline for Assamese Named Entity recognition
+GeezSwitch: Language Identification in Typologically Related Low-resourced East African Languages
+Handwritten Paleographic Greek Text Recognition: A Century-Based Approach
+Quality Control for Crowdsourced Bilingual Dictionary in Low-Resource Languages
+An Inflectional Database for Gitksan
+PyCantonese: Cantonese Linguistics and NLP in Python
+Afaan Oromo Hate Speech Detection and Classification on Social Media
+Cross-lingual Linking of Automatically Constructed Frames and FrameNet
+Aligning the Romanian Reference Treebank and the Valence Lexicon of Romanian Verbs
+PortiLexicon-UD: a Portuguese Lexical Resource according to Universal Dependencies Model
+Extended Parallel Corpus for Amharic-English Machine Translation
+Low-resource Neural Machine Translation: Benchmarking State-of-the-art Transformer for Wolof<->French
+Criteria for Useful Automatic Romanization in South Asian Languages
+BERTology for Machine Translation: What BERT Knows about Linguistic Difficulties for Translation
+CVSS Corpus and Massively Multilingual Speech-to-Speech Translation
+JParaCrawl v3.0: A Large-scale English-Japanese Parallel Corpus
+Learning How to Translate North Korean through South Korean
+FGraDA: A Dataset and Benchmark for Fine-Grained Domain Adaptation in Machine Translation
+SansTib, a Sanskrit - Tibetan Parallel Corpus and Bilingual Sentence Embedding Model
+VISA: An Ambiguous Subtitles Dataset for Visual Scene-aware Machine Translation
+A Benchmark Dataset for Multi-Level Complexity-Controllable Machine Translation
+gaHealth: An English–Irish Bilingual Corpus of Health Data
+Translation Memories as Baselines for Low-Resource Machine Translation
+N24News: A New Dataset for Multimodal News Classification
+MultiSubs: A Large-scale Multimodal and Multilingual Dataset
+CI-AVSR: A Cantonese Audio-Visual Speech Datasetfor In-car Command Recognition
+Multimodal Negotiation Corpus with Various Subjective Assessments for Social-Psychological Outcome Prediction from Non-Verbal Cues
+MMDAG: Multimodal Directed Acyclic Graph Network for Emotion Recognition in Conversation
+Automatic Gloss-level Data Augmentation for Sign Language Translation
+Image Description Dataset for Language Learners
+The Multimodal Annotation Software Tool (MAST)
+A Multimodal German Dataset for Automatic Lip Reading Systems and Transfer Learning
+Multimodality for NLP-Centered Applications: Resources, Advances and Frontiers
+Cross-lingual and Multilingual CLIP
+BAN-Cap: A Multi-Purpose English-Bangla Image Descriptions Dataset
+SSR7000: A Synchronized Corpus of Ultrasound Tongue Imaging for End-to-End Silent Speech Recognition
+A Simple Yet Effective Corpus Construction Method for Chinese Sentence Compression
+JADE: Corpus for Japanese Definition Modelling
+Unraveling the Mystery of Artifacts in Machine Generated Text
+Logic-Guided Message Generation from Raw Real-Time Sensor Data
+The Bull and the Bear: Summarizing Stock Market Discussions
+Combination of Contextualized and Non-Contextualized Layers for Lexical Substitution in French
+SuMe: A Dataset Towards Summarizing Biomedical Mechanisms
+CATAMARAN: A Cross-lingual Long Text Abstractive Summarization Dataset
+Emotion analysis and detection during COVID-19
+Cross-lingual Emotion Detection
+DirectQuote: A Dataset for Direct Quotation Extraction and Attribution in News Articles
+VaccineLies: A Natural Language Resource for Learning to Recognize Misinformation about the COVID-19 and HPV Vaccines
+Tackling Irony Detection using Ensemble Classifiers
+Automatic Construction of an Annotated Corpus with Implicit Aspects
+A Multimodal Corpus for Emotion Recognition in Sarcasm
+Annotation of Valence Unfolding in Spoken Personal Narratives
+A Large-Scale Japanese Dataset for Aspect-based Sentiment Analysis
+A Japanese Dataset for Subjective and Objective Sentiment Polarity Classification in Micro Blog Domain
+Complementary Learning of Aspect Terms for Aspect-based Sentiment Analysis
+Deep One-Class Hate Speech Detection Model
+Opinions in Interactions : New Annotations of the SEMAINE Database
+Pars-ABSA: a Manually Annotated Aspect-based Sentiment Analysis Benchmark on Farsi Product Reviews
+HindiMD: A Multi-domain Corpora for Low-resource Sentiment Analysis
+Sentiment Analysis of Homeric Text: The 1st Book of Iliad
+The Persian Dependency Treebank Made Universal
+GujMORPH - A Dataset for Creating Gujarati Morphological Analyzer
+Informal Persian Universal Dependency Treebank
+Automatic Correction of Syntactic Dependency Annotation Differences
+Building Large-Scale Japanese Pronunciation-Annotated Corpora for Reading Heteronymous Logograms
+StyleKQC: A Style-Variant Paraphrase Corpus for Korean Questions and Commands
+Syntax-driven Approach for Semantic Role Labeling
+HerBERT Based Language Model Detects Quantifiers and Their Semantic Properties in Polish
+Lexical Resource Mapping via Translations
+Unsupervised Attention-based Sentence-Level Meta-Embeddings from Contextualised Language Models
+Identification of Fine-Grained Location Mentions in Crisis Tweets
+HateBR: A Large Expert Annotated Corpus of Brazilian Instagram Comments for Offensive Language and Hate Speech Detection
+MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare
+Leveraging Hashtag Networks for Multimodal Popularity Prediction of Instagram Posts
+Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis
+Did that happen? Predicting Social Media Posts that are Indicative of what happened in a scene: A case study of a TV show
+HashSet - A Dataset For Hashtag Segmentation
+Using Convolution Neural Network with BERT for Stance Detection in Vietnamese
+Annotation-Scheme Reconstruction for "Fake News" and Japanese Fake News Dataset
+RoBERTuito: a pre-trained language model for social media text in Spanish
+Construction of Responsive Utterance Corpus for Attentive Listening Response Production
+Speak: A Toolkit Using Amazon Mechanical Turk to Collect and Validate Speech Audio Recordings
+ASCEND: A Spontaneous Chinese-English Dataset for Code-switching in Multi-turn Conversation
+A Romanization System and WebMAUS Aligner for Arabic Varieties
+BembaSpeech: A Speech Recognition Corpus for the Bemba Language
+BehanceCC: A ChitChat Detection Dataset For Livestreaming Video Transcripts
+Adversarial Speech Generation and Natural Speech Recovery for Speech Content Protection
+A new European Portuguese corpus for the study of Psychosis through speech analysis
+Investigating Inter- and Intra-speaker Voice Conversion using Audiobooks
+Multilingual Transfer Learning for Children Automatic Speech Recognition
+BehanceQA: A New Dataset for Identifying Question-Answer Pairs in Video Transcripts
+Bidirectional Skeleton-Based Isolated Sign Recognition using Graph Convolutional Networks
+Deep learning-based end-to-end spoken language identification system for domain-mismatched scenario
+Handwritten Character Generation using Y-Autoencoder for Character Recognition Model Training
+Attention-Focused Adversarial Training for Robust Temporal Reasoning
+PoliBERTweet: A Pre-trained Language Model for Analyzing Political Content on Twitter
+Modeling the Impact of Syntactic Distance and Surprisal on Cross-Slavic Text Comprehension
+BERTifying Sinhala - A Comprehensive Analysis of Pre-trained Language Models for Sinhala Text Classification
+Pre-training and Evaluating Transformer-based Language Models for Icelandic
+Evaluating Monolingual and Crosslingual Embeddings on Datasets of Word Association Norms
+About Evaluating Bilingual Lexicon Induction
+Don't Forget Cheap Training Signals Before Building Unsupervised Bilingual Word Embeddings
+Building Domain-specific Corpora from the Web: the Case of European Digital Service Infrastructures
+Multilingual Comparative Analysis of Deep-Learning Dependency Parsing Results Using Parallel Corpora
+CUNI Submission to the BUCC 2022 Shared Task on Bilingual Term Alignment
+Challenges of Building Domain-Specific Parallel Corpora from Public Administration Documents
+Setting Up Bilingual Comparable Corpora with Non-Contemporary Languages
+Fusion of linguistic, neural and sentence-transformer features for improved term alignment
+Multilingual Abstract Meaning Representation for Celtic Languages
+Diachronic Parsing of Pre-Standard Irish
+Creation of an Evaluation Corpus and Baseline Evaluation Scores for Welsh Text Summarisation
+CLILSTORE.EU - A Multilingual online CLIL platform
+Evaluation of Three Welsh Language POS Taggers
+Iterated Dependencies in a Breton treebank and implications for a Categorial Dependency Grammar
+Automatic Speech Recognition for Irish: the ABAIR-ÉIST System
+Development and Evaluation of Speech Recognition for the Welsh Language
+Handwriting recognition for Scottish Gaelic
+Celtic CALL: strengthening the vital role of education for language transmission
+Cipher – Faoi Gheasa: A Game-with-a-Purpose for Irish
+Towards Coreference Resolution for Early Irish
+Use of Transformer-Based Models for Word-Level Transliteration of the Book of the Dean of Lismore
+Introducing the National Corpus of Irish Project
+BU-TTS: An Open-Source, Bilingual Welsh-English, Text-to-Speech Corpus
+Developing Automatic Speech Recognition for Scottish Gaelic
+Handwritten Text Recognition (HTR) for Irish-Language Folklore
+AAC don Ghaeilge: the Prototype Development of Speech-Generating Assistive Technology for Irish
+Challenges in Creating a Representative Corpus of Romanian Micro-Blogging Text
+Exhaustive Indexing of PubMed Records with Medical Subject Headings
+UDeasy: a Tool for Querying Treebanks in CoNLL-U Format
+Matrix and Double-Array Representations for Efficient Finite State Tokenization
+Count-Based and Predictive Language Models for Exploring DeReKo
+"The word expired when that world awoke." New Challenges for Research with Large Text Corpora and Corpus-Based Discourse Studies in Totalitarian Times
+An NLP Approach for the Analysis of Global Reporting Initiative Indexes from Corporate Sustainability Reports
+Tracking Changes in ESG Representation: Initial Investigations in UK Annual Reports
+A Corpus-based Study of Corporate Image Represented in Corporate Social Responsibility Report: A Case Study of China Mobile and Vodafone
+Framing Legitimacy in CSR: A Corpus of Chinese and American Petroleum Company CSR Reports and Preliminary Analysis
+MobASA: Corpus for Aspect-based Sentiment Analysis and Social Inclusion in the Mobility Domain
+Detecting Violation of Human Rights via Social Media
+Inclusion in CSR Reports: The Lens from a Data-Driven Machine Learning Model
+Towards Classification of Legal Pharmaceutical Text using GAN-BERT
+SyntAct: A Synthesized Database of Basic Emotions
+Data Sets of Eating Disorders by Categorizing Reddit and Tumblr Posts: A Multilingual Comparative Study Based on Empirical Findings of Texts and Images
+Construction and Validation of a Japanese Honorific Corpus Based on Systemic Functional Linguistics
+Building an Icelandic Entity Linking Corpus
+Crawling Under-Resourced Languages - a Portal for Community-Contributed Corpus Collection
+Fine-grained Entailment: Resources for Greek NLI and Precise Entailment
+Words.hk: A Comprehensive Cantonese Dictionary Dataset with Definitions, Translations and Transliterated Examples
+LiSTra Automatic Speech Translation: English to Lingala Case Study
+Ara-Women-Hate: An Annotated Corpus Dedicated to Hate Speech Detection against Women in the Arabic Community
+Word-level Language Identification Using Subword Embeddings for Code-mixed Bangla-English Social Media Data
+A Free/Open-Source Morphological Transducer for Western Armenian
+Dialects Identification of Armenian Language
+Analyse Automatique de l'Ancien Arménien. Évaluation d'une méthode hybride « dictionnaire » et « réseau de neurones » sur un Extrait de l'Adversus Haereses d'Irénée de Lyon
+Describing Language Variation in the Colophons of Armenian Manuscripts
+Eastern Armenian National Corpus: State of the Art and Perspectives
+Towards a Unified ASR System for the Armenian Standards
+NLP Pipeline for Annotating (Endangered) Tibetan and Newar Varieties
+Towards an Ontology for Toponyms in Nepalese Historical Documents
+Semiautomatic Speech Alignment for Under-Resourced Languages
+How to Digitize Completely: Interactive Geovizualization of a Sketch Map from the Kuzmina Archive
+Word Class Based Language Modeling: A Case of Upper Sorbian
+Bringing Together Version Control and Quality Assurance of Language Data with LAMA
+Automatic Verb Classifier for Abui (AVC-abz)
+Dialogue Act and Slot Recognition in Italian Complex Dialogues
+Digital Resources for the Shughni Language
+German Dialect Identification and Mapping for Preservation and Recovery
+Exploring Transfer Learning for Urdu Speech Synthesis
+Towards Bengali WordNet Enrichment using Knowledge Graph Completion Techniques
+Enriching Hindi WordNet Using Knowledge Graph Completion Approach
+A Digital Swedish-Yiddish/Yiddish-Swedish Dictionary: A Web-Based Dictionary that is also Available Offline
+An Online Dictionary for Dialects of North Frisian
+Towards a Unified Tool for the Management of Data and Technologies in Field Linguistics and Computational Linguistics - LiFE
+Universal Dependencies Treebank for Tatar: Incorporating Intra-Word Code-Switching Information
+Preparing an endangered language for the digital age: The Case of Judeo-Spanish
+FinRAD: Financial Readability Assessment Dataset - 13,000+ Definitions of Financial Terms for Measuring Readability
+Discovering Financial Hypernyms by Prompting Masked Language Models
+Sentiment Classification by Incorporating Background Knowledge from Financial Ontologies
+Detecting Causes of Stock Price Rise and Decline by Machine Reading Comprehension with BERT
+XLNET-GRU Sentiment Regression Model for Cryptocurrency News in English and Malay
+The Financial Narrative Summarisation Shared Task (FNS 2022)
+Multilingual Text Summarization on Financial Documents
+Extractive and Abstractive Summarization Methods for Financial Narrative Summarization in English, Spanish and Greek
+DiMSum: Distributed and Multilingual Summarization of Financial Narratives
+Transformer-based Models for Long Document Summarisation in Financial Domain
+Financial Narrative Summarisation Using a Hybrid TF-IDF and Clustering Summariser: AO-Lancs System at FNS 2022
+The Financial Document Structure Extraction Shared Task (FinTOC 2022)
+ISPRAS@FinTOC-2022 Shared Task: Two-stage TOC Generation Model
+swapUNIBA@FinTOC2022: Fine-tuning Pre-trained Document Image Analysis Model for Title Detection on the Financial Domain
+GREYC@FinTOC-2022: Handling Document Layout and Structure in Native PDF Bundle of Documents
+The Financial Causality Extraction Shared Task (FinCausal 2022)
+SPOCK at FinCausal 2022: Causal Information Extraction Using Span-Based and Sequence Tagging Models
+Multilingual Financial Documentation Summarization by Team_Tredence for FNS2022
+DCU-Lorcan at FinCausal 2022: Span-based Causality Extraction from Financial Documents using Pre-trained Language Models
+LIPI at FinCausal 2022: Mining Causes and Effects from Financial Texts
+iLab at FinCausal 2022: Enhancing Causality Detection with an External Cause-Effect Knowledge Graph
+ExpertNeurons at FinCausal 2022 Task 2: Causality Extraction for Financial Documents
+ATL at FinCausal 2022: Transformer Based Architecture for Automatic Causal Sentence Detection and Cause-Effect Extraction
+MNLP at FinCausal2022: Nested NER with a Generative Model
+An Analysis of Abusive Language Data Collected through a Game with a Purpose
+Applying Gamification Incentives in the Revita Language-learning System
+Less Text, More Visuals: Evaluating the Onboarding Phase in a GWAP for NLP
+NLU for Game-based Learning in Real: Initial Evaluations
+How NLP Can Strengthen Digital Game Based Language Learning Resources for Less Resourced Languages
+The "Actors Challenge" Project: Collecting Data on Intonation Profiles via a Web Game
+Generating Descriptive and Rules-Adhering Spells for Dungeons & Dragons Fifth Edition
+Towards the Profiling of Linked Lexicographic Resources
+Towards the Linking of a Sign Language Ontology with Lexical Data
+Modelling Collocations in OntoLex-FrAC
+TIAD 2022: The Fifth Translation Inference Across Dictionaries Shared Task
+Creating Bilingual Dictionaries from Existing Ones by Means of Pivot-Oriented Translation Inference and Logistic Regression
+Compiling a Highly Accurate Bilingual Lexicon by Combining Different Approaches
+A Category Theory Framework for Sense Systems
+Converting a Database of Complex German Word Formation for Linked Data
+Resolving Inflectional Ambiguity of Macedonian Adjectives
+Morpholex Turkish: A Morphological Lexicon for Turkish
+Time Travel in Turkish: WordNets for Modern Turkish
+WordNet and Wikipedia Connection in Turkish WordNet KeNet
+Homonymy Information for English WordNet
+What Is Going through Your Mind? Metacognitive Events Classification in Human-Agent Interactions
+Assessment of Sales Negotiation Strategies with ISO 24617-2 Dialogue Act Annotations
+Guidelines and a Corpus for Extracting Biographical Events
+Levels of Non-Fictionality in Fictional Texts
+Event Sequencing Annotation with TIE-ML
+Measuring Similarity by Linguistic Features rather than Frequency
+Testing the Annotation Consistency of Hallidayan Transitivity Processes: A Multi-variable Structural Approach
+The place of ISO-Space in Text2Story multilayer annotation scheme
+Do machines dream of artificial agreement?
+CroaTPAS: A Survey-based Evaluation
+Simplifying Semantic Annotations of SMCalFlow
+Multilingual Reference Annotation: A Case between English and Mandarin Chinese
+Graph Querying for Semantic Annotations
+Intuitive and Formal Transparency in Annotation Schemes
+How much of UCCA can be predicted from AMR?
+Towards Practical Semantic Interoperability in NLP Platforms
+Annotating Japanese Numeral Expressions for a Logical and Pragmatic Inference Dataset
+Annotating complex words to investigate the semantics of derivational processes
+Annotating Propositional Attitude Verbs and their Arguments
+Casteism in India, but Not Racism - a Study of Bias in Word Embeddings of Indian Languages
+Objectifying Women? A Syntactic Bias in French and English Corpora.
+A Cancel Culture Corpus through the Lens of Natural Language Processing
+Benchmarking Language Models for Cyberbullying Identification and Classification from Social-media Texts
+Identifying Hate Speech Using Neural Networks and Discourse Analysis Techniques
+An Open Source Contractual Language Understanding Application Using Machine Learning
+Automatic Approach for Building Dataset of Citation Functions for COVID-19 Academic Papers
+The Development of a Comprehensive Spanish Dictionary for Phonetic and Lexical Tagging in Socio-phonetic Research (ESPADA)
+Extending the SSJ Universal Dependencies Treebank for Slovenian: Was It Worth It?
+Converting the Sinica Treebank of Mandarin Chinese to Universal Dependencies
+Desiderata for the Annotation of Information Structure in Complex Sentences
+The Sensitivity of Annotator Bias to Task Definitions in Argument Mining
+NLP in Human Rights Research: Extracting Knowledge Graphs about Police and Army Units and Their Commanders
+Advantages of a Complex Multilayer Annotation Scheme: The Case of the Prague Dependency Treebank
+Introducing StarDust: A UD-based Dependency Annotation Tool
+Annotation of Messages from Social Media for Influencer Detection
+Charon: A FrameNet Annotation Tool for Multimodal Corpora
+Effect of Source Language on AMR Structure
+Midas Loop: A Prioritized Human-in-the-Loop Annotation for Large Scale Multilayer Data
+How "Loco" Is the LOCO Corpus? Annotating the Language of Conspiracy Theories
+Putting Context in SNACS: A 5-Way Classification of Adpositional Pragmatic Markers
+Building a Biomedical Full-Text Part-of-Speech Corpus Semi-Automatically
+Human Schema Curation via Causal Association Rule Mining
+A Cognitive Approach to Annotating Causal Constructions in a Cross-Genre Corpus
+Automatic Enrichment of Abstract Meaning Representations
+GRAIL—Generalized Representation and Aggregation of Information Layers
+Keynote Speech - Major developments in the legal framework concerning language resources
+Sentiment Analysis and Topic Modeling for Public Perceptions of Air Travel: COVID Issues and Policy Amendments
+Data Protection, Privacy and US Regulation
+Pseudonymisation of Speech Data as an Alternative Approach to GDPR Compliance
+Categorizing legal features in a metadata-oriented task: defining the conditions of use
+About Migration Flows and Sentiment Analysis on Twitter data: Building the Bridge between Technical and Legal Approaches to Data Protection
+Transparency and Explainability of a Machine Learning Model in the Context of Human Resource Management
+Public Interactions with Voice Assistant – Discussion of Different One-Shot Solutions to Preserve Speaker Privacy
+Keynote Speech - Voice anonymization and the GDPR
+Cross-Clinic De-Identification of Swedish Electronic Health Records: Nuances and Caveats
+Generating Realistic Synthetic Curricula Vitae for Machine Learning Applications under Differential Privacy
+MAPA Project: Ready-to-Go Open-Source Datasets and Deep Learning Technology to Remove Identifying Information from Text Documents
+PriPA: A Tool for Privacy-Preserving Analytics of Linguistic Data
+Legal and Ethical Challenges in Recording Air Traffic Control Speech
+It is not Dance, is Data: Gearing Ethical Circulation of Intangible Cultural Heritage practices in the Digital Space
+Identifying Cleartext in Historical Ciphers
+Detecting Diachronic Syntactic Developments in Presence of Bias Terms
+Accurate Dependency Parsing and Tagging of Latin
+Annotating "Absolute" Preverbs in the Homeric and Vedic Treebanks
+CHJ-WLSP: Annotation of 'Word List by Semantic Principles' Labels for the Corpus of Historical Japanese
+The IKUVINA Treebank
+Machine Translation of 16Th Century Letters from Latin to German
+A Treebank-based Approach to the Supprema Constructio in Dante's Latin Works
+From Inscriptions to Lexica and Back: A Platform for Editing and Linking the Languages of Ancient Italy
+BERToldo, the Historical BERT for Italian
+In Search of the Flocks: How to Perform Onomasiological Queries in an Ancient Greek Corpus?
+Contextual Unsupervised Clustering of Signs for Ancient Writing Systems
+Towards the Creation of a Diachronic Corpus for Italian: A Case Study on the GDLI Quotations
+Automatic Translation Alignment for Ancient Greek and Latin
+Handling Stress in Finite-State Morphological Analyzers for Ancient Greek and Ancient Hebrew
+From Inscription to Semi-automatic Annotation of Maya Hieroglyphic Texts
+Multilingual Named Entity Recognition for Medieval Charters Using Stacked Embeddings and Bert-based Models.
+Linguistic Annotation of Neo-Latin Mathematical Texts: A Pilot-Study to Improve the Automatic Parsing of the Archimedes Latinus
+The First International Ancient Chinese Word Segmentation and POS Tagging Bakeoff: Overview of the EvaHan 2022 Evaluation Campaign
+Automatic Word Segmentation and Part-of-Speech Tagging of Ancient Chinese Based on BERT Model
+Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Data Augmentation
+BERT 4EVER@EvaHan 2022: Ancient Chinese Word Segmentation and Part-of-Speech Tagging Based on Adversarial Learning and Continual Pre-training
+Construction of Segmentation and Part of Speech Annotation Model in Ancient Chinese
+Simple Tagging System with RoBERTa for Ancient Chinese
+The Uncertainty-based Retrieval Framework for Ancient Chinese CWS and POS
+Data Augmentation for Low-resource Word Segmentation and POS Tagging of Ancient Chinese Texts
+A Joint Framework for Ancient Chinese WS and POS Tagging Based on Adversarial Ensemble Learning
+Glyph Features Matter: A Multimodal Solution for EvaHan in LT4HALA2022
+Overview of the EvaLatin 2022 Evaluation Campaign
+An ELECTRA Model for Latin Token Tagging Tasks
+Transformer-based Part-of-Speech Tagging and Lemmatization for Latin
+Figurative Language in Noun Compound Models across Target Properties, Domains and Time
+Multiword Expressions and the Low-Resource Scenario from the Perspective of a Local Oral Culture
+A General Framework for Detecting Metaphorical Collocations
+Improving Grammatical Error Correction for Multiword Expressions
+An Analysis of Attention in German Verbal Idiom Disambiguation
+Support Verb Constructions across the Ocean Sea
+A Matrix-Based Heuristic Algorithm for Extracting Multiword Expressions from a Corpus
+Multi-word Lexical Units Recognition in WordNet
+Automatic Detection of Difficulty of French Medical Sequences in Context
+Annotating "Particles" in Multiword Expressions in te reo Māori for a Part-of-Speech Tagger
+Metaphor Detection for Low Resource Languages: From Zero-Shot to Few-Shot Learning in Middle High German
+Automatic Bilingual Phrase Dictionary Construction from GIZA++ Output
+A BERT's Eye View: Identification of Irish Multiword Expressions Using Pre-trained Language Models
+Enhancing the PARSEME Turkish Corpus of Verbal Multiword Expressions
+Sample Efficient Approaches for Idiomaticity Detection
+mwetoolkit-lib: Adaptation of the mwetoolkit as a Python Library and an Application to MWE-based Document Clustering
+Handling Idioms in Symbolic Multilingual Natural Language Generation
+The NIEUW Project: Developing Language Resources through Novel Incentives
+Use of a Citizen Science Platform for the Creation of a Language Resource to Study Bias in Language Models for French: A Case Study
+Fearless Steps APOLLO: Advanced Naturalistic Corpora Development
+Creating Mexican Spanish Language Resources through the Social Service Program
+Fictionary-Based Games for Language Resource Creation
+Using Mixed Incentives to Document Xi'an Guanzhong
+Crowdsourced Participants' Accuracy at Identifying the Social Class of Speakers from South East England
+About the Applicability of Combining Implicit Crowdsourcing and Language Learning for the Collection of NLP Datasets
+The Influence of Intrinsic and Extrinsic Motivation on the Creation of Language Resources in a Citizen Linguistics Project about Lexicography
+Disagreement Space in Argument Analysis
+Analyzing the Effects of Annotator Gender across NLP Tasks
+Predicting Literary Quality How Perspectivist Should We Be?
+Bias Discovery within Human Raters: A Case Study of the Jigsaw Dataset
+The Viability of Best-worst Scaling and Categorical Data Label Annotation Tasks in Detecting Implicit Bias
+What If Ground Truth Is Subjective? Personalized Deep Neural Hate Speech Detection
+StudEmo: A Non-aggregated Review Dataset for Personalized Emotion Recognition
+Annotator Response Distributions as a Sampling Frame
+Variation in the Expression and Annotation of Emotions: A Wizard of Oz Pilot Study
+Beyond Explanation: A Case for Exploratory Text Visualizations of Non-Aggregated, Annotated Datasets
+The Measuring Hate Speech Corpus: Leveraging Rasch Measurement Theory for Data Perspectivism
+Improving Label Quality by Jointly Modeling Items and Annotators
+Lutma: A Frame-Making Tool for Collaborative FrameNet Development
+The Case for Perspective in Multimodal Datasets
+Change My Mind: How Syntax-based Hate Speech Recognizer Can Uncover Hidden Motivations Based on Different Viewpoints
+Proceedinsg of the 5th Workshop on Open-Source Arabic Corpora and Processing Tools with Shared Tasks on Qur'an QA and Fine-Grained Hate Speech Detection
+TURJUMAN: A Public Toolkit for Neural Arabic Machine Translation
+Detecting Users Prone to Spread Fake News on Arabic Twitter
+AraSAS: The Open Source Arabic Semantic Tagger
+AraNPCC: The Arabic Newspaper COVID-19 Corpus
+Pre-trained Models or Feature Engineering: The Case of Dialectal Arabic
+A Context-free Arabic Emoji Sentiment Lexicon (CF-Arab-ESL)
+Sa'7r: A Saudi Dialect Irony Dataset
+Classifying Arabic Crisis Tweets using Data Selection and Pre-trained Language Models
+Qur'an QA 2022: Overview of The First Shared Task on Question Answering over the Holy Qur'an
+DTW at Qur'an QA 2022: Utilising Transfer Learning with Transformers for Question Answering in a Low-resource Domain
+eRock at Qur'an QA 2022: Contemporary Deep Neural Networks for Qur'an based Reading Comprehension Question Answers
+GOF at Qur'an QA 2022: Towards an Efficient Question Answering For The Holy Qu'ran In The Arabic Language Using Deep Learning-Based Approach
+LARSA22 at Qur'an QA 2022: Text-to-Text Transformer for Finding Answers to Questions from Qur'an
+LK2022 at Qur'an QA 2022: Simple Transformers Model for Finding Answers to Questions from Qur'an
+niksss at Qur'an QA 2022: A Heavily Optimized BERT Based Model for Answering Questions from the Holy Qu'ran
+QQATeam at Qur'an QA 2022: Fine-Tunning Arabic QA Models for Qur'an QA Task
+SMASH at Qur'an QA 2022: Creating Better Faithful Data Splits for Low-resourced Question Answering Scenarios
+Stars at Qur'an QA 2022: Building Automatic Extractive Question Answering Systems for the Holy Qur'an with Transformer Models and Releasing a New Dataset
+TCE at Qur'an QA 2022: Arabic Language Question Answering Over Holy Qur'an Using a Post-Processed Ensemble of BERT-based Models
+Overview of OSACT5 Shared Task on Arabic Offensive Language and Hate Speech Detection
+GOF at Arabic Hate Speech 2022: Breaking The Loss Function Convention For Data-Imbalanced Arabic Offensive Text Detection
+iCompass at Arabic Hate Speech 2022: Detect Hate Speech Using QRNN and Transformers
+UPV at the Arabic Hate Speech 2022 Shared Task: Offensive Language and Hate Speech Detection using Transformers and Ensemble Models
+Meta AI at Arabic Hate Speech 2022: MultiTask Learning with Self-Correction for Hate Speech Classification
+CHILLAX - at Arabic Hate Speech 2022: A Hybrid Machine Learning and Transformers based Model to Detect Arabic Offensive and Hate Speech
+AlexU-AIC at Arabic Hate Speech 2022: Contrast to Classify
+GUCT at Arabic Hate Speech 2022: Towards a Better Isotropy for Hatespeech Detection
+aiXplain at Arabic Hate Speech 2022: An Ensemble Based Approach to Detecting Offensive Tweets
+ParlaMint II: The Show Must Go On
+How GermaParl Evolves: Improving Data Quality by Reproducible Corpus Preparation and User Involvement
+Between History and Natural Language Processing: Study, Enrichment and Online Publication of French Parliamentary Debates of the Early Third Republic (1881-1899)
+A French Corpus of Québec's Parliamentary Debates
+Parliamentary Corpora and Research in Political Science and Political History
+Error Correction Environment for the Polish Parliamentary Corpus
+Clustering Similar Amendments at the Italian Senate
+Entity Linking in the ParlaMint Corpus
+Visualizing Parliamentary Speeches as Networks: the DYLEN Tool
+Emotions Running High? A Synopsis of the state of Turkish Politics through the ParlaMint Corpus
+Immigration in the Manifestos and Parliament Speeches of Danish Left and Right Wing Parties between 2009 and 2020
+Parliamentary Discourse Research in Sociology: Literature Review
+FrameASt: A Framework for Second-level Agenda Setting in Parliamentary Debates through the Lense of Comparative Agenda Topics
+Comparing Formulaic Language in Human and Machine Translation: Insight from a Parliamentary Corpus
+Adding the Basque Parliament Corpus to ParlaMint Project
+ParlaSpeech-HR - a Freely Available ASR Dataset for Croatian Bootstrapped from the ParlaMint Corpus
+Making Italian Parliamentary Records Machine-Actionable: the Construction of the ParlaMint-IT corpus
+ParlamentParla: A Speech Corpus of Catalan Parliamentary Sessions
+ParlaMint-RO: Chamber of the Eternal Future
+NewYeS: A Corpus of New Year's Speeches with a Comparative Analysis
+Correlating Political Party Names in Tweets, Newspapers and Election Results
+Debating Europe: A Multilingual Multi-Target Stance Classification Dataset of Online Debates
+An Unsupervised Approach to Discover Media Frames
+Electoral Agitation Dataset: The Use Case of the Polish Election
+Enhancing Geocoding of Adjectival Toponyms With Heuristics
+Cause and Effect in Governmental Reports: Two Data Sets for Causality Detection in Swedish
+Does Twitter know your political views? POLiTweets dataset and semi-automatic method for political leaning discovery
+Political Communities on Twitter: Case Study of the 2022 French Presidential Election
+What Does the Indian Parliament Discuss? An Exploratory Analysis of the Question Hour in the Lok Sabha
+Don't Burst Blindly: For a Better Use of Natural Language Processing to Fight Opinion Bubbles in News Recommendations
+Creation of Polish Online News Corpus for Political Polarization Studies
+Annotation of expressive dimensions on a multimodal French corpus of political interviews
+TransCasm: A Bilingual Corpus of Sarcastic Tweets
+Exploring the GLIDE model for Human Action Effect Prediction
+Do Multimodal Emotion Recognition Models Tackle Ambiguity?
+Development of a MultiModal Annotation Framework and Dataset for Deep Video Understanding
+Cognitive States and Types of Nods
+Examining the Effects of Language-and-Vision Data Augmentation for Generation of Descriptions of Human Faces
+Face2Text revisited: Improved data set and baseline results
+The Effect of eHealth Training on Dysarthric Speech
+Generating Synthetic Clinical Speech Data through Simulated ASR Deletion Error
+A Novel Metrological Approach to a More Consistent Way of Defining and Analyzing Memory Task Difficulty in Word Learning List Tests with Repeated Trials
+Extraction and Classification of Acoustic Features from Italian Speaking Children with Autism Spectrum Disorders.
+Classification of German Jungian Extraversion and Introversion Texts with Assessment of Changes During the COVID-19 Pandemic
+The Post-Stroke Speech Transcription (PSST) Challenge
+Post-Stroke Speech Transcription Challenge (Task B): Correctness Detection in Anomia Diagnosis with Imperfect Transcripts
+Speech Data Augmentation for Improving Phoneme Transcriptions of Aphasic Speech Using Wav2Vec 2.0 for the PSST Challenge
+Data Augmentation for the Post-Stroke Speech Transcription (PSST) Challenge: Sometimes Less Is More
+CorEDs: A Corpus on Eating Disorders
+A Database of Multimodal Data to Construct a Simulated Dialogue Partner with Varying Degrees of Cognitive Health
+Segmentation of the Speech Flow for the Evaluation of Spontaneous Productions in Pathologies Affecting the Language Capacity. 4 Case Studies of Schizophrenia
+Reading Assistance through LARA, the Learning And Reading Assistant
+Agree to Disagree: Exploring Subjectivity in Lexical Complexity
+A Dictionary-Based Study of Word Sense Difficulty
+A Multilingual Simplified Language News Corpus
+The Swedish Simplification Toolkit: – Designed with Target Audiences in Mind
+HIBOU: an eBook to improve Text Comprehension and Reading Fluency for Beginning Readers of French
+PADDLe: a Platform to Identify Complex Words for Learners of French as a Foreign Language (FFL)
+Open corpora and toolkit for assessing text readability in French
+MWE for Essay Scoring English as a Foreign Language
+A First Attempt at Unreliable News Detection in Swedish
+BanglaHateBERT: BERT for Abusive Language Detection in Bengali
+A Comparison of Machine Learning Techniques for Turkish Profanity Detection
+Features and Categories of Hyperbole in Cyberbullying Discourse on Social Media
+Invited talk: From Data to Meaning in Representation of Emotions
+O-Dang! The Ontology of Dangerous Speech Messages
+Movie Rating Prediction using Sentiment Features
+Evaluating a New Danish Sentiment Resource: the Danish Sentiment Lexicon, DSL
+Correlating Facts and Social Media Trends on Environmental Quantities Leveraging Commonsense Reasoning and Human Sentiments
+Sentiment Analysis of Serbian Old Novels
+PeruSIL: A Framework to Build a Continuous Peruvian Sign Language Interpretation Dataset
+Introducing Sign Languages to a Multilingual Wordnet: Bootstrapping Corpora and Lexical Resources of Greek Sign Language and German Sign Language
+Introducing the signglossR Package
+Moving towards a Functional Approach in the Flemish Sign Language Dictionary Making Process
+Phonetics of Negative Headshake in Russian Sign Language: A Small-Scale Corpus Study
+Documenting the Use of Iranian Sign Language (ZEI) in Kermanshah
+Applying the Transcription System Typannot to Mouth Gestures
+Libras Portal: A Way of Documentation, a Way of Sharing
+Representation and Synthesis of Geometric Relocations
+Sign Language Phonetic Annotator-Analyzer: Open-Source Software for Form-Based Analysis of Sign Languages
+ASL-Homework-RGBD Dataset: An Annotated Dataset of 45 Fluent and Non-fluent Signers Performing American Sign Language Homeworks
+MY DGS – ANNIS: ANNIS and the Public DGS Corpus
+Outreach and Science Communication in the DGS-Korpus Project: Accessibility of Data and the Benefit of Interactive Exchange between Communities
+MC-TRISLAN: A Large 3D Motion Capture Sign Language Data-set
+A Machine Learning-based Segmentation Approach for Measuring Similarity between Sign Languages
+The Sign Language Dataset Compendium: Creating an Overview of Digital Linguistic Resources
+Making Sign Language Corpora Comparable: A Study of Palm-Up and Throw-Away in Polish Sign Language, German Sign Language, and Russian Sign Language
+Open Repository of the Polish Sign Language Corpus: Publication Project of the Polish Sign Language Corpus
+Functional Data Analysis of Non-manual Marking of Questions in Kazakh-Russian Sign Language
+Two New AZee Production Rules Refining Multiplicity in French Sign Language
+Language Planning in Action: Depiction as a Driver of New Terminology in Irish Sign Language
+Facilitating the Spread of New Sign Language Technologies across Europe
+ISL-LEX v.1: An Online Lexical Resource of Israeli Sign Language
+Towards Large Vocabulary Kazakh-Russian Sign Language Dataset: KRSL-OnlineSchool
+Towards Semi-automatic Sign Language Annotation Tool: SLAN-tool
+Resources for Computer-Based Sign Recognition from Video, and the Criticality of Consistency of Gloss Labeling across Multiple Large ASL Video Corpora
+Signed Language Transcription and the Creation of a Cross-linguistic Comparative Database
+Integrating Auslan Resources into the Language Data Commons of Australia
+Capturing Distalization
+The Corpus of Israeli Sign Language
+Segmentation of Signs for Research Purposes: Comparing Humans and Machines
+Sign Language Video Anonymization
+Unsupervised Word Segmentation from Discrete Speech Units in Low-Resource Settings
+An Open Source Web Reader for Under-Resourced Languages
+Text-to-Speech for Under-Resourced Languages: Phoneme Mapping and Source Language Selection in Transfer Learning
+ReadAlong Studio: Practical Zero-Shot Text-Speech Alignment for Indigenous Language Audiobooks
+Corpus Creation for Sentiment Analysis in Code-Mixed Tulu Text
+Crowd-sourcing for Less-resourced Languages: Lingua Libre for Polish
+Tupían Language Ressources: Data, Tools, Analyses
+Quality versus Quantity: Building Catalan-English MT Resources
+A Sentiment Corpus for South African Under-Resourced Languages in a Multilingual Context
+CUNI Submission to MT4All Shared Task
+Resource: Indicators on the Presence of Languages in Internet
+Language Technologies for Low Resource Languages: Sociolinguistic and Multilingual Insights
+Sentiment Analysis for Hausa: Classifying Students' Comments
+Nepali Encoder Transformers: An Analysis of Auto Encoding Transformer Language Models for Nepali Text Classification
+CoSwID, a Code Switching Identification Method Suitable for Under-Resourced Languages
+A Neural Network Approach to Create Minangkabau-Indonesia Bilingual Dictionary
+Machine Translation from Standard German to Alemannic Dialects
+Question Answering Classification for Amharic Social Media Community Based Questions
+Automatic Detection of Morphological Processes in the Yorùbá Language
+Evaluating Unsupervised Approaches to Morphological Segmentation for Wolastoqey
+Baseline English and Maltese-English Classification Models for Subjectivity Detection, Sentiment Analysis, Emotion Analysis, Sarcasm Detection, and Irony Detection
+Building Open-source Speech Technology for Low-resource Minority Languages with SáMi as an Example – Tools, Methods and Experiments
+Investigating the Quality of Static Anchor Embeddings from Transformers for Under-Resourced Languages
+Introducing YakuToolkit. Yakut Treebank and Morphological Analyzer.
+A Language Model for Spell Checking of Educational Texts in Kurdish (Sorani)
+SimRelUz: Similarity and Relatedness Scores as a Semantic Evaluation Dataset for Uzbek Language
+ENRICH4ALL: A First Luxembourgish BERT Model for a Multilingual Chatbot
+Synthesis for the Kinematic Control of Identity in Sign Language
+Analysis of Torso Movement for Signing Avatar Using Deep Learning
+Isolated Sign Recognition using ASL Datasets with Consistent Text-based Gloss Labeling and Curriculum Learning
+Example-based Multilinear Sign Language Generation from a Hierarchical Representation
+Fine-tuning of Convolutional Neural Networks for the Recognition of Facial Expressions in Sign Language Video Samples
+Signing Avatar Performance Evaluation within EASIER Project
+Improving Signer Independent Sign Language Recognition for Low Resource Languages
+Improved Facial Realism through an Enhanced Representation of Anatomical Behavior in Sign Language Avatars
+KoSign Sign Language Translation Project: Introducing The NIASL2021 Dataset
+A Novel Approach to Managing Lower Face Complexity in Signing Avatars
+A Software Toolkit for Pre-processing Sign Language Video Streams
+Greek Sign Language Recognition for the SL-ReDu Learning Platform
+Signing Avatars in a New Dimension: Challenges and Opportunities in Virtual Reality
+Mouthing Recognition with OpenPose in Sign Language
+Skeletal Graph Self-Attention: Embedding a Skeleton Inductive Bias into Sign Language Production
+Multi-track Bottom-Up Synthesis from Non-Flattened AZee Scores
+First Steps Towards a Signing Avatar for Railway Travel Announcements in the Netherlands
+Changing the Representation: Examining Language Representation for Neural Sign Language Production
+Supporting Mouthing in Signed Languages: New innovations and a proposal for future corpus building
+Toward a Semi-Automated Scoping Review of Virtual Human Smiles
+Are You Smiling When I Am Speaking?
+Gender Differences, Smiling, and Economic Negotiation Outcomes
+A Measure of the Smiling Synchrony in the Conversational Face-to-face Interaction Corpus PACO-CHEESE
+Analysis of Co-Laughter Gesture Relationship on RGB Videos in Dyadic Conversation Context
+You Make Me Laugh! Friends, Strangers and Neurodiversity
+Intergroup Bias in Smile Discrimination in Autism
+Inhalation Noises as Endings of Laughs in Conversational Speech
+Are There Any Body-movement Differences between Women and Men When They Laugh?
+Laughter During Cooperative and Competitive Games
+Introducing the Digital Language Equality Metric: Technological Factors
+Introducing the Digital Language Equality Metric: Contextual Factors
+Collaborative Metadata Aggregation and Curation in Support of Digital Language Equality Monitoring
+Measuring HLT Research Equality of European Languages
+National Language Technology Platform for Public Administration
+The Nós Project: Opening routes for the Galician language in the field of language technologies
+Lexicon-driven approach for Terminology: specialized resources on the environment in Brazilian Portuguese
+Knowledge Representation and Language Simplification of Human Rights
+Converting from the Nordic Terminological Record Format to the TBX Format
+A Dataset for Term Extraction in Hindi
+Terminology extraction using co-occurrence patterns as predictors of semantic relevance
+Evaluating Pre-Trained Language Models for Focused Terminology Extraction from Swedish Medical Records
+D-Terminer: Online Demo for Monolingual and Bilingual Automatic Term Extraction
+Introducing EM-FT for Manipuri-English Neural Machine Translation
+L3Cube-HingCorpus and HingBERT: A Code Mixed Hindi-English Dataset and BERT Language Models
+Leveraging Sub Label Dependencies in Code Mixed Indian Languages for Part-Of-Speech Tagging using Conditional Random Fields.
+HindiWSD: A package for word sense disambiguation in Hinglish & Hindi
+Pāṇinian Phonological Changes: Computation and Development of Online Access System
+L3Cube-MahaNER: A Marathi Named Entity Recognition Dataset and BERT models
+Identifying Emotions in Code Mixed Hindi-English Tweets
+Digital Accessibility and Information Mining of Dharmaśāstric Knowledge Traditions
+Language Resource Building and English-to-Mizo Neural Machine Translation Encountering Tonal Words
+Classification of Multiword Expressions in Malayalam
+Bengali and Magahi PUD Treebank and Parser
+Makadi: A Large-Scale Human-Labeled Dataset for Hindi Semantic Parsing
+Automatic Identification of Explicit Connectives in Malayalam
+Web based System for Derivational Process of Kṛdanta based on Pāṇinian Grammatical Tradition
+Universal Dependency Treebank for Odia Language
+Computational Referencing System for Sanskrit Grammar
+L3Cube-MahaCorpus and MahaBERT: Marathi Monolingual Corpus, Marathi BERT Language Models, and Resources

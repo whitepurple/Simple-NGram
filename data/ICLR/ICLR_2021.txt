@@ -437,7 +437,7 @@ Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigat
 Perceptual Adversarial Robustness: Defense Against Unseen Threat Models
 Zero-Cost Proxies for Lightweight NAS
 Usable Information and Evolution of Optimal Representations During Training
-Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit
+Exploring the Uncertainty Properties of Neural Networks' Implicit Priors in the Infinite-Width Limit
 On the geometry of generalization and memorization in deep neural networks
 Deep Partition Aggregation: Provable Defenses against General Poisoning Attacks
 DC3: A learning method for optimization with hard constraints

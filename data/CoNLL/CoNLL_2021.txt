@@ -1,0 +1,52 @@
+"It's our fault!": Insights Into Users' Understanding and Interaction With an Explanatory Collaborative Dialog System
+Dependency Induction Through the Lens of Visual Perception
+VQA-MHUG: A Gaze Dataset to Study Multimodal Neural Attention in Visual Question Answering
+"It seemed like an annoying woman": On the Perception and Ethical Considerations of Affective Language in Text-Based Conversational Agents
+On Language Models for Creoles
+Do pretrained transformers infer telicity like humans?
+The Low-Dimensional Linear Geometry of Contextualized Word Representations
+Generalising to German Plural Noun Classes, from the Perspective of a Recurrent Neural Network
+Can Language Models Encode Perceptual Structure Without Grounding? A Case Study in Color
+Empathetic Dialog Generation with Fine-Grained Intents
+Enriching Language Models with Visually-grounded Word Vectors and the Lancaster Sensorimotor Norms
+Learning Zero-Shot Multifaceted Visually Grounded Word Embeddings via Multi-Task Training
+Does language help generalization in vision models?
+Understanding Guided Image Captioning Performance across Domains
+Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction
+Who's on First?: Probing the Learning and Representation Capabilities of Language Models on Deterministic Closed Domains
+Data Augmentation of Incorporating Real Error Patterns and Linguistic Knowledge for Grammatical Error Correction
+Agree to Disagree: Analysis of Inter-Annotator Disagreements in Human Evaluation of Machine Translation Output
+A Multilingual Benchmark for Probing Negation-Awareness with Minimal Pairs
+Explainable Natural Language to Bash Translation using Abstract Syntax Tree
+Learned Construction Grammars Converge Across Registers Given Increased Exposure
+Tokenization Repair in the Presence of Spelling Errors
+A Coarse-to-Fine Labeling Framework for Joint Word Segmentation, POS Tagging, and Constituent Parsing
+Understanding the Extent to which Content Quality Metrics Measure the Information Quality of Summaries
+Summary-Source Proposition-level Alignment: Task, Datasets and Supervised Baseline
+Exploring Metaphoric Paraphrase Generation
+Imposing Relation Structure in Language-Model Embeddings Using Contrastive Learning
+NOPE: A Corpus of Naturally-Occurring Presuppositions in English
+Pragmatic competence of pre-trained language models through the lens of discourse connectives
+Predicting Text Readability from Scrolling Interactions
+Modeling the Interaction Between Perception-Based and Production-Based Learning in Children's Early Acquisition of Semantic Knowledge
+Scaffolded input promotes atomic organization in the recurrent neural network language model
+Grammatical Profiling for Semantic Change Detection
+Deconstructing syntactic generalizations with minimalist grammars
+Relation-aware Bidirectional Path Reasoning for Commonsense Question Answering
+Does referent predictability affect the choice of referential form? A computational approach using masked coreference resolution
+Polar Embedding
+Commonsense Knowledge in Word Associations and ConceptNet
+Cross-document Event Identity via Dense Annotation
+Tackling Zero Pronoun Resolution and Non-Zero Coreference Resolution Jointly
+Negation-Instance Based Evaluation of End-to-End Negation Resolution
+Controlling Prosody in End-to-End TTS: A Case Study on Contrastive Focus Generation
+A Large-scale Comprehensive Abusiveness Detection Dataset with Multifaceted Labels from Reddit
+MirrorWiC: On Eliciting Word-in-Context Representations from Pretrained Language Models
+A Data Bootstrapping Recipe for Low-Resource Multilingual Relation Classification
+FAST: A carefully sampled and cognitively motivated dataset for distributional semantic evaluation
+Automatic Error Type Annotation for Arabic
+The Emergence of the Shape Bias Results from Communicative Efficiency
+BabyBERTa: Learning More Grammar With Small-Scale Child-Directed Language
+Analysing Human Strategies of Information Transmission as a Function of Discourse Context
+Predicting non-native speech perception using the Perceptual Assimilation Model and state-of-the-art acoustic models
+The Influence of Regional Pronunciation Variation on Children's Spelling and the Potential Benefits of Accent Adapted Spellcheckers

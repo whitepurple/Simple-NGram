@@ -1,6 +1,6 @@
 Vocabulary Learning via Optimal Transport for Neural Machine Translation
 Including Signed Languages in Natural Language Processing
-All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text
+All That's 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text
 Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning
 Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering
 Neural Machine Translation with Monolingual Translation Memory
@@ -18,7 +18,7 @@ Evaluating Evaluation Measures for Ordinal Classification and Ordinal Quantifica
 SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues
 Meta-KD: A Meta Knowledge Distillation Framework for Language Model Compression across Domains
 DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations
-A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger’s Adversarial Attacks
+A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger's Adversarial Attacks
 Cross-Lingual Abstractive Summarization with Limited Parallel Resources
 Rewriter-Evaluator Architecture for Neural Machine Translation
 HERALD: An Annotation Efficient Method to Detect User Disengagement in Social Conversations
@@ -218,11 +218,11 @@ COINS: Dynamically Generating COntextualized Inference Rules for Narrative Story
 Bridge-Based Active Domain Adaptation for Aspect Term Extraction
 The Limitations of Limited Context for Constituency Parsing
 Dynamic Contextualized Word Embeddings
-Superbizarre Is Not Superb: Derivational Morphology Improves BERT’s Interpretation of Complex Words
+Superbizarre Is Not Superb: Derivational Morphology Improves BERT's Interpretation of Complex Words
 RADDLE: An Evaluation Benchmark and Analysis Platform for Robust Task-oriented Dialog Systems
 How Knowledge Graph and Attention Help? A Qualitative Analysis into Bag-level Relation Extraction
 InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection
-Bird’s Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach
+Bird's Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach
 A DQN-based Approach to Finding Precise Evidences for Fact Verification
 Topic-Driven and Knowledge-Aware Transformer for Dialogue Emotion Detection
 RAW-C: Relatedness of Ambiguous Words in Context (A New Lexical Resource for English)
@@ -279,7 +279,7 @@ Distributed Representations of Emotion Categories in Emotion Space
 Transfer Learning for Sequence Generation: from Single-source to Multi-source
 HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation
 Trigger is Not Sufficient: Exploiting Frame-aware Knowledge for Implicit Event Argument Extraction
-Can vectors read minds better than experts? Comparing data augmentation strategies for the automated scoring of children’s mindreading ability
+Can vectors read minds better than experts? Comparing data augmentation strategies for the automated scoring of children's mindreading ability
 Multi-hop Graph Convolutional Network with High-order Chebyshev Approximation for Text Reasoning
 Conversations Are Not Flat: Modeling the Dynamic Information Flow across Dialogue Utterances
 Determinantal Beam Search
@@ -503,7 +503,7 @@ Joint Models for Answer Verification in Question Answering Systems
 Language Model Augmented Relevance Score
 Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution
 Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation
-All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text
+All That's 'Human' Is Not Gold: Evaluating Human Evaluation of Generated Text
 ReadOnce Transformers: Reusable Representations of Text for Transformers
 Automatic ICD Coding via Interactive Shared Representation Networks with Self-distillation Mechanism
 E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning
@@ -676,7 +676,7 @@ Detecting Hallucinated Content in Conditional Neural Sequence Generation
 K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters
 Global Attention Decoder for Chinese Spelling Error Correction
 Exploring the Role of Context in Utterance-level Emotion, Act and Intent Classification in Conversations: An Empirical Study
-Putting words into the system’s mouth: A targeted attack on neural machine translation using monolingual data poisoning
+Putting words into the system's mouth: A targeted attack on neural machine translation using monolingual data poisoning
 Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction
 PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support
 RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge
@@ -704,7 +704,7 @@ Gaussian Process based Deep Dyna-Q approach for Dialogue Policy Learning
 CiteWorth: Cite-Worthiness Detection for Improved Scientific Document Understanding
 Counter-Argument Generation by Attacking Weak Premises
 Template-Based Named Entity Recognition Using BART
-“Does it Matter When I Think You Are Lying?” Improving Deception Detection by Integrating Interlocutor’s Judgements in Conversations
+"Does it Matter When I Think You Are Lying?" Improving Deception Detection by Integrating Interlocutor's Judgements in Conversations
 High-Quality Dialogue Diversification by Intermittent Short Extension Ensembles
 Structured Refinement for Sequential Labeling
 End-to-End Construction of NLP Knowledge Graph
@@ -770,7 +770,7 @@ Two Parents, One Child: Dual Transfer for Low-Resource Neural Machine Translatio
 Contrastive Aligned Joint Learning for Multilingual Summarization
 When Time Makes Sense: A Historically-Aware Approach to Targeted Sense Disambiguation
 Understanding Feature Focus in Multitask Settings for Lexico-semantic Relation Identification
-Don’t Miss the Labels: Label-semantic Augmented Meta-Learner for Few-Shot Text Classification
+Don't Miss the Labels: Label-semantic Augmented Meta-Learner for Few-Shot Text Classification
 Detecting Harmful Memes and Their Targets
 ZmBART: An Unsupervised Cross-lingual Transfer Framework for Language Generation
 HacRED: A Large-Scale Relation Extraction Dataset Toward Hard Cases in Practical Applications
@@ -812,7 +812,7 @@ Representing Syntax and Composition with Geometric Transformations
 To Point or Not to Point: Understanding How Abstractive Summarizers Paraphrase Text
 AgreeSum: Agreement-Oriented Multi-Document Summarization
 BERT Busters: Outlier Dimensions that Disrupt Transformers
-“We will Reduce Taxes” - Identifying Election Pledges with Language Models
+"We will Reduce Taxes" - Identifying Election Pledges with Language Models
 WeaQA: Weak Supervision via Captions for Visual Question Answering
 How well do you know your summarization datasets?
 Multilingual Translation from Denoising Pre-Training
@@ -821,7 +821,7 @@ Generating Informative Conclusions for Argumentative Texts
 Substructure Substitution: Structured Data Augmentation for NLP
 Towards Protecting Vital Healthcare Programs by Extracting Actionable Knowledge from Policy
 Not Far Away, Not So Close: Sample Efficient Nearest Neighbour Data Augmentation via MiniMax
-It’s All in the Heads: Using Attention Heads as a Baseline for Cross-Lingual Transfer in Commonsense Reasoning
+It's All in the Heads: Using Attention Heads as a Baseline for Cross-Lingual Transfer in Commonsense Reasoning
 Biomedical Interpretable Entity Representations
 Learning Robust Latent Representations for Controllable Speech Synthesis
 How to Split: the Effect of Word Segmentation on Gender Bias in Speech Translation
@@ -868,7 +868,7 @@ VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding
 Corpus-Level Evaluation for Event QA: The IndiaPoliceEvents Corpus Covering the 2002 Gujarat Violence
 Memory-Efficient Differentiable Transformer Architecture Search
 On the Copying Behaviors of Pre-Training for Neural Machine Translation
-Grounding ‘Grounding’ in NLP
+Grounding 'Grounding' in NLP
 MLMLM: Link Prediction with Mean Likelihood Masked Language Model
 Effective Batching for Recurrent Neural Network Grammars
 Verb Sense Clustering using Contextualized Word Representations for Semantic Frame Induction

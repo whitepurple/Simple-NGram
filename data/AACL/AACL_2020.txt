@@ -11,7 +11,7 @@ All-in-One: A Deep Attentive Multi-task Learning Framework for Humour, Sarcasm, 
 AMR quality rating with a lightweight CNN 
 An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks 
 An Exploratory Study on Multilingual Quality Estimation 
-Analysis of Hierarchical Multi-Content Text Classification Model on B-SHARP Dataset for Early Detection of Alzheimer’s Disease 
+Analysis of Hierarchical Multi-Content Text Classification Model on B-SHARP Dataset for Early Detection of Alzheimer's Disease 
 Answering Product-related Questions with Heterogeneous Information 
 Are scene graphs good enough to improve Image Captioning? 
 Asking Crowdworkers to Write Entailment Examples: The Best of Bad Options 
@@ -60,11 +60,11 @@ Leveraging Structured Metadata for Improving Question Answering on the Web
 Lightweight Text Classifier using Sinusoidal Positional Encoding 
 Liputan6: A Large-scale Indonesian Dataset for Text Summarisation 
 MaP: A Matrix-based Prediction Approach to Improve Span Extraction in Machine Reading Comprehension 
-Massively Multilingual Document Alignment with Cross-lingualSentence-Mover’s Distance 
+Massively Multilingual Document Alignment with Cross-lingualSentence-Mover's Distance 
 Measuring What Counts: The case of Rumour Stance Classification 
 Mixed-Lingual Pre-training for Cross-lingual Summarization 
 Modality-Transferable Emotion Embeddings for Low-Resource Multimodal Emotion Recognition 
-Modeling Event Salience in a Narrative Based on Barthes’ Cardinal Function 
+Modeling Event Salience in a Narrative Based on Barthes' Cardinal Function 
 More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction 
 Multimodal Pretraining for Dense Video Captioning 
 Multi-Source Attention for Unsupervised Domain Adaptation 

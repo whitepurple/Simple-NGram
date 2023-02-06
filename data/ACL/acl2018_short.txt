@@ -109,7 +109,7 @@ Named Entity Recognition With Parallel Recurrent Neural Networks
 A Simple and Effective Approach to Coverage-Aware Neural Machine Translation
 Deep RNNs Encode Soft Hierarchical Syntax
 Identification of Alias Links among Participants in Narratives
-Know What You Don’t Know: Unanswerable Questions for SQuAD
+Know What You Don't Know: Unanswerable Questions for SQuAD
 Bag-of-Words as Target for Neural Machine Translation
 Pretraining Sentiment Classifiers with Unlabeled Dialog Data
 Extreme Adaptation for Personalized Neural Machine Translation

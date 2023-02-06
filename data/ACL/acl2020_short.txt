@@ -50,7 +50,7 @@ Dialogue State Tracking with Explicit Slot Connection Modeling
 Do Transformers Need Deep Long-Range Memory?
 Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods
 Does Multi-Encoder Help? A Case Study on Context-Aware Neural Machine Translation
-Don’t Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction
+Don't Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction
 Dscorer: A Fast Evaluation Metric for Discourse Representation Structure Parsing
 Dynamic Memory Induction Networks for Few-Shot Text Classification
 Dynamic Sampling Strategies for Multi-Task Reading Comprehension
@@ -93,7 +93,7 @@ Instance-Based Learning of Span Representations: A Case Study through Named Enti
 Interpretable Operational Risk Classification with Semi-Supervised Variational Autoencoder
 Interpreting Twitter User Geolocation
 Is Your Classifier Actually Biased? Measuring Fairness under Uncertainty with Bernstein Bounds
-It’s Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information
+It's Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information
 Keyphrase Generation for Scientific Document Retrieval
 Knowledge Supports Visual Language Grounding: A Case Study on Colour Terms
 Language-aware Interlingua for Multilingual Neural Machine Translation
@@ -127,7 +127,7 @@ Neural Graph Matching Networks for Chinese Short Text Matching
 Neural Temporal Opinion Modelling for Opinion Prediction on Twitter
 Neural-DINF: A Neural Network based Framework for Measuring Document Inﬂuence
 Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces
-“None of the Above”: Measure Uncertainty in Dialog Response Retrieval
+"None of the Above": Measure Uncertainty in Dialog Response Retrieval
 On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation
 On Forgetting to Cite Older Papers: An Analysis of the ACL Anthology
 On Importance Sampling-Based Evaluation of Latent Language Models
@@ -159,7 +159,7 @@ Self-Attention with Cross-Lingual Position Representation
 Sentence Meta-Embeddings for Unsupervised Semantic Textual Similarity
 Shape of synth to come: Why we should use synthetic data for English surface realization
 Shaping Visual Representations with Language for Few-Shot Classification
-Showing Your Work Doesn’t Always Work
+Showing Your Work Doesn't Always Work
 Simple and Effective Retrieve-Edit-Rerank Text Generation
 Simultaneous Translation Policies: From Fixed to Adaptive
 Single Model Ensemble using Pseudo-Tags and Distinct Vectors
@@ -198,11 +198,11 @@ Verbal Multiword Expressions for Identification of Metaphor
 Video-Grounded Dialogues with Pretrained Generation Language Models
 What Does BERT with Vision Look At?
 What is Learned in Visually Grounded Neural Syntax Acquisition
-Why Overfitting Isn’t Always Bad: Retrofitting Cross-Lingual Word Embeddings to Dictionaries
-Will-They-Won’t-They: A Very Large Dataset for Stance Detection on Twitter
-Words aren’t enough, their order matters: On the Robustness of Grounding Visual Referring Expressions
+Why Overfitting Isn't Always Bad: Retrofitting Cross-Lingual Word Embeddings to Dictionaries
+Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter
+Words aren't enough, their order matters: On the Robustness of Grounding Visual Referring Expressions
 Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation
 Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences
-You Don’t Have Time to Read This: An Exploration of Document Reading Time Prediction
-``You Sound Just Like Your Father’’ Commercial Machine Translation Systems Include Stylistic Biases
+You Don't Have Time to Read This: An Exploration of Document Reading Time Prediction
+``You Sound Just Like Your Father'' Commercial Machine Translation Systems Include Stylistic Biases
 ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT

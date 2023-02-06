@@ -25,7 +25,7 @@ A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extr
 A Span-based Linearization for Constituent Trees
 A Study of Non-autoregressive Model for Sequence Generation
 A Systematic Assessment of Syntactic Generalization in Neural Language Models
-A Tale of Two Perplexities: Sensitivity of Neural Language Models to Lexical Retrieval Deficits in Dementia of the Alzheimer’s Type
+A Tale of Two Perplexities: Sensitivity of Neural Language Models to Lexical Retrieval Deficits in Dementia of the Alzheimer's Type
 A Top-down Neural Architecture towards Text-level Parsing of Discourse Rhetorical Structure
 A Unified MRC Framework for Named Entity Recognition
 Adaptive Compression of Word Embeddings
@@ -80,7 +80,7 @@ Building a User-Generated Content North-African Arabizi Treebank: Tackling Hell
 Calibrating Structured Output Predictors for Natural Language Processing
 CamemBERT: a Tasty French Language Model
 Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction
-Can You Put it All Together: Evaluating Conversational Agents’ Ability to Blend Skills
+Can You Put it All Together: Evaluating Conversational Agents' Ability to Blend Skills
 CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation
 ChartDialogs: Plotting from Natural Language Instructions
 CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality
@@ -133,8 +133,8 @@ Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Langua
 Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension
 Document Translation vs. Query Translation for Cross-Lingual Information Retrieval in the Medical Domain
 Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding
-Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training
-Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks
+Don't Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training
+Don't Stop Pretraining: Adapt Language Models to Domains and Tasks
 DoQA - Accessing Domain-Specific FAQs via Conversational QA
 Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation
 DRTS Parsing with Structure-Aware Encoding and Decoding
@@ -203,7 +203,7 @@ GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on S
 Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer
 Gender Gap in Natural Language Processing Research: Disparities in Authorship and Citations
 Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus
-Generalized Entropy Regularization or: There’s Nothing Special about Label Smoothing
+Generalized Entropy Regularization or: There's Nothing Special about Label Smoothing
 Generalizing Natural Language Analysis through Span-relation Representations
 Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation
 Generating Counter Narratives against Online Hate Speech: Data and Strategies
@@ -225,7 +225,7 @@ Hard-Coded Gaussian Attention for Neural Machine Translation
 Harnessing the linguistic signal to predict scalar inferences
 Harvesting and Refining Question-Answer Pairs for Unsupervised QA
 HAT: Hardware-Aware Transformers for Efficient Natural Language Processing
-He said “who’s gonna take care of your children when you are at ACL?”: Reported Sexist Acts are Not Sexist
+He said "who's gonna take care of your children when you are at ACL?": Reported Sexist Acts are Not Sexist
 Heterogeneous Graph Neural Networks for Extractive Document Summarization
 Heterogeneous Graph Transformer for Graph-to-Sequence Learning
 Hierarchical Entity Typing via Multi-level Learning to Rank
@@ -236,7 +236,7 @@ Hiring Now: A Skill-Aware Multi-Attention Model for Job Posting Generation
 History for Visual Dialog: Do we really need it?
 Hooks in the Headline: Learning to Generate Headlines with Controlled Styles
 How Accents Confound: Probing for Accent Information in End-to-End Speech Recognition Systems
-How does BERT’s attention change when you fine-tune? An analysis methodology and a case study in negation scope
+How does BERT's attention change when you fine-tune? An analysis methodology and a case study in negation scope
 How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence
 How Does Selective Mechanism Improve Self-Attention Networks?
 How to Ask Good Questions? Try to Leverage Paraphrases
@@ -260,9 +260,9 @@ Improving Neural Machine Translation with Soft Template Prediction
 Improving Segmentation for Technical Support Problems
 Improving Transformer Models by Reordering their Sublayers
 Improving Truthfulness of Headline Generation
-In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts
+In Layman's Terms: Semi-Open Relation Extraction from Scientific Texts
 In Neural Machine Translation, What Does Transfer Learning Transfer?
-Inflecting when there’s no majority: Limitations of encoder-decoder neural networks as cognitive models for German plurals
+Inflecting when there's no majority: Limitations of encoder-decoder neural networks as cognitive models for German plurals
 Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models
 Information-Theoretic Probing for Linguistic Structure
 INFOTABS: Inference on Tables as Semi-structured Data
@@ -279,7 +279,7 @@ Investigating the effect of auxiliary objectives for the automated grading of le
 Investigating Word-Class Distributions in Word Vector Spaces
 iSarcasm: A Dataset of Intended Sarcasm
 It Takes Two to Lie: One to Lie, and One to Listen
-It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations
+It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations
 Iterative Edit-Based Unsupervised Sentence Simplification
 Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge
 Joint Diacritization, Lemmatization, Normalization, and Fine-Grained Morphological Tagging
@@ -508,7 +508,7 @@ Temporally-Informed Analysis of Named Entity Recognition
 Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates
 Text-Based Ideal Points
 That is a Known Lie: Detecting Previously Fact-Checked Claims
-“The Boating Store Had Its Best Sail Ever”: Pronunciation-attentive Contextualized Pun Recognition
+"The Boating Store Had Its Best Sail Ever": Pronunciation-attentive Contextualized Pun Recognition
 The Cascade Transformer: an Application for Efficient Answer Sentence Selection
 The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents
 The Paradigm Discovery Problem
@@ -535,7 +535,7 @@ Towards Unsupervised Language Understanding and Generation by Joint Dual Learnin
 Toxicity Detection: Does Context Really Matter?
 Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction
 Transition-based Semantic Dependency Parsing with Pointer Networks
-Translationese as a Language in “Multilingual” NMT
+Translationese as a Language in "Multilingual" NMT
 TransS-Driven Joint Learning Architecture for Implicit Discourse Relation Recognition
 TVQA+: Spatio-Temporal Grounding for Video Question Answering
 TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories
@@ -560,7 +560,7 @@ What determines the order of adjectives in English? Comparing efficiency-based t
 What Question Answering can Learn from Trivia Nerds
 What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context
 When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?
-“Who said it, and Why?” Provenance for Natural Language Claims
+"Who said it, and Why?" Provenance for Natural Language Claims
 WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge
 Word-level Textual Adversarial Attacking as Combinatorial Optimization
 XtremeDistil: Multi-stage Distillation for Massive Multilingual Models

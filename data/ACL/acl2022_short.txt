@@ -36,7 +36,7 @@ Estimating the Entropy of Linguistic Distributions
 Event-Event Relation Extraction using Probabilistic Box Embedding
 Exploiting Language Model Prompts Using Similarity Measures: A Case Study on the Word-in-Context Task
 Fire Burns, Sword Cuts: Commonsense Inductive Bias for Exploration in Text-based Games
-Focus on the Target’s Vocabulary: Masked Label Smoothing for Machine Translation
+Focus on the Target's Vocabulary: Masked Label Smoothing for Machine Translation
 Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension
 Hierarchical Curriculum Learning for AMR Parsing
 High probability or low information? The probability–quality paradox in language generation
@@ -80,12 +80,12 @@ Simple and Effective Knowledge-Driven Query Expansion for QA-Based Product Attri
 Sub-Word Alignment is Still Useful: A Vest-Pocket Method for Enhancing Low-Resource Machine Translation
 Text Smoothing: Enhance Various Data Augmentation Methods on Text Classification Tasks
 The Power of Prompt Tuning for Low-Resource Semantic Parsing
-To Find Waldo You Need Contextual Cues: Debiasing Who’s Waldo
+To Find Waldo You Need Contextual Cues: Debiasing Who's Waldo
 Towards Consistent Document-level Entity Linking: Joint Models for Entity Linking and Coreference Resolution
 Towards Fair Evaluation of Dialogue State Tracking by Flexible Incorporation of Turn-level Performances
 Translate-Train Embracing Translationese Artifacts
 Triangular Transfer: Freezing the Pivot for Triangular Machine Translation
-(Un)solving Morphological Inflection: Lemma Overlap Artificially Inflates Models’ Performance
+(Un)solving Morphological Inflection: Lemma Overlap Artificially Inflates Models' Performance
 Understanding Game-Playing Agents with Natural Language Annotations
 UniGDD: A Unified Generative Framework for Goal-Oriented Document-Grounded Dialogue
 Unsupervised multiple-choice question generation for out-of-domain Q&A fine-tuning

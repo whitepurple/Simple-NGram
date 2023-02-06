@@ -34,7 +34,7 @@ VecShare: A Framework for Sharing Word Representation Vectors
 Word Re-Embedding via Manifold Dimensionality Retention
 MUSE: Modularizing Unsupervised Sense Embeddings
 Reporting Score Distributions Makes a Difference: Performance Study of LSTM-networks for Sequence Tagging
-Learning What’s Easy: Fully Differentiable Neural Easy-First Taggers
+Learning What's Easy: Fully Differentiable Neural Easy-First Taggers
 Incremental Skip-gram Model with Negative Sampling
 Learning to select data for transfer learning with Bayesian Optimization
 Unsupervised Pretraining for Sequence to Sequence Learning
@@ -71,7 +71,7 @@ SCDV : Sparse Composite Document Vectors using soft clustering over distribution
 Supervised Learning of Universal Sentence Representations from Natural Language Inference Data
 Determining Semantic Textual Similarity using Natural Deduction Proofs
 Multi-Grained Chinese Word Segmentation
-Don’t Throw Those Morphological Analyzers Away Just Yet: Neural Morphological Disambiguation for Arabic
+Don't Throw Those Morphological Analyzers Away Just Yet: Neural Morphological Disambiguation for Arabic
 Paradigm Completion for Derivational Morphology
 A Sub-Character Architecture for Korean Language Processing
 Do LSTMs really work so well for PoS tagging? – A replication study
@@ -135,13 +135,13 @@ Learning Contextually Informed Representations for Linear-Time Discourse Parsing
 Multi-task Attention-based Neural Networks for Implicit Discourse Relationship Representation and Identification
 Chinese Zero Pronoun Resolution with Deep Memory Network
 How much progress have we made on RST discourse parsing? A replication study of recent results on the RST-DT
-What is it? Disambiguating the different readings of the pronoun ‘it’
+What is it? Disambiguating the different readings of the pronoun 'it'
 Revisiting Selectional Preferences for Coreference Resolution
 Learning to Rank Semantic Coherence for Topic Segmentation
 GRASP: Rich Patterns for Argumentation Mining
 Patterns of Argumentation Strategies across Topics
 Using Argument-based Features to Predict and Analyse Review Helpfulness
-Here’s My Point: Joint Pointer Architecture for Argument Mining
+Here's My Point: Joint Pointer Architecture for Argument Mining
 Identifying attack and support argumentative relations using deep learning
 Neural Lattice-to-Sequence Models for Uncertain Inputs
 Memory-augmented Neural Machine Translation
@@ -164,7 +164,7 @@ Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection
 Identifying civilians killed by police with distantly supervised entity-event extraction
 Asking too much? The rhetorical role of questions in political discourse
 Detecting Perspectives in Political Debates
-“i have a feeling trump will win..................”: Forecasting Winners and Losers from User Predictions on Twitter
+"i have a feeling trump will win..................": Forecasting Winners and Losers from User Predictions on Twitter
 A Question Answering Approach for Emotion Cause Extraction
 Story Comprehension for Predicting What Happens Next
 Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm
@@ -205,7 +205,7 @@ Adapting Topic Models using Lexical Associations with Tree Priors
 Finding Patterns in Noisy Crowds: Regression-based Annotation Aggregation for Crowdsourced Data
 CROWD-IN-THE-LOOP: A Hybrid Approach for Annotating Semantic Roles
 A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks
-Earth Mover’s Distance Minimization for Unsupervised Bilingual Lexicon Induction
+Earth Mover's Distance Minimization for Unsupervised Bilingual Lexicon Induction
 Unfolding and Shrinking Neural Machine Translation Ensembles
 Graph Convolutional Encoders for Syntax-aware Neural Machine Translation
 Trainable Greedy Decoding for Neural Machine Translation
@@ -263,7 +263,7 @@ Towards Debate Automation: a Recurrent Model for Predicting Debate Winners
 Further Investigation into Reference Bias in Monolingual Evaluation of Machine Translation
 A Challenge Set Approach to Evaluating Machine Translation
 Knowledge Distillation for Bilingual Dictionary Induction
-Machine Translation, it’s a question of style, innit? The case of English tag questions
+Machine Translation, it's a question of style, innit? The case of English tag questions
 Deciphering Related Languages
 Identifying Cognate Sets Across Dictionaries of Related Languages
 Learning Language Representations for Typology Prediction
@@ -319,6 +319,6 @@ Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Chec
 Topic-Based Agreement and Disagreement in US Electoral Manifestos
 Zipporah: a Fast and Scalable Data Cleaning System for Noisy Web-Crawled Parallel Corpora
 Bringing Structure into Summaries: Crowdsourcing a Benchmark Corpus of Concept Maps
-Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog
+Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog
 Depression and Self-Harm Risk Assessment in Online Forums
 Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints
